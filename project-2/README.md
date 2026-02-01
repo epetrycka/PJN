@@ -4,8 +4,6 @@ Aplikacja webowa oparta o Flask do składania poprawnych zdań w języku angiels
 
 > **Zakres zajęć:** projekt realizuje **zadanie 2**.
 
-![Podgląd aplikacji](img/main.png)
-
 ## Co robi aplikacja
 
 - Składa zdania po angielsku na podstawie wybranych elementów (S, V, O).

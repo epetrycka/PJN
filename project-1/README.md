@@ -14,14 +14,6 @@ Nowoczesny projekt do analizy korpusu językowego i wizualizacji wyników w apli
 
 Projekt realizuje **zadanie 1** (analiza języka) oraz **zadanie 3** (analizy i wizualizacje oparte o grafy).
 
-## Podgląd
-
-![Corpus](./img/corpus.png)
-![Zipf](./img/zipf.png)
-![Core graph](./img/core.png)
-![Nouns](./img/nouns.png)
-![Semantics](./img/semantic.png)
-
 ## Struktura projektu
 
 - [apps/backend](apps/backend) — pipeline przetwarzania danych i generowanie JSON‑ów.
