@@ -1,4 +1,4 @@
-import type { ZipfMetadata, ZipfPoint } from "../../../../commons/types";
+import type { ZipfMetadata, ZipfPoint } from "../../../commons/types";
 
 type ZipfChartProps = {
 	points: ZipfPoint[];

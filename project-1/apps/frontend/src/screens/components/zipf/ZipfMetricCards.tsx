@@ -1,4 +1,4 @@
-import type { ZipfMetadata } from "../../../../commons/types";
+import type { ZipfMetadata } from "../../../commons/types";
 
 type ZipfMetricCardsProps = {
 	metadata: ZipfMetadata;

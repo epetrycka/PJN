@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import useLanguageCore from "../../../hooks/useLanguageCore";
 import CoreGraph from "./CoreGraph";
 import CoreSidebar from "./CoreSidebar";

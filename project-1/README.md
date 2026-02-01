@@ -1,32 +1,57 @@
-# Projekt PJN — Analiza językowa
+# Projekt PJN — Statystyczna analiza języka portugalskiego
 
-Projekt demonstracyjny do analizy korpusowej i wizualizacji metryk językowych.
+Nowoczesny projekt do analizy korpusu językowego i wizualizacji wyników w aplikacji webowej.
 
-## Krótki opis
+## Najważniejsze funkcje
 
-- Backend: narzędzia przetwarzania korpusu, ekstrakcja rzeczowników, analiza częstości i metryk Zipfa.
-- Frontend: interaktywne UI zbudowane w React + Vite, prezentujące tabele, wykresy i graf rdzenia językowego.
+- Tabela częstości wyrazów z wyszukiwaniem i sortowaniem.
+- Analiza prawa Zipfa z metrykami dopasowania.
+- Graf rdzenia języka (najsilniej powiązane słowa).
+- Top 50 rzeczowników z tłumaczeniami.
+- Analiza semantyczna: grafy dwudzielne przymiotnik–rzeczownik i czasownik–rzeczownik.
 
-## Co robi projekt
+## Zakres zadania (zajęcia)
 
-Analizuje korpus językowy, wylicza częstotliwości słów, liczy metryki Zipfa oraz buduje graf „language core”, a następnie udostępnia wyniki w interfejsie webowym z tabelami i wykresami.
+Projekt realizuje **zadanie 1** (analiza języka) oraz **zadanie 3** (analizy i wizualizacje oparte o grafy).
 
+## Podgląd
 
-![Corpus](./img/corpus.png) ![Zipf](./img/zipf.png) ![Core graph](./img/core.png) ![Nouns](./img/nouns.png) ![Semantics](./img/semantic.png)
+![Corpus](./img/corpus.png)
+![Zipf](./img/zipf.png)
+![Core graph](./img/core.png)
+![Nouns](./img/nouns.png)
+![Semantics](./img/semantic.png)
 
-## Główne foldery
+## Struktura projektu
 
-- [apps/backend](apps/backend): kod przetwarzania danych i analizy (zobacz README tamże).
-- [apps/frontend](apps/frontend): aplikacja kliencka (React + Vite + Tailwind/DaisyUI).
-- [img](img): grafiki używane w README i w interfejsie.
+- [apps/backend](apps/backend) — pipeline przetwarzania danych i generowanie JSON‑ów.
+- [apps/frontend](apps/frontend) — aplikacja React + Vite + Tailwind + DaisyUI.
+- [img](img) — zrzuty ekranu użyte w README.
 
-## Pliki danych w frontendzie
+## Dane wejściowe i wyjściowe
 
-- Statyczne dane używane przez UI znajdują się w [apps/frontend/src/data](apps/frontend/src/data).
+Wyniki przetwarzania zapisywane są w [apps/backend/data/processed](apps/backend/data/processed),
+a następnie kopiowane do [apps/frontend/src/data](apps/frontend/src/data), skąd korzysta UI.
 
-## Uruchomienie frontendu (lokalnie)
+## Uruchomienie backendu (pipeline)
 
-1. Wejdź do katalogu frontendu:
+1. Przejdź do katalogu backendu:
+
+```bash
+cd apps/backend
+```
+
+2. Uruchom pełny pipeline (generuje dane i kopiuje je do frontendu):
+
+```bash
+uv run python run_pipeline.py
+```
+
+> Wymagania Python znajdują się w [apps/backend/pyproject.toml](apps/backend/pyproject.toml).
+
+## Uruchomienie frontendu
+
+1. Przejdź do katalogu frontendu:
 
 ```bash
 cd apps/frontend
@@ -38,21 +63,26 @@ cd apps/frontend
 npm install
 ```
 
-3. Uruchom środowisko deweloperskie:
+3. Start w trybie developerskim:
 
 ```bash
 npm run dev
 ```
 
-Domyślnie Vite udostępnia aplikację pod adresem http://localhost:5173 — otwórz tę stronę w przeglądarce.
+Aplikacja działa domyślnie pod adresem http://localhost:5173.
 
-4. (Opcjonalnie) Zbuduj i podglądaj produkcyjną wersję:
+## Build produkcyjny
 
 ```bash
 npm run build
 npm run preview
 ```
 
-Jeżeli używasz `pnpm` lub `yarn`, zastąp odpowiednio krok instalacji poleceniem `pnpm install` lub `yarn`.
+## Wskazówki
 
-Jeżeli potrzebujesz, mogę dodać skrypt uruchamiający backend lub przykładowe dane do szybkiego startu.
+- Jeśli dane nie odświeżają się w UI, uruchom ponownie pipeline backendu.
+- Projekt zakłada korpus portugalski; filtry usuwają pojedyncze litery i szum.
+
+---
+
+Jeśli chcesz dodać nowe metryki lub rozbudować UI, daj znać — dopasuję architekturę i styling.
