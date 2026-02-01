@@ -1,12 +1,16 @@
-# Projekt 2 (PJN) - Generator zdań
+# Projekt 2 — Generator zdań (zadanie 2)
 
-Prosta aplikacja webowa oparta o Flask, która generuje angielskie zdania w różnych czasach i trybach na podstawie wybranych elementów (podmiot, czasownik, dopełnienie).
+Aplikacja webowa oparta o Flask do składania poprawnych zdań w języku angielskim w modelu **SVO (Subject–Verb–Object)**.
+
+> **Zakres zajęć:** projekt realizuje **zadanie 2**.
 
 ![Podgląd aplikacji](img/main.png)
 
-## O aplikacji
+## Co robi aplikacja
 
-Aplikacja pozwala składać poprawne zdania po angielsku, łącząc podmiot, czasownik i dopełnienie, a następnie odmieniając czasownik i dobierając rodzajniki. Wspiera podstawowe czasy i tryby, więc nadaje się do nauki gramatyki oraz szybkiego testowania przykładów.
+- Składa zdania po angielsku na podstawie wybranych elementów (S, V, O).
+- Obsługuje tryby i czasy (m.in. present, past, future, perfect, continuous).
+- Dobiera rodzajniki i odmianę czasownika.
 
 ## Wymagania
 
@@ -15,19 +19,12 @@ Aplikacja pozwala składać poprawne zdania po angielsku, łącząc podmiot, cza
 
 ## Szybki start
 
-1. Utwórz środowisko i zainstaluj zależności:
-
 ```bash
 make install
-```
-
-2. Uruchom aplikację:
-
-```bash
 make run
 ```
 
-Serwer wystartuje lokalnie pod adresem `http://127.0.0.1:5000`.
+Aplikacja działa pod adresem http://127.0.0.1:5000.
 
 ## Uruchomienie bez Makefile
 
@@ -46,9 +43,7 @@ make dev
 
 ## API
 
-### `POST /generate`
-
-Przykładowe wywołanie:
+### POST /generate
 
 ```bash
 curl -X POST http://127.0.0.1:5000/generate ^
@@ -59,7 +54,7 @@ curl -X POST http://127.0.0.1:5000/generate ^
   \"mode\":\"affirmative\"}"
 ```
 
-Odpowiedź:
+Przykładowa odpowiedź:
 
 ```json
 {"sentence":"The cat eats an apple."}
@@ -67,15 +62,15 @@ Odpowiedź:
 
 ## Struktura projektu
 
-- `app.py` - główna aplikacja Flask i routing
-- `engine.py` - logika składania zdania i odmiany czasowników
-- `data.py` - dane wejściowe (czasowniki, rzeczowniki, przymiotniki)
-- `templates/` - szablony HTML
-- `static/` - CSS i JS
+- app.py — główna aplikacja Flask i routing
+- engine.py — logika składania zdania i odmiany czasowników
+- data.py — dane wejściowe (czasowniki, rzeczowniki, przymiotniki)
+- templates/ — szablony HTML
+- static/ — CSS i JS
 
-## Dostępne cele Makefile
+## Makefile
 
-- `make install` - tworzy venv i instaluje zależności
-- `make run` - uruchamia aplikację
-- `make dev` - uruchamia serwer developerski Flask
-- `make clean` - usuwa środowisko wirtualne
+- make install — tworzy venv i instaluje zależności
+- make run — uruchamia aplikację
+- make dev — tryb developerski Flask
+- make clean — usuwa środowisko wirtualne
