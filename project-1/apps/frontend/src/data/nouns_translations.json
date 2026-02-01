@@ -1,0 +1,358 @@
+{
+  "metadata": {
+    "limit": 50,
+    "source_total_tokens": 860656
+  },
+  "data": [
+    {
+      "rank": 5,
+      "word": "ano",
+      "count": 2779,
+      "translation_pl": "rok",
+      "translation_en": "year"
+    },
+    {
+      "rank": 7,
+      "word": "artigo",
+      "count": 2225,
+      "translation_pl": "artykuł",
+      "translation_en": "article"
+    },
+    {
+      "rank": 8,
+      "word": "outro",
+      "count": 2075,
+      "translation_pl": "Inny",
+      "translation_en": "other"
+    },
+    {
+      "rank": 10,
+      "word": "janeiro",
+      "count": 2026,
+      "translation_pl": "Styczeń",
+      "translation_en": "January"
+    },
+    {
+      "rank": 13,
+      "word": "agosto",
+      "count": 1970,
+      "translation_pl": "Sierpień",
+      "translation_en": "August"
+    },
+    {
+      "rank": 14,
+      "word": "primeiro",
+      "count": 1942,
+      "translation_pl": "Pierwszy",
+      "translation_en": "first"
+    },
+    {
+      "rank": 15,
+      "word": "brasil",
+      "count": 1905,
+      "translation_pl": "Brazylia",
+      "translation_en": "Brazil"
+    },
+    {
+      "rank": 16,
+      "word": "maio",
+      "count": 1900,
+      "translation_pl": "Móc",
+      "translation_en": "May"
+    },
+    {
+      "rank": 18,
+      "word": "julho",
+      "count": 1810,
+      "translation_pl": "Lipiec",
+      "translation_en": "July"
+    },
+    {
+      "rank": 19,
+      "word": "dezembro",
+      "count": 1689,
+      "translation_pl": "Grudzień",
+      "translation_en": "December"
+    },
+    {
+      "rank": 20,
+      "word": "março",
+      "count": 1688,
+      "translation_pl": "marzec",
+      "translation_en": "March"
+    },
+    {
+      "rank": 21,
+      "word": "junho",
+      "count": 1590,
+      "translation_pl": "Czerwiec",
+      "translation_en": "June"
+    },
+    {
+      "rank": 23,
+      "word": "outubro",
+      "count": 1558,
+      "translation_pl": "Październik",
+      "translation_en": "October"
+    },
+    {
+      "rank": 25,
+      "word": "setembro",
+      "count": 1525,
+      "translation_pl": "Wrzesień",
+      "translation_en": "September"
+    },
+    {
+      "rank": 26,
+      "word": "novo",
+      "count": 1498,
+      "translation_pl": "nowy",
+      "translation_en": "new"
+    },
+    {
+      "rank": 27,
+      "word": "todo",
+      "count": 1437,
+      "translation_pl": "Wszystko",
+      "translation_en": "all"
+    },
+    {
+      "rank": 28,
+      "word": "novembro",
+      "count": 1401,
+      "translation_pl": "Listopad",
+      "translation_en": "November"
+    },
+    {
+      "rank": 29,
+      "word": "fonte",
+      "count": 1364,
+      "translation_pl": "źródło",
+      "translation_en": "source"
+    },
+    {
+      "rank": 30,
+      "word": "dia",
+      "count": 1351,
+      "translation_pl": "dzień",
+      "translation_en": "day"
+    },
+    {
+      "rank": 31,
+      "word": "nome",
+      "count": 1324,
+      "translation_pl": "nazwa",
+      "translation_en": "name"
+    },
+    {
+      "rank": 32,
+      "word": "fevereiro",
+      "count": 1322,
+      "translation_pl": "Luty",
+      "translation_en": "February"
+    },
+    {
+      "rank": 35,
+      "word": "segundo",
+      "count": 1220,
+      "translation_pl": "drugi",
+      "translation_en": "second"
+    },
+    {
+      "rank": 36,
+      "word": "grande",
+      "count": 1193,
+      "translation_pl": "duży",
+      "translation_en": "big"
+    },
+    {
+      "rank": 37,
+      "word": "wikipédia",
+      "count": 1168,
+      "translation_pl": "wikipedia",
+      "translation_en": "wikipedia"
+    },
+    {
+      "rank": 38,
+      "word": "página",
+      "count": 1163,
+      "translation_pl": "strona",
+      "translation_en": "page"
+    },
+    {
+      "rank": 39,
+      "word": "santo",
+      "count": 1137,
+      "translation_pl": "święty",
+      "translation_en": "holy"
+    },
+    {
+      "rank": 41,
+      "word": "esboço",
+      "count": 1117,
+      "translation_pl": "zarys",
+      "translation_en": "outline"
+    },
+    {
+      "rank": 42,
+      "word": "asteroide",
+      "count": 1105,
+      "translation_pl": "asteroida",
+      "translation_en": "asteroid"
+    },
+    {
+      "rank": 44,
+      "word": "unido",
+      "count": 1085,
+      "translation_pl": "zjednoczony",
+      "translation_en": "united"
+    },
+    {
+      "rank": 46,
+      "word": "estado",
+      "count": 1045,
+      "translation_pl": "państwo",
+      "translation_en": "state"
+    },
+    {
+      "rank": 47,
+      "word": "grupo",
+      "count": 1027,
+      "translation_pl": "grupa",
+      "translation_en": "group"
+    },
+    {
+      "rank": 48,
+      "word": "cidade",
+      "count": 1000,
+      "translation_pl": "miasto",
+      "translation_en": "city"
+    },
+    {
+      "rank": 49,
+      "word": "história",
+      "count": 995,
+      "translation_pl": "historia",
+      "translation_en": "history"
+    },
+    {
+      "rank": 51,
+      "word": "músico",
+      "count": 984,
+      "translation_pl": "muzyk",
+      "translation_en": "musician"
+    },
+    {
+      "rank": 52,
+      "word": "paulo",
+      "count": 977,
+      "translation_pl": "Paweł",
+      "translation_en": "Paul"
+    },
+    {
+      "rank": 53,
+      "word": "região",
+      "count": 954,
+      "translation_pl": "region",
+      "translation_en": "region"
+    },
+    {
+      "rank": 59,
+      "word": "família",
+      "count": 903,
+      "translation_pl": "rodzina",
+      "translation_en": "family"
+    },
+    {
+      "rank": 63,
+      "word": "brasileiro",
+      "count": 889,
+      "translation_pl": "brazylijski",
+      "translation_en": "Brazilian"
+    },
+    {
+      "rank": 64,
+      "word": "dado",
+      "count": 886,
+      "translation_pl": "dany",
+      "translation_en": "given"
+    },
+    {
+      "rank": 65,
+      "word": "jogo",
+      "count": 884,
+      "translation_pl": "gra",
+      "translation_en": "game"
+    },
+    {
+      "rank": 68,
+      "word": "cópia",
+      "count": 821,
+      "translation_pl": "kopia",
+      "translation_en": "copy"
+    },
+    {
+      "rank": 69,
+      "word": "período",
+      "count": 819,
+      "translation_pl": "okres",
+      "translation_en": "period"
+    },
+    {
+      "rank": 70,
+      "word": "título",
+      "count": 815,
+      "translation_pl": "tytuł",
+      "translation_en": "title"
+    },
+    {
+      "rank": 71,
+      "word": "espécie",
+      "count": 815,
+      "translation_pl": "gatunek",
+      "translation_en": "species"
+    },
+    {
+      "rank": 72,
+      "word": "área",
+      "count": 812,
+      "translation_pl": "obszar",
+      "translation_en": "area"
+    },
+    {
+      "rank": 75,
+      "word": "canção",
+      "count": 793,
+      "translation_pl": "piosenka",
+      "translation_en": "song"
+    },
+    {
+      "rank": 76,
+      "word": "lançamento",
+      "count": 793,
+      "translation_pl": "początek",
+      "translation_en": "launch"
+    },
+    {
+      "rank": 78,
+      "word": "categoria",
+      "count": 786,
+      "translation_pl": "kategoria",
+      "translation_en": "category"
+    },
+    {
+      "rank": 86,
+      "word": "campeonato",
+      "count": 734,
+      "translation_pl": "mistrzostwo",
+      "translation_en": "championship"
+    },
+    {
+      "rank": 87,
+      "word": "século",
+      "count": 732,
+      "translation_pl": "wiek",
+      "translation_en": "century"
+    }
+  ]
+}

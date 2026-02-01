@@ -1,0 +1,8 @@
+.DS_Store
+*.tar
+.idea
+venv
+__pycache__
+*.ndjson
+node_modules
+.env

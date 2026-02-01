@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>English SVO Sentence Builder</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+
+<div class="container">
+    <h1>English SVO Builder</h1>
+    <p>Wybierz parametry, aby zbudować zdanie.</p>
+
+    <div class="builder-box">
+        <div class="section subject-section">
+            <h2>1. Subject (S)</h2>
+            <label>Determiner:</label>
+            <select id="s_det">
+                <option value="">(none)</option>
+                <option value="indefinite">a/an</option>
+                <option value="definite">the</option>
+                <option value="my">my</option>
+                <option value="your">your</option>
+                <option value="this">this</option>
+                <option value="that">that</option>
+            </select>
+
+            <label>Adjective:</label>
+            <select id="s_adj">
+                <option value="">(none)</option>
+                {% for adj in adjectives %}
+                <option value="{{ adj }}">{{ adj }}</option>
+                {% endfor %}
+            </select>
+
+            <label>Noun:</label>
+            <select id="s_noun">
+                {% for noun in subject_nouns %}
+                <option value="{{ noun }}">{{ noun }}</option>
+                {% endfor %}
+            </select>
+
+            <label>Number:</label>
+            <select id="s_num">
+                <option value="singular">Singular (1)</option>
+                <option value="plural">Plural (>1)</option>
+            </select>
+        </div>
+
+        <div class="section verb-section">
+            <h2>2. Verb (V)</h2>
+            <label>Verb:</label>
+            <select id="verb">
+                {% for verb in verbs %}
+                <option value="{{ verb }}">{{ verb }}</option>
+                {% endfor %}
+            </select>
+
+            <label>Tense:</label>
+            <select id="tense">
+                <option value="present">Present Simple</option>
+                <option value="past">Past Simple</option>
+                <option value="future">Future Simple</option>
+                <option value="present_continuous">Present Continuous</option>
+                <option value="present_perfect">Present Perfect</option>
+            </select>
+
+            <label>Mode:</label>
+            <select id="mode">
+                <option value="affirmative">Twierdzenie (Affirmative)</option>
+                <option value="negative">Przeczenie (Negative)</option>
+                <option value="question">Pytanie (Question)</option>
+                <option value="conditional">Przypuszczający (Conditional)</option>
+                <option value="imperative">Rozkazujący (Imperative)</option>
+            </select>
+        </div>
+
+        <div class="section object-section">
+            <h2>3. Object (O)</h2>
+            <label>Determiner:</label>
+            <select id="o_det">
+                <option value="">(none)</option>
+                <option value="indefinite">a/an</option>
+                <option value="definite">the</option>
+                <option value="my">my</option>
+                <option value="your">your</option>
+                <option value="this">this</option>
+            </select>
+
+            <label>Adjective:</label>
+            <select id="o_adj">
+                <option value="">(none)</option>
+                {% for adj in adjectives %}
+                <option value="{{ adj }}">{{ adj }}</option>
+                {% endfor %}
+            </select>
+
+            <label>Noun:</label>
+            <select id="o_noun">
+                {% for noun in object_nouns %}
+                <option value="{{ noun }}">{{ noun }}</option>
+                {% endfor %}
+            </select>
+
+            <label>Number:</label>
+            <select id="o_num">
+                <option value="singular">Singular (1)</option>
+                <option value="plural">Plural (>1)</option>
+            </select>
+        </div>
+    </div>
+
+    <button onclick="generateSentence()" class="generate-btn">Generuj zdanie</button>
+
+    <div class="result-container">
+        <h3>Wynik:</h3>
+        <div id="result-text" class="sentence-output">...</div>
+    </div>
+</div>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

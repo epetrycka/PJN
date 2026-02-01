@@ -1,0 +1,5950 @@
+{
+  "metadata": {
+    "target_tokens": 100000,
+    "total_tokens_observed": 100000,
+    "lemma_strategy": "stanza[pt]",
+    "pos_strategy": "stanza[upos]",
+    "top_n": 100,
+    "min_connection": 1
+  },
+  "adjective_noun": {
+    "metadata": {
+      "left_label": "przymiotniki",
+      "right_label": "rzeczowniki",
+      "left_count": 100,
+      "right_count": 100,
+      "edge_count": 410
+    },
+    "left_nodes": [
+      {
+        "id": "primeiro",
+        "frequency": 244
+      },
+      {
+        "id": "novo",
+        "frequency": 104
+      },
+      {
+        "id": "principal",
+        "frequency": 76
+      },
+      {
+        "id": "feminino",
+        "frequency": 73
+      },
+      {
+        "id": "mesmo",
+        "frequency": 69
+      },
+      {
+        "id": "musical",
+        "frequency": 69
+      },
+      {
+        "id": "grande",
+        "frequency": 64
+      },
+      {
+        "id": "segundo",
+        "frequency": 64
+      },
+      {
+        "id": "maior",
+        "frequency": 60
+      },
+      {
+        "id": "oficial",
+        "frequency": 52
+      },
+      {
+        "id": "último",
+        "frequency": 48
+      },
+      {
+        "id": "brasileiro",
+        "frequency": 48
+      },
+      {
+        "id": "externo",
+        "frequency": 46
+      },
+      {
+        "id": "verificável",
+        "frequency": 42
+      },
+      {
+        "id": "bom",
+        "frequency": 41
+      },
+      {
+        "id": "diferente",
+        "frequency": 40
+      },
+      {
+        "id": "japonês",
+        "frequency": 36
+      },
+      {
+        "id": "melhor",
+        "frequency": 35
+      },
+      {
+        "id": "terceiro",
+        "frequency": 34
+      },
+      {
+        "id": "original",
+        "frequency": 29
+      },
+      {
+        "id": "confiável",
+        "frequency": 26
+      },
+      {
+        "id": "islâmico",
+        "frequency": 25
+      },
+      {
+        "id": "geral",
+        "frequency": 24
+      },
+      {
+        "id": "próprio",
+        "frequency": 24
+      },
+      {
+        "id": "alto",
+        "frequency": 23
+      },
+      {
+        "id": "interno",
+        "frequency": 22
+      },
+      {
+        "id": "superior",
+        "frequency": 21
+      },
+      {
+        "id": "único",
+        "frequency": 21
+      },
+      {
+        "id": "global",
+        "frequency": 21
+      },
+      {
+        "id": "seguinte",
+        "frequency": 21
+      },
+      {
+        "id": "nacional",
+        "frequency": 21
+      },
+      {
+        "id": "agrícola",
+        "frequency": 21
+      },
+      {
+        "id": "individual",
+        "frequency": 20
+      },
+      {
+        "id": "internacional",
+        "frequency": 20
+      },
+      {
+        "id": "quinto",
+        "frequency": 20
+      },
+      {
+        "id": "longo",
+        "frequency": 20
+      },
+      {
+        "id": "português",
+        "frequency": 20
+      },
+      {
+        "id": "extratropical",
+        "frequency": 20
+      },
+      {
+        "id": "digital",
+        "frequency": 19
+      },
+      {
+        "id": "público",
+        "frequency": 19
+      },
+      {
+        "id": "quarto",
+        "frequency": 19
+      },
+      {
+        "id": "final",
+        "frequency": 19
+      },
+      {
+        "id": "social",
+        "frequency": 18
+      },
+      {
+        "id": "importante",
+        "frequency": 18
+      },
+      {
+        "id": "completo",
+        "frequency": 18
+      },
+      {
+        "id": "popular",
+        "frequency": 17
+      },
+      {
+        "id": "coreano",
+        "frequency": 17
+      },
+      {
+        "id": "quântico",
+        "frequency": 16
+      },
+      {
+        "id": "sustentável",
+        "frequency": 16
+      },
+      {
+        "id": "pequeno",
+        "frequency": 15
+      },
+      {
+        "id": "atual",
+        "frequency": 15
+      },
+      {
+        "id": "pessoal",
+        "frequency": 15
+      },
+      {
+        "id": "adequado",
+        "frequency": 14
+      },
+      {
+        "id": "disponível",
+        "frequency": 14
+      },
+      {
+        "id": "anterior",
+        "frequency": 14
+      },
+      {
+        "id": "comum",
+        "frequency": 14
+      },
+      {
+        "id": "profissional",
+        "frequency": 14
+      },
+      {
+        "id": "claro",
+        "frequency": 14
+      },
+      {
+        "id": "masculino",
+        "frequency": 14
+      },
+      {
+        "id": "britânico",
+        "frequency": 14
+      },
+      {
+        "id": "eletrônico",
+        "frequency": 13
+      },
+      {
+        "id": "humano",
+        "frequency": 13
+      },
+      {
+        "id": "menor",
+        "frequency": 13
+      },
+      {
+        "id": "académico",
+        "frequency": 13
+      },
+      {
+        "id": "aéreo",
+        "frequency": 13
+      },
+      {
+        "id": "baixo",
+        "frequency": 12
+      },
+      {
+        "id": "jovem",
+        "frequency": 12
+      },
+      {
+        "id": "oitavo",
+        "frequency": 12
+      },
+      {
+        "id": "solo",
+        "frequency": 12
+      },
+      {
+        "id": "político",
+        "frequency": 12
+      },
+      {
+        "id": "rural",
+        "frequency": 12
+      },
+      {
+        "id": "mundial",
+        "frequency": 12
+      },
+      {
+        "id": "ambiental",
+        "frequency": 12
+      },
+      {
+        "id": "especial",
+        "frequency": 12
+      },
+      {
+        "id": "europeu",
+        "frequency": 12
+      },
+      {
+        "id": "natural",
+        "frequency": 12
+      },
+      {
+        "id": "médio",
+        "frequency": 12
+      },
+      {
+        "id": "biológico",
+        "frequency": 11
+      },
+      {
+        "id": "histórico",
+        "frequency": 11
+      },
+      {
+        "id": "bíblico",
+        "frequency": 11
+      },
+      {
+        "id": "local",
+        "frequency": 11
+      },
+      {
+        "id": "adicional",
+        "frequency": 11
+      },
+      {
+        "id": "décimo",
+        "frequency": 11
+      },
+      {
+        "id": "comercial",
+        "frequency": 11
+      },
+      {
+        "id": "consecutivo",
+        "frequency": 11
+      },
+      {
+        "id": "rápido",
+        "frequency": 10
+      },
+      {
+        "id": "velho",
+        "frequency": 10
+      },
+      {
+        "id": "real",
+        "frequency": 10
+      },
+      {
+        "id": "antigo",
+        "frequency": 10
+      },
+      {
+        "id": "próximo",
+        "frequency": 10
+      },
+      {
+        "id": "clássico",
+        "frequency": 10
+      },
+      {
+        "id": "fundamental",
+        "frequency": 10
+      },
+      {
+        "id": "inicial",
+        "frequency": 10
+      },
+      {
+        "id": "sonoro",
+        "frequency": 10
+      },
+      {
+        "id": "primeira",
+        "frequency": 10
+      },
+      {
+        "id": "total",
+        "frequency": 10
+      },
+      {
+        "id": "americano",
+        "frequency": 10
+      },
+      {
+        "id": "independente",
+        "frequency": 10
+      },
+      {
+        "id": "científico",
+        "frequency": 10
+      },
+      {
+        "id": "tradicional",
+        "frequency": 9
+      }
+    ],
+    "right_nodes": [
+      {
+        "id": "abril",
+        "frequency": 438
+      },
+      {
+        "id": "coreano",
+        "frequency": 369
+      },
+      {
+        "id": "inglês",
+        "frequency": 339
+      },
+      {
+        "id": "cópia",
+        "frequency": 315
+      },
+      {
+        "id": "maio",
+        "frequency": 300
+      },
+      {
+        "id": "agosto",
+        "frequency": 276
+      },
+      {
+        "id": "grupo",
+        "frequency": 258
+      },
+      {
+        "id": "dezembro",
+        "frequency": 253
+      },
+      {
+        "id": "julho",
+        "frequency": 252
+      },
+      {
+        "id": "junho",
+        "frequency": 223
+      },
+      {
+        "id": "outubro",
+        "frequency": 204
+      },
+      {
+        "id": "setembro",
+        "frequency": 193
+      },
+      {
+        "id": "álbum",
+        "frequency": 192
+      },
+      {
+        "id": "novembro",
+        "frequency": 187
+      },
+      {
+        "id": "março",
+        "frequency": 183
+      },
+      {
+        "id": "ano",
+        "frequency": 181
+      },
+      {
+        "id": "artigo",
+        "frequency": 180
+      },
+      {
+        "id": "janeiro",
+        "frequency": 172
+      },
+      {
+        "id": "fevereiro",
+        "frequency": 169
+      },
+      {
+        "id": "single",
+        "frequency": 159
+      },
+      {
+        "id": "página",
+        "frequency": 145
+      },
+      {
+        "id": "música",
+        "frequency": 140
+      },
+      {
+        "id": "canção",
+        "frequency": 131
+      },
+      {
+        "id": "referência",
+        "frequency": 120
+      },
+      {
+        "id": "fonte",
+        "frequency": 115
+      },
+      {
+        "id": "lugar",
+        "frequency": 95
+      },
+      {
+        "id": "faixa",
+        "frequency": 87
+      },
+      {
+        "id": "nome",
+        "frequency": 86
+      },
+      {
+        "id": "vídeo",
+        "frequency": 82
+      },
+      {
+        "id": "dia",
+        "frequency": 81
+      },
+      {
+        "id": "agrotóxico",
+        "frequency": 80
+      },
+      {
+        "id": "lançamento",
+        "frequency": 77
+      },
+      {
+        "id": "número",
+        "frequency": 71
+      },
+      {
+        "id": "conteúdo",
+        "frequency": 69
+      },
+      {
+        "id": "parada",
+        "frequency": 68
+      },
+      {
+        "id": "vez",
+        "frequency": 66
+      },
+      {
+        "id": "estreia",
+        "frequency": 66
+      },
+      {
+        "id": "parte",
+        "frequency": 64
+      },
+      {
+        "id": "equipe",
+        "frequency": 63
+      },
+      {
+        "id": "show",
+        "frequency": 63
+      },
+      {
+        "id": "programa",
+        "frequency": 61
+      },
+      {
+        "id": "versão",
+        "frequency": 60
+      },
+      {
+        "id": "país",
+        "frequency": 58
+      },
+      {
+        "id": "lista",
+        "frequency": 58
+      },
+      {
+        "id": "tempo",
+        "frequency": 57
+      },
+      {
+        "id": "esboço",
+        "frequency": 57
+      },
+      {
+        "id": "mi",
+        "frequency": 57
+      },
+      {
+        "id": "portal",
+        "frequency": 56
+      },
+      {
+        "id": "sq",
+        "frequency": 56
+      },
+      {
+        "id": "membro",
+        "frequency": 55
+      },
+      {
+        "id": "mundo",
+        "frequency": 55
+      },
+      {
+        "id": "wikipédia",
+        "frequency": 54
+      },
+      {
+        "id": "ligação",
+        "frequency": 54
+      },
+      {
+        "id": "forma",
+        "frequency": 54
+      },
+      {
+        "id": "rodada",
+        "frequency": 53
+      },
+      {
+        "id": "estado",
+        "frequency": 52
+      },
+      {
+        "id": "ponto",
+        "frequency": 51
+      },
+      {
+        "id": "posição",
+        "frequency": 49
+      },
+      {
+        "id": "título",
+        "frequency": 48
+      },
+      {
+        "id": "disco",
+        "frequency": 48
+      },
+      {
+        "id": "mulher",
+        "frequency": 47
+      },
+      {
+        "id": "prêmio",
+        "frequency": 47
+      },
+      {
+        "id": "banda",
+        "frequency": 47
+      },
+      {
+        "id": "pessoa",
+        "frequency": 46
+      },
+      {
+        "id": "uso",
+        "frequency": 46
+      },
+      {
+        "id": "série",
+        "frequency": 45
+      },
+      {
+        "id": "história",
+        "frequency": 45
+      },
+      {
+        "id": "sucesso",
+        "frequency": 45
+      },
+      {
+        "id": "trabalho",
+        "frequency": 44
+      },
+      {
+        "id": "imagem",
+        "frequency": 44
+      },
+      {
+        "id": "temporada",
+        "frequency": 44
+      },
+      {
+        "id": "produção",
+        "frequency": 41
+      },
+      {
+        "id": "videoclipe",
+        "frequency": 41
+      },
+      {
+        "id": "empresa",
+        "frequency": 40
+      },
+      {
+        "id": "sistema",
+        "frequency": 40
+      },
+      {
+        "id": "cidade",
+        "frequency": 39
+      },
+      {
+        "id": "hangul",
+        "frequency": 38
+      },
+      {
+        "id": "semana",
+        "frequency": 38
+      },
+      {
+        "id": "produto",
+        "frequency": 38
+      },
+      {
+        "id": "gravação",
+        "frequency": 37
+      },
+      {
+        "id": "nota",
+        "frequency": 36
+      },
+      {
+        "id": "informação",
+        "frequency": 36
+      },
+      {
+        "id": "língua",
+        "frequency": 35
+      },
+      {
+        "id": "categoria",
+        "frequency": 35
+      },
+      {
+        "id": "acordo",
+        "frequency": 35
+      },
+      {
+        "id": "área",
+        "frequency": 35
+      },
+      {
+        "id": "integrante",
+        "frequency": 35
+      },
+      {
+        "id": "fim",
+        "frequency": 34
+      },
+      {
+        "id": "turnê",
+        "frequency": 34
+      },
+      {
+        "id": "evento",
+        "frequency": 33
+      },
+      {
+        "id": "tipo",
+        "frequency": 33
+      },
+      {
+        "id": "edição",
+        "frequency": 33
+      },
+      {
+        "id": "lado",
+        "frequency": 33
+      },
+      {
+        "id": "relação",
+        "frequency": 32
+      },
+      {
+        "id": "vitória",
+        "frequency": 32
+      },
+      {
+        "id": "clube",
+        "frequency": 31
+      },
+      {
+        "id": "jornal",
+        "frequency": 31
+      },
+      {
+        "id": "terra",
+        "frequency": 30
+      },
+      {
+        "id": "original",
+        "frequency": 30
+      },
+      {
+        "id": "vocal",
+        "frequency": 30
+      }
+    ],
+    "edges": [
+      {
+        "source": "último",
+        "target": "ano",
+        "weight": 3
+      },
+      {
+        "source": "confiável",
+        "target": "fonte",
+        "weight": 26
+      },
+      {
+        "source": "mesmo",
+        "target": "nome",
+        "weight": 11
+      },
+      {
+        "source": "externo",
+        "target": "ligação",
+        "weight": 39
+      },
+      {
+        "source": "interno",
+        "target": "ligação",
+        "weight": 10
+      },
+      {
+        "source": "adequado",
+        "target": "artigo",
+        "weight": 10
+      },
+      {
+        "source": "grande",
+        "target": "empresa",
+        "weight": 1
+      },
+      {
+        "source": "principal",
+        "target": "cidade",
+        "weight": 1
+      },
+      {
+        "source": "maior",
+        "target": "parte",
+        "weight": 5
+      },
+      {
+        "source": "externo",
+        "target": "artigo",
+        "weight": 1
+      },
+      {
+        "source": "biológico",
+        "target": "sistema",
+        "weight": 2
+      },
+      {
+        "source": "real",
+        "target": "tempo",
+        "weight": 6
+      },
+      {
+        "source": "superior",
+        "target": "novembro",
+        "weight": 1
+      },
+      {
+        "source": "profissional",
+        "target": "equipe",
+        "weight": 2
+      },
+      {
+        "source": "oitavo",
+        "target": "álbum",
+        "weight": 1
+      },
+      {
+        "source": "solo",
+        "target": "álbum",
+        "weight": 4
+      },
+      {
+        "source": "atual",
+        "target": "uso",
+        "weight": 1
+      },
+      {
+        "source": "histórico",
+        "target": "informação",
+        "weight": 1
+      },
+      {
+        "source": "musical",
+        "target": "grupo",
+        "weight": 4
+      },
+      {
+        "source": "oficial",
+        "target": "página",
+        "weight": 7
+      },
+      {
+        "source": "externo",
+        "target": "portal",
+        "weight": 1
+      },
+      {
+        "source": "fundamental",
+        "target": "mundo",
+        "weight": 1
+      },
+      {
+        "source": "atual",
+        "target": "forma",
+        "weight": 1
+      },
+      {
+        "source": "diferente",
+        "target": "tipo",
+        "weight": 2
+      },
+      {
+        "source": "fundamental",
+        "target": "fonte",
+        "weight": 1
+      },
+      {
+        "source": "mesmo",
+        "target": "tipo",
+        "weight": 3
+      },
+      {
+        "source": "clássico",
+        "target": "terra",
+        "weight": 1
+      },
+      {
+        "source": "grande",
+        "target": "parte",
+        "weight": 5
+      },
+      {
+        "source": "público",
+        "target": "pessoa",
+        "weight": 1
+      },
+      {
+        "source": "mesmo",
+        "target": "tempo",
+        "weight": 4
+      },
+      {
+        "source": "seguinte",
+        "target": "ano",
+        "weight": 5
+      },
+      {
+        "source": "superior",
+        "target": "maio",
+        "weight": 2
+      },
+      {
+        "source": "eletrônico",
+        "target": "parte",
+        "weight": 1
+      },
+      {
+        "source": "geral",
+        "target": "uso",
+        "weight": 3
+      },
+      {
+        "source": "primeiro",
+        "target": "edição",
+        "weight": 6
+      },
+      {
+        "source": "último",
+        "target": "edição",
+        "weight": 3
+      },
+      {
+        "source": "primeiro",
+        "target": "história",
+        "weight": 1
+      },
+      {
+        "source": "antigo",
+        "target": "empresa",
+        "weight": 1
+      },
+      {
+        "source": "segundo",
+        "target": "ano",
+        "weight": 2
+      },
+      {
+        "source": "terceiro",
+        "target": "lugar",
+        "weight": 4
+      },
+      {
+        "source": "superior",
+        "target": "setembro",
+        "weight": 1
+      },
+      {
+        "source": "adicional",
+        "target": "fonte",
+        "weight": 2
+      },
+      {
+        "source": "popular",
+        "target": "canção",
+        "weight": 1
+      },
+      {
+        "source": "bom",
+        "target": "edição",
+        "weight": 2
+      },
+      {
+        "source": "externo",
+        "target": "página",
+        "weight": 5
+      },
+      {
+        "source": "principal",
+        "target": "página",
+        "weight": 4
+      },
+      {
+        "source": "masculino",
+        "target": "equipe",
+        "weight": 4
+      },
+      {
+        "source": "primeira",
+        "target": "parte",
+        "weight": 2
+      },
+      {
+        "source": "feminino",
+        "target": "equipe",
+        "weight": 1
+      },
+      {
+        "source": "alto",
+        "target": "parte",
+        "weight": 1
+      },
+      {
+        "source": "total",
+        "target": "área",
+        "weight": 3
+      },
+      {
+        "source": "diferente",
+        "target": "estado",
+        "weight": 1
+      },
+      {
+        "source": "baixo",
+        "target": "parte",
+        "weight": 1
+      },
+      {
+        "source": "diferente",
+        "target": "sistema",
+        "weight": 1
+      },
+      {
+        "source": "ambiental",
+        "target": "ligação",
+        "weight": 1
+      },
+      {
+        "source": "externo",
+        "target": "lista",
+        "weight": 1
+      },
+      {
+        "source": "feminino",
+        "target": "grupo",
+        "weight": 44
+      },
+      {
+        "source": "oficial",
+        "target": "estreia",
+        "weight": 4
+      },
+      {
+        "source": "primeiro",
+        "target": "semana",
+        "weight": 10
+      },
+      {
+        "source": "primeiro",
+        "target": "junho",
+        "weight": 1
+      },
+      {
+        "source": "primeiro",
+        "target": "single",
+        "weight": 22
+      },
+      {
+        "source": "musical",
+        "target": "vídeo",
+        "weight": 9
+      },
+      {
+        "source": "principal",
+        "target": "faixa",
+        "weight": 2
+      },
+      {
+        "source": "décimo",
+        "target": "lugar",
+        "weight": 1
+      },
+      {
+        "source": "digital",
+        "target": "lugar",
+        "weight": 1
+      },
+      {
+        "source": "final",
+        "target": "rodada",
+        "weight": 1
+      },
+      {
+        "source": "comercial",
+        "target": "sucesso",
+        "weight": 7
+      },
+      {
+        "source": "primeiro",
+        "target": "vitória",
+        "weight": 9
+      },
+      {
+        "source": "global",
+        "target": "vitória",
+        "weight": 1
+      },
+      {
+        "source": "musical",
+        "target": "álbum",
+        "weight": 1
+      },
+      {
+        "source": "seguinte",
+        "target": "semana",
+        "weight": 1
+      },
+      {
+        "source": "primeiro",
+        "target": "show",
+        "weight": 5
+      },
+      {
+        "source": "digital",
+        "target": "single",
+        "weight": 10
+      },
+      {
+        "source": "principal",
+        "target": "canção",
+        "weight": 1
+      },
+      {
+        "source": "atual",
+        "target": "lançamento",
+        "weight": 1
+      },
+      {
+        "source": "bom",
+        "target": "vocal",
+        "weight": 1
+      },
+      {
+        "source": "oitavo",
+        "target": "novembro",
+        "weight": 1
+      },
+      {
+        "source": "principal",
+        "target": "single",
+        "weight": 11
+      },
+      {
+        "source": "quarto",
+        "target": "show",
+        "weight": 1
+      },
+      {
+        "source": "novo",
+        "target": "single",
+        "weight": 4
+      },
+      {
+        "source": "segundo",
+        "target": "álbum",
+        "weight": 7
+      },
+      {
+        "source": "musical",
+        "target": "programa",
+        "weight": 19
+      },
+      {
+        "source": "terceiro",
+        "target": "canção",
+        "weight": 2
+      },
+      {
+        "source": "japonês",
+        "target": "canção",
+        "weight": 1
+      },
+      {
+        "source": "digital",
+        "target": "canção",
+        "weight": 1
+      },
+      {
+        "source": "japonês",
+        "target": "versão",
+        "weight": 9
+      },
+      {
+        "source": "segundo",
+        "target": "grupo",
+        "weight": 2
+      },
+      {
+        "source": "coreano",
+        "target": "grupo",
+        "weight": 1
+      },
+      {
+        "source": "solo",
+        "target": "música",
+        "weight": 2
+      },
+      {
+        "source": "especial",
+        "target": "single",
+        "weight": 1
+      },
+      {
+        "source": "primeiro",
+        "target": "turnê",
+        "weight": 8
+      },
+      {
+        "source": "americano",
+        "target": "turnê",
+        "weight": 1
+      },
+      {
+        "source": "principal",
+        "target": "artigo",
+        "weight": 15
+      },
+      {
+        "source": "bom",
+        "target": "álbum",
+        "weight": 1
+      },
+      {
+        "source": "bom",
+        "target": "posição",
+        "weight": 3
+      },
+      {
+        "source": "principal",
+        "target": "integrante",
+        "weight": 1
+      },
+      {
+        "source": "principal",
+        "target": "lista",
+        "weight": 3
+      },
+      {
+        "source": "geral",
+        "target": "informação",
+        "weight": 5
+      },
+      {
+        "source": "primeiro",
+        "target": "integrante",
+        "weight": 1
+      },
+      {
+        "source": "último",
+        "target": "sucesso",
+        "weight": 1
+      },
+      {
+        "source": "último",
+        "target": "integrante",
+        "weight": 1
+      },
+      {
+        "source": "mesmo",
+        "target": "ano",
+        "weight": 9
+      },
+      {
+        "source": "masculino",
+        "target": "grupo",
+        "weight": 1
+      },
+      {
+        "source": "primeiro",
+        "target": "lugar",
+        "weight": 30
+      },
+      {
+        "source": "primeiro",
+        "target": "grupo",
+        "weight": 5
+      },
+      {
+        "source": "grande",
+        "target": "estreia",
+        "weight": 2
+      },
+      {
+        "source": "novo",
+        "target": "grupo",
+        "weight": 8
+      },
+      {
+        "source": "oitavo",
+        "target": "posição",
+        "weight": 3
+      },
+      {
+        "source": "segundo",
+        "target": "canção",
+        "weight": 3
+      },
+      {
+        "source": "musical",
+        "target": "música",
+        "weight": 1
+      },
+      {
+        "source": "diferente",
+        "target": "cidade",
+        "weight": 3
+      },
+      {
+        "source": "primeiro",
+        "target": "canção",
+        "weight": 4
+      },
+      {
+        "source": "oitavo",
+        "target": "lugar",
+        "weight": 1
+      },
+      {
+        "source": "bom",
+        "target": "música",
+        "weight": 6
+      },
+      {
+        "source": "primeiro",
+        "target": "álbum",
+        "weight": 18
+      },
+      {
+        "source": "quinto",
+        "target": "lugar",
+        "weight": 5
+      },
+      {
+        "source": "segundo",
+        "target": "lançamento",
+        "weight": 1
+      },
+      {
+        "source": "primeiro",
+        "target": "evento",
+        "weight": 1
+      },
+      {
+        "source": "global",
+        "target": "evento",
+        "weight": 1
+      },
+      {
+        "source": "japonês",
+        "target": "single",
+        "weight": 3
+      },
+      {
+        "source": "mundial",
+        "target": "turnê",
+        "weight": 8
+      },
+      {
+        "source": "segundo",
+        "target": "single",
+        "weight": 6
+      },
+      {
+        "source": "primeiro",
+        "target": "faixa",
+        "weight": 2
+      },
+      {
+        "source": "solo",
+        "target": "faixa",
+        "weight": 1
+      },
+      {
+        "source": "especial",
+        "target": "vídeo",
+        "weight": 1
+      },
+      {
+        "source": "primeiro",
+        "target": "prêmio",
+        "weight": 3
+      },
+      {
+        "source": "grande",
+        "target": "prêmio",
+        "weight": 7
+      },
+      {
+        "source": "final",
+        "target": "lugar",
+        "weight": 1
+      },
+      {
+        "source": "masculino",
+        "target": "lugar",
+        "weight": 1
+      },
+      {
+        "source": "novo",
+        "target": "banda",
+        "weight": 1
+      },
+      {
+        "source": "feminino",
+        "target": "banda",
+        "weight": 1
+      },
+      {
+        "source": "menor",
+        "target": "tempo",
+        "weight": 2
+      },
+      {
+        "source": "novo",
+        "target": "vídeo",
+        "weight": 3
+      },
+      {
+        "source": "musical",
+        "target": "prêmio",
+        "weight": 3
+      },
+      {
+        "source": "bom",
+        "target": "canção",
+        "weight": 3
+      },
+      {
+        "source": "quarto",
+        "target": "vez",
+        "weight": 1
+      },
+      {
+        "source": "consecutivo",
+        "target": "vez",
+        "weight": 1
+      },
+      {
+        "source": "novo",
+        "target": "álbum",
+        "weight": 5
+      },
+      {
+        "source": "global",
+        "target": "parada",
+        "weight": 3
+      },
+      {
+        "source": "japonês",
+        "target": "estreia",
+        "weight": 3
+      },
+      {
+        "source": "grande",
+        "target": "sucesso",
+        "weight": 3
+      },
+      {
+        "source": "completo",
+        "target": "álbum",
+        "weight": 5
+      },
+      {
+        "source": "primeira",
+        "target": "julho",
+        "weight": 1
+      },
+      {
+        "source": "primeira",
+        "target": "turnê",
+        "weight": 3
+      },
+      {
+        "source": "japonês",
+        "target": "álbum",
+        "weight": 4
+      },
+      {
+        "source": "segundo",
+        "target": "turnê",
+        "weight": 1
+      },
+      {
+        "source": "novo",
+        "target": "produto",
+        "weight": 1
+      },
+      {
+        "source": "popular",
+        "target": "grupo",
+        "weight": 2
+      },
+      {
+        "source": "próprio",
+        "target": "conteúdo",
+        "weight": 2
+      },
+      {
+        "source": "próprio",
+        "target": "programa",
+        "weight": 1
+      },
+      {
+        "source": "português",
+        "target": "canção",
+        "weight": 1
+      },
+      {
+        "source": "total",
+        "target": "ponto",
+        "weight": 2
+      },
+      {
+        "source": "seguinte",
+        "target": "dia",
+        "weight": 1
+      },
+      {
+        "source": "original",
+        "target": "forma",
+        "weight": 1
+      },
+      {
+        "source": "grande",
+        "target": "área",
+        "weight": 1
+      },
+      {
+        "source": "claro",
+        "target": "dia",
+        "weight": 1
+      },
+      {
+        "source": "aéreo",
+        "target": "empresa",
+        "weight": 1
+      },
+      {
+        "source": "internacional",
+        "target": "membro",
+        "weight": 1
+      },
+      {
+        "source": "pessoal",
+        "target": "página",
+        "weight": 4
+      },
+      {
+        "source": "científico",
+        "target": "nome",
+        "weight": 1
+      },
+      {
+        "source": "interno",
+        "target": "parte",
+        "weight": 1
+      },
+      {
+        "source": "pequeno",
+        "target": "área",
+        "weight": 1
+      },
+      {
+        "source": "geral",
+        "target": "edição",
+        "weight": 2
+      },
+      {
+        "source": "antigo",
+        "target": "estado",
+        "weight": 2
+      },
+      {
+        "source": "antigo",
+        "target": "forma",
+        "weight": 1
+      },
+      {
+        "source": "total",
+        "target": "ano",
+        "weight": 1
+      },
+      {
+        "source": "brasileiro",
+        "target": "estado",
+        "weight": 4
+      },
+      {
+        "source": "maior",
+        "target": "lado",
+        "weight": 1
+      },
+      {
+        "source": "menor",
+        "target": "lado",
+        "weight": 1
+      },
+      {
+        "source": "original",
+        "target": "língua",
+        "weight": 2
+      },
+      {
+        "source": "último",
+        "target": "tempo",
+        "weight": 1
+      },
+      {
+        "source": "original",
+        "target": "programa",
+        "weight": 1
+      },
+      {
+        "source": "brasileiro",
+        "target": "original",
+        "weight": 1
+      },
+      {
+        "source": "brasileiro",
+        "target": "programa",
+        "weight": 1
+      },
+      {
+        "source": "atual",
+        "target": "temporada",
+        "weight": 1
+      },
+      {
+        "source": "diferente",
+        "target": "nome",
+        "weight": 1
+      },
+      {
+        "source": "jovem",
+        "target": "vez",
+        "weight": 1
+      },
+      {
+        "source": "profissional",
+        "target": "clube",
+        "weight": 1
+      },
+      {
+        "source": "brasileiro",
+        "target": "clube",
+        "weight": 1
+      },
+      {
+        "source": "terceiro",
+        "target": "estado",
+        "weight": 1
+      },
+      {
+        "source": "internacional",
+        "target": "dia",
+        "weight": 3
+      },
+      {
+        "source": "público",
+        "target": "informação",
+        "weight": 1
+      },
+      {
+        "source": "terceiro",
+        "target": "álbum",
+        "weight": 3
+      },
+      {
+        "source": "verificável",
+        "target": "agosto",
+        "weight": 1
+      },
+      {
+        "source": "disponível",
+        "target": "sistema",
+        "weight": 1
+      },
+      {
+        "source": "primeiro",
+        "target": "rodada",
+        "weight": 5
+      },
+      {
+        "source": "melhor",
+        "target": "série",
+        "weight": 1
+      },
+      {
+        "source": "bom",
+        "target": "equipe",
+        "weight": 2
+      },
+      {
+        "source": "seguinte",
+        "target": "ponto",
+        "weight": 1
+      },
+      {
+        "source": "maior",
+        "target": "vitória",
+        "weight": 1
+      },
+      {
+        "source": "mesmo",
+        "target": "número",
+        "weight": 1
+      },
+      {
+        "source": "maior",
+        "target": "número",
+        "weight": 6
+      },
+      {
+        "source": "fundamental",
+        "target": "estado",
+        "weight": 1
+      },
+      {
+        "source": "quântico",
+        "target": "estado",
+        "weight": 4
+      },
+      {
+        "source": "interno",
+        "target": "produto",
+        "weight": 4
+      },
+      {
+        "source": "natural",
+        "target": "mundo",
+        "weight": 2
+      },
+      {
+        "source": "natural",
+        "target": "área",
+        "weight": 1
+      },
+      {
+        "source": "real",
+        "target": "imagem",
+        "weight": 1
+      },
+      {
+        "source": "comercial",
+        "target": "parada",
+        "weight": 1
+      },
+      {
+        "source": "musical",
+        "target": "parada",
+        "weight": 11
+      },
+      {
+        "source": "completo",
+        "target": "lista",
+        "weight": 2
+      },
+      {
+        "source": "principal",
+        "target": "banda",
+        "weight": 1
+      },
+      {
+        "source": "último",
+        "target": "álbum",
+        "weight": 5
+      },
+      {
+        "source": "quarto",
+        "target": "álbum",
+        "weight": 2
+      },
+      {
+        "source": "brasileiro",
+        "target": "nota",
+        "weight": 1
+      },
+      {
+        "source": "bom",
+        "target": "parte",
+        "weight": 2
+      },
+      {
+        "source": "novo",
+        "target": "tempo",
+        "weight": 1
+      },
+      {
+        "source": "segundo",
+        "target": "lugar",
+        "weight": 4
+      },
+      {
+        "source": "primeiro",
+        "target": "mulher",
+        "weight": 2
+      },
+      {
+        "source": "melhor",
+        "target": "tempo",
+        "weight": 1
+      },
+      {
+        "source": "segundo",
+        "target": "mulher",
+        "weight": 2
+      },
+      {
+        "source": "terceiro",
+        "target": "mulher",
+        "weight": 1
+      },
+      {
+        "source": "quarto",
+        "target": "posição",
+        "weight": 1
+      },
+      {
+        "source": "completo",
+        "target": "temporada",
+        "weight": 1
+      },
+      {
+        "source": "terceiro",
+        "target": "single",
+        "weight": 3
+      },
+      {
+        "source": "velho",
+        "target": "história",
+        "weight": 1
+      },
+      {
+        "source": "anterior",
+        "target": "single",
+        "weight": 1
+      },
+      {
+        "source": "novo",
+        "target": "versão",
+        "weight": 2
+      },
+      {
+        "source": "novo",
+        "target": "vocal",
+        "weight": 1
+      },
+      {
+        "source": "último",
+        "target": "single",
+        "weight": 2
+      },
+      {
+        "source": "antigo",
+        "target": "imagem",
+        "weight": 1
+      },
+      {
+        "source": "adicional",
+        "target": "vocal",
+        "weight": 1
+      },
+      {
+        "source": "adicional",
+        "target": "produção",
+        "weight": 1
+      },
+      {
+        "source": "único",
+        "target": "dia",
+        "weight": 2
+      },
+      {
+        "source": "terceiro",
+        "target": "temporada",
+        "weight": 2
+      },
+      {
+        "source": "velho",
+        "target": "tempo",
+        "weight": 1
+      },
+      {
+        "source": "novo",
+        "target": "temporada",
+        "weight": 3
+      },
+      {
+        "source": "superior",
+        "target": "julho",
+        "weight": 1
+      },
+      {
+        "source": "agrícola",
+        "target": "produção",
+        "weight": 1
+      },
+      {
+        "source": "agrícola",
+        "target": "uso",
+        "weight": 1
+      },
+      {
+        "source": "novo",
+        "target": "fonte",
+        "weight": 1
+      },
+      {
+        "source": "agrícola",
+        "target": "sistema",
+        "weight": 1
+      },
+      {
+        "source": "social",
+        "target": "forma",
+        "weight": 1
+      },
+      {
+        "source": "social",
+        "target": "grupo",
+        "weight": 1
+      },
+      {
+        "source": "diferente",
+        "target": "forma",
+        "weight": 1
+      },
+      {
+        "source": "local",
+        "target": "produto",
+        "weight": 1
+      },
+      {
+        "source": "sustentável",
+        "target": "referência",
+        "weight": 1
+      },
+      {
+        "source": "externo",
+        "target": "jornal",
+        "weight": 1
+      },
+      {
+        "source": "digital",
+        "target": "cópia",
+        "weight": 1
+      },
+      {
+        "source": "oficial",
+        "target": "nome",
+        "weight": 2
+      },
+      {
+        "source": "internacional",
+        "target": "tipo",
+        "weight": 1
+      },
+      {
+        "source": "aéreo",
+        "target": "sistema",
+        "weight": 1
+      },
+      {
+        "source": "português",
+        "target": "empresa",
+        "weight": 2
+      },
+      {
+        "source": "europeu",
+        "target": "versão",
+        "weight": 1
+      },
+      {
+        "source": "maior",
+        "target": "país",
+        "weight": 14
+      },
+      {
+        "source": "menor",
+        "target": "país",
+        "weight": 4
+      },
+      {
+        "source": "maior",
+        "target": "mi",
+        "weight": 4
+      },
+      {
+        "source": "grande",
+        "target": "mundo",
+        "weight": 1
+      },
+      {
+        "source": "menor",
+        "target": "mi",
+        "weight": 3
+      },
+      {
+        "source": "solo",
+        "target": "disco",
+        "weight": 1
+      },
+      {
+        "source": "agrícola",
+        "target": "produto",
+        "weight": 4
+      },
+      {
+        "source": "aéreo",
+        "target": "parte",
+        "weight": 1
+      },
+      {
+        "source": "diferente",
+        "target": "parte",
+        "weight": 1
+      },
+      {
+        "source": "brasileiro",
+        "target": "uso",
+        "weight": 1
+      },
+      {
+        "source": "rural",
+        "target": "área",
+        "weight": 1
+      },
+      {
+        "source": "melhor",
+        "target": "forma",
+        "weight": 1
+      },
+      {
+        "source": "primeiro",
+        "target": "agrotóxico",
+        "weight": 1
+      },
+      {
+        "source": "primeiro",
+        "target": "trabalho",
+        "weight": 2
+      },
+      {
+        "source": "diferente",
+        "target": "agrotóxico",
+        "weight": 1
+      },
+      {
+        "source": "externo",
+        "target": "uso",
+        "weight": 1
+      },
+      {
+        "source": "especial",
+        "target": "número",
+        "weight": 1
+      },
+      {
+        "source": "especial",
+        "target": "página",
+        "weight": 1
+      },
+      {
+        "source": "longo",
+        "target": "ano",
+        "weight": 1
+      },
+      {
+        "source": "original",
+        "target": "página",
+        "weight": 1
+      },
+      {
+        "source": "popular",
+        "target": "música",
+        "weight": 3
+      },
+      {
+        "source": "nacional",
+        "target": "série",
+        "weight": 1
+      },
+      {
+        "source": "sustentável",
+        "target": "uso",
+        "weight": 2
+      },
+      {
+        "source": "biológico",
+        "target": "uso",
+        "weight": 1
+      },
+      {
+        "source": "sustentável",
+        "target": "área",
+        "weight": 1
+      },
+      {
+        "source": "ambiental",
+        "target": "área",
+        "weight": 1
+      },
+      {
+        "source": "tradicional",
+        "target": "terra",
+        "weight": 1
+      },
+      {
+        "source": "popular",
+        "target": "lançamento",
+        "weight": 1
+      },
+      {
+        "source": "final",
+        "target": "lançamento",
+        "weight": 1
+      },
+      {
+        "source": "melhor",
+        "target": "posição",
+        "weight": 5
+      },
+      {
+        "source": "maior",
+        "target": "sistema",
+        "weight": 1
+      },
+      {
+        "source": "diferente",
+        "target": "lugar",
+        "weight": 2
+      },
+      {
+        "source": "anterior",
+        "target": "álbum",
+        "weight": 2
+      },
+      {
+        "source": "original",
+        "target": "edição",
+        "weight": 1
+      },
+      {
+        "source": "único",
+        "target": "álbum",
+        "weight": 1
+      },
+      {
+        "source": "geral",
+        "target": "nome",
+        "weight": 1
+      },
+      {
+        "source": "completo",
+        "target": "nome",
+        "weight": 1
+      },
+      {
+        "source": "mesmo",
+        "target": "estado",
+        "weight": 1
+      },
+      {
+        "source": "seguinte",
+        "target": "banda",
+        "weight": 1
+      },
+      {
+        "source": "quinto",
+        "target": "temporada",
+        "weight": 1
+      },
+      {
+        "source": "longo",
+        "target": "série",
+        "weight": 1
+      },
+      {
+        "source": "brasileiro",
+        "target": "história",
+        "weight": 1
+      },
+      {
+        "source": "original",
+        "target": "série",
+        "weight": 1
+      },
+      {
+        "source": "maior",
+        "target": "estado",
+        "weight": 1
+      },
+      {
+        "source": "brasileiro",
+        "target": "edição",
+        "weight": 1
+      },
+      {
+        "source": "português",
+        "target": "trabalho",
+        "weight": 1
+      },
+      {
+        "source": "grande",
+        "target": "evento",
+        "weight": 1
+      },
+      {
+        "source": "quinto",
+        "target": "single",
+        "weight": 2
+      },
+      {
+        "source": "português",
+        "target": "banda",
+        "weight": 1
+      },
+      {
+        "source": "sonoro",
+        "target": "banda",
+        "weight": 2
+      },
+      {
+        "source": "baixo",
+        "target": "vocal",
+        "weight": 2
+      },
+      {
+        "source": "tradicional",
+        "target": "música",
+        "weight": 2
+      },
+      {
+        "source": "português",
+        "target": "música",
+        "weight": 1
+      },
+      {
+        "source": "novo",
+        "target": "título",
+        "weight": 1
+      },
+      {
+        "source": "primeiro",
+        "target": "vez",
+        "weight": 2
+      },
+      {
+        "source": "social",
+        "target": "evento",
+        "weight": 1
+      },
+      {
+        "source": "único",
+        "target": "ponto",
+        "weight": 1
+      },
+      {
+        "source": "fundamental",
+        "target": "grupo",
+        "weight": 1
+      },
+      {
+        "source": "interno",
+        "target": "ponto",
+        "weight": 2
+      },
+      {
+        "source": "segundo",
+        "target": "tipo",
+        "weight": 1
+      },
+      {
+        "source": "externo",
+        "target": "ponto",
+        "weight": 3
+      },
+      {
+        "source": "próximo",
+        "target": "turnê",
+        "weight": 1
+      },
+      {
+        "source": "maior",
+        "target": "turnê",
+        "weight": 1
+      },
+      {
+        "source": "bom",
+        "target": "show",
+        "weight": 1
+      },
+      {
+        "source": "novo",
+        "target": "estado",
+        "weight": 1
+      },
+      {
+        "source": "maior",
+        "target": "sucesso",
+        "weight": 3
+      },
+      {
+        "source": "anterior",
+        "target": "ano",
+        "weight": 2
+      },
+      {
+        "source": "anterior",
+        "target": "trabalho",
+        "weight": 2
+      },
+      {
+        "source": "consecutivo",
+        "target": "semana",
+        "weight": 7
+      },
+      {
+        "source": "consecutivo",
+        "target": "canção",
+        "weight": 1
+      },
+      {
+        "source": "musical",
+        "target": "vez",
+        "weight": 2
+      },
+      {
+        "source": "total",
+        "target": "número",
+        "weight": 1
+      },
+      {
+        "source": "completo",
+        "target": "semana",
+        "weight": 1
+      },
+      {
+        "source": "décimo",
+        "target": "posição",
+        "weight": 1
+      },
+      {
+        "source": "primeiro",
+        "target": "música",
+        "weight": 3
+      },
+      {
+        "source": "original",
+        "target": "música",
+        "weight": 2
+      },
+      {
+        "source": "coreano",
+        "target": "single",
+        "weight": 1
+      },
+      {
+        "source": "solo",
+        "target": "turnê",
+        "weight": 2
+      },
+      {
+        "source": "próximo",
+        "target": "álbum",
+        "weight": 1
+      },
+      {
+        "source": "primeiro",
+        "target": "maio",
+        "weight": 1
+      },
+      {
+        "source": "diferente",
+        "target": "empresa",
+        "weight": 1
+      },
+      {
+        "source": "primeiro",
+        "target": "temporada",
+        "weight": 3
+      },
+      {
+        "source": "especial",
+        "target": "série",
+        "weight": 1
+      },
+      {
+        "source": "oficial",
+        "target": "ano",
+        "weight": 1
+      },
+      {
+        "source": "novo",
+        "target": "nome",
+        "weight": 2
+      },
+      {
+        "source": "segundo",
+        "target": "membro",
+        "weight": 1
+      },
+      {
+        "source": "último",
+        "target": "membro",
+        "weight": 1
+      },
+      {
+        "source": "primeira",
+        "target": "vitória",
+        "weight": 1
+      },
+      {
+        "source": "musical",
+        "target": "dia",
+        "weight": 1
+      },
+      {
+        "source": "consecutivo",
+        "target": "sucesso",
+        "weight": 1
+      },
+      {
+        "source": "oficial",
+        "target": "posição",
+        "weight": 1
+      },
+      {
+        "source": "público",
+        "target": "relação",
+        "weight": 2
+      },
+      {
+        "source": "novo",
+        "target": "música",
+        "weight": 3
+      },
+      {
+        "source": "melhor",
+        "target": "música",
+        "weight": 1
+      },
+      {
+        "source": "histórico",
+        "target": "edição",
+        "weight": 1
+      },
+      {
+        "source": "verificável",
+        "target": "julho",
+        "weight": 1
+      },
+      {
+        "source": "principal",
+        "target": "equipe",
+        "weight": 1
+      },
+      {
+        "source": "último",
+        "target": "lugar",
+        "weight": 3
+      },
+      {
+        "source": "oficial",
+        "target": "hangul",
+        "weight": 1
+      },
+      {
+        "source": "quarto",
+        "target": "grupo",
+        "weight": 2
+      },
+      {
+        "source": "final",
+        "target": "grupo",
+        "weight": 1
+      },
+      {
+        "source": "próximo",
+        "target": "grupo",
+        "weight": 1
+      },
+      {
+        "source": "primeiro",
+        "target": "agosto",
+        "weight": 1
+      },
+      {
+        "source": "único",
+        "target": "grupo",
+        "weight": 2
+      },
+      {
+        "source": "segundo",
+        "target": "rodada",
+        "weight": 1
+      },
+      {
+        "source": "novo",
+        "target": "equipe",
+        "weight": 1
+      },
+      {
+        "source": "quarto",
+        "target": "lugar",
+        "weight": 1
+      },
+      {
+        "source": "principal",
+        "target": "álbum",
+        "weight": 1
+      },
+      {
+        "source": "primeiro",
+        "target": "dia",
+        "weight": 2
+      },
+      {
+        "source": "oficial",
+        "target": "versão",
+        "weight": 2
+      },
+      {
+        "source": "japonês",
+        "target": "faixa",
+        "weight": 1
+      },
+      {
+        "source": "nacional",
+        "target": "música",
+        "weight": 1
+      },
+      {
+        "source": "mesmo",
+        "target": "dia",
+        "weight": 2
+      },
+      {
+        "source": "americano",
+        "target": "parada",
+        "weight": 1
+      },
+      {
+        "source": "anterior",
+        "target": "lançamento",
+        "weight": 1
+      },
+      {
+        "source": "anterior",
+        "target": "videoclipe",
+        "weight": 1
+      },
+      {
+        "source": "oitavo",
+        "target": "videoclipe",
+        "weight": 1
+      },
+      {
+        "source": "próprio",
+        "target": "videoclipe",
+        "weight": 1
+      },
+      {
+        "source": "grande",
+        "target": "número",
+        "weight": 1
+      },
+      {
+        "source": "feminino",
+        "target": "imagem",
+        "weight": 2
+      },
+      {
+        "source": "final",
+        "target": "música",
+        "weight": 1
+      },
+      {
+        "source": "consecutivo",
+        "target": "outubro",
+        "weight": 1
+      },
+      {
+        "source": "bom",
+        "target": "videoclipe",
+        "weight": 1
+      },
+      {
+        "source": "coreano",
+        "target": "música",
+        "weight": 1
+      },
+      {
+        "source": "novo",
+        "target": "forma",
+        "weight": 1
+      },
+      {
+        "source": "único",
+        "target": "música",
+        "weight": 1
+      },
+      {
+        "source": "primeiro",
+        "target": "lançamento",
+        "weight": 1
+      },
+      {
+        "source": "inicial",
+        "target": "single",
+        "weight": 2
+      },
+      {
+        "source": "primeiro",
+        "target": "posição",
+        "weight": 1
+      },
+      {
+        "source": "primeiro",
+        "target": "número",
+        "weight": 1
+      },
+      {
+        "source": "final",
+        "target": "produto",
+        "weight": 2
+      },
+      {
+        "source": "bom",
+        "target": "relação",
+        "weight": 1
+      },
+      {
+        "source": "global",
+        "target": "sucesso",
+        "weight": 1
+      },
+      {
+        "source": "original",
+        "target": "versão",
+        "weight": 2
+      },
+      {
+        "source": "britânico",
+        "target": "faixa",
+        "weight": 1
+      },
+      {
+        "source": "japonês",
+        "target": "lançamento",
+        "weight": 1
+      },
+      {
+        "source": "primeiro",
+        "target": "disco",
+        "weight": 1
+      },
+      {
+        "source": "comum",
+        "target": "tempo",
+        "weight": 1
+      },
+      {
+        "source": "tradicional",
+        "target": "forma",
+        "weight": 1
+      },
+      {
+        "source": "mesmo",
+        "target": "forma",
+        "weight": 2
+      },
+      {
+        "source": "jovem",
+        "target": "mulher",
+        "weight": 1
+      },
+      {
+        "source": "melhor",
+        "target": "trabalho",
+        "weight": 1
+      },
+      {
+        "source": "melhor",
+        "target": "canção",
+        "weight": 1
+      },
+      {
+        "source": "melhor",
+        "target": "single",
+        "weight": 1
+      },
+      {
+        "source": "último",
+        "target": "categoria",
+        "weight": 1
+      },
+      {
+        "source": "primeiro",
+        "target": "vídeo",
+        "weight": 2
+      },
+      {
+        "source": "segundo",
+        "target": "vídeo",
+        "weight": 1
+      },
+      {
+        "source": "completo",
+        "target": "música",
+        "weight": 1
+      },
+      {
+        "source": "novo",
+        "target": "lado",
+        "weight": 1
+      },
+      {
+        "source": "final",
+        "target": "vídeo",
+        "weight": 1
+      },
+      {
+        "source": "anterior",
+        "target": "vídeo",
+        "weight": 1
+      },
+      {
+        "source": "final",
+        "target": "trabalho",
+        "weight": 1
+      },
+      {
+        "source": "feminino",
+        "target": "lado",
+        "weight": 1
+      },
+      {
+        "source": "anterior",
+        "target": "versão",
+        "weight": 1
+      },
+      {
+        "source": "original",
+        "target": "vídeo",
+        "weight": 1
+      },
+      {
+        "source": "segundo",
+        "target": "temporada",
+        "weight": 1
+      },
+      {
+        "source": "seguinte",
+        "target": "maio",
+        "weight": 1
+      },
+      {
+        "source": "seguinte",
+        "target": "outubro",
+        "weight": 1
+      },
+      {
+        "source": "anterior",
+        "target": "faixa",
+        "weight": 1
+      },
+      {
+        "source": "novo",
+        "target": "conteúdo",
+        "weight": 1
+      },
+      {
+        "source": "britânico",
+        "target": "single",
+        "weight": 1
+      },
+      {
+        "source": "feminino",
+        "target": "integrante",
+        "weight": 1
+      },
+      {
+        "source": "novo",
+        "target": "canção",
+        "weight": 1
+      },
+      {
+        "source": "novo",
+        "target": "disco",
+        "weight": 1
+      },
+      {
+        "source": "quarto",
+        "target": "single",
+        "weight": 1
+      },
+      {
+        "source": "seguinte",
+        "target": "faixa",
+        "weight": 1
+      }
+    ]
+  },
+  "verb_noun": {
+    "metadata": {
+      "left_label": "czasowniki",
+      "right_label": "rzeczowniki",
+      "left_count": 100,
+      "right_count": 100,
+      "edge_count": 452
+    },
+    "left_nodes": [
+      {
+        "id": "ser",
+        "frequency": 1489
+      },
+      {
+        "id": "consultar",
+        "frequency": 993
+      },
+      {
+        "id": "arquivar",
+        "frequency": 333
+      },
+      {
+        "id": "poder",
+        "frequency": 200
+      },
+      {
+        "id": "lançar",
+        "frequency": 182
+      },
+      {
+        "id": "ter",
+        "frequency": 174
+      },
+      {
+        "id": "estar",
+        "frequency": 162
+      },
+      {
+        "id": "ver",
+        "frequency": 112
+      },
+      {
+        "id": "fazer",
+        "frequency": 93
+      },
+      {
+        "id": "incluir",
+        "frequency": 77
+      },
+      {
+        "id": "tornar",
+        "frequency": 77
+      },
+      {
+        "id": "usar",
+        "frequency": 77
+      },
+      {
+        "id": "encontrar",
+        "frequency": 75
+      },
+      {
+        "id": "apresentar",
+        "frequency": 68
+      },
+      {
+        "id": "ajudar",
+        "frequency": 65
+      },
+      {
+        "id": "estrear",
+        "frequency": 60
+      },
+      {
+        "id": "realizar",
+        "frequency": 59
+      },
+      {
+        "id": "expander",
+        "frequency": 56
+      },
+      {
+        "id": "ficar",
+        "frequency": 56
+      },
+      {
+        "id": "ajudir",
+        "frequency": 53
+      },
+      {
+        "id": "anunciar",
+        "frequency": 53
+      },
+      {
+        "id": "citar",
+        "frequency": 52
+      },
+      {
+        "id": "haver",
+        "frequency": 50
+      },
+      {
+        "id": "inserir",
+        "frequency": 50
+      },
+      {
+        "id": "considerar",
+        "frequency": 50
+      },
+      {
+        "id": "criar",
+        "frequency": 49
+      },
+      {
+        "id": "ir",
+        "frequency": 47
+      },
+      {
+        "id": "escrever",
+        "frequency": 47
+      },
+      {
+        "id": "alcançar",
+        "frequency": 46
+      },
+      {
+        "id": "dar",
+        "frequency": 45
+      },
+      {
+        "id": "remover",
+        "frequency": 44
+      },
+      {
+        "id": "receber",
+        "frequency": 43
+      },
+      {
+        "id": "utilizar",
+        "frequency": 40
+      },
+      {
+        "id": "vencer",
+        "frequency": 37
+      },
+      {
+        "id": "começar",
+        "frequency": 37
+      },
+      {
+        "id": "gravar",
+        "frequency": 37
+      },
+      {
+        "id": "chamar",
+        "frequency": 35
+      },
+      {
+        "id": "ganhar",
+        "frequency": 35
+      },
+      {
+        "id": "passar",
+        "frequency": 34
+      },
+      {
+        "id": "dizer",
+        "frequency": 34
+      },
+      {
+        "id": "compor",
+        "frequency": 30
+      },
+      {
+        "id": "voltar",
+        "frequency": 30
+      },
+      {
+        "id": "partir",
+        "frequency": 30
+      },
+      {
+        "id": "terminar",
+        "frequency": 29
+      },
+      {
+        "id": "marcar",
+        "frequency": 29
+      },
+      {
+        "id": "cantar",
+        "frequency": 29
+      },
+      {
+        "id": "dever",
+        "frequency": 27
+      },
+      {
+        "id": "revelar",
+        "frequency": 27
+      },
+      {
+        "id": "saber",
+        "frequency": 27
+      },
+      {
+        "id": "chegar",
+        "frequency": 27
+      },
+      {
+        "id": "levar",
+        "frequency": 26
+      },
+      {
+        "id": "abrir",
+        "frequency": 26
+      },
+      {
+        "id": "possuir",
+        "frequency": 26
+      },
+      {
+        "id": "conter",
+        "frequency": 26
+      },
+      {
+        "id": "referir",
+        "frequency": 25
+      },
+      {
+        "id": "atingir",
+        "frequency": 25
+      },
+      {
+        "id": "disputar",
+        "frequency": 25
+      },
+      {
+        "id": "liderar",
+        "frequency": 25
+      },
+      {
+        "id": "ocorrer",
+        "frequency": 25
+      },
+      {
+        "id": "vender",
+        "frequency": 25
+      },
+      {
+        "id": "obter",
+        "frequency": 24
+      },
+      {
+        "id": "seguir",
+        "frequency": 24
+      },
+      {
+        "id": "cobrir",
+        "frequency": 23
+      },
+      {
+        "id": "produzir",
+        "frequency": 23
+      },
+      {
+        "id": "contar",
+        "frequency": 23
+      },
+      {
+        "id": "aparecer",
+        "frequency": 22
+      },
+      {
+        "id": "fechar",
+        "frequency": 22
+      },
+      {
+        "id": "reconhecer",
+        "frequency": 22
+      },
+      {
+        "id": "trazer",
+        "frequency": 22
+      },
+      {
+        "id": "selecionar",
+        "frequency": 22
+      },
+      {
+        "id": "conhecer",
+        "frequency": 21
+      },
+      {
+        "id": "participar",
+        "frequency": 21
+      },
+      {
+        "id": "servir",
+        "frequency": 20
+      },
+      {
+        "id": "intitular",
+        "frequency": 20
+      },
+      {
+        "id": "indicar",
+        "frequency": 19
+      },
+      {
+        "id": "relacionar",
+        "frequency": 19
+      },
+      {
+        "id": "manter",
+        "frequency": 19
+      },
+      {
+        "id": "deixar",
+        "frequency": 19
+      },
+      {
+        "id": "sugerir",
+        "frequency": 18
+      },
+      {
+        "id": "trabalhar",
+        "frequency": 18
+      },
+      {
+        "id": "descrever",
+        "frequency": 18
+      },
+      {
+        "id": "tocar",
+        "frequency": 18
+      },
+      {
+        "id": "causar",
+        "frequency": 18
+      },
+      {
+        "id": "entrar",
+        "frequency": 17
+      },
+      {
+        "id": "querer",
+        "frequency": 17
+      },
+      {
+        "id": "mudar",
+        "frequency": 17
+      },
+      {
+        "id": "mostrar",
+        "frequency": 16
+      },
+      {
+        "id": "listar",
+        "frequency": 16
+      },
+      {
+        "id": "conduzir",
+        "frequency": 16
+      },
+      {
+        "id": "continuar",
+        "frequency": 16
+      },
+      {
+        "id": "conseguir",
+        "frequency": 16
+      },
+      {
+        "id": "surgir",
+        "frequency": 16
+      },
+      {
+        "id": "associar",
+        "frequency": 15
+      },
+      {
+        "id": "apontar",
+        "frequency": 15
+      },
+      {
+        "id": "escolher",
+        "frequency": 15
+      },
+      {
+        "id": "publicar",
+        "frequency": 15
+      },
+      {
+        "id": "construir",
+        "frequency": 15
+      },
+      {
+        "id": "dirigir",
+        "frequency": 15
+      },
+      {
+        "id": "comentar",
+        "frequency": 15
+      },
+      {
+        "id": "fornecer",
+        "frequency": 14
+      }
+    ],
+    "right_nodes": [
+      {
+        "id": "abril",
+        "frequency": 438
+      },
+      {
+        "id": "coreano",
+        "frequency": 369
+      },
+      {
+        "id": "inglês",
+        "frequency": 339
+      },
+      {
+        "id": "cópia",
+        "frequency": 315
+      },
+      {
+        "id": "maio",
+        "frequency": 300
+      },
+      {
+        "id": "agosto",
+        "frequency": 276
+      },
+      {
+        "id": "grupo",
+        "frequency": 258
+      },
+      {
+        "id": "dezembro",
+        "frequency": 253
+      },
+      {
+        "id": "julho",
+        "frequency": 252
+      },
+      {
+        "id": "junho",
+        "frequency": 223
+      },
+      {
+        "id": "outubro",
+        "frequency": 204
+      },
+      {
+        "id": "setembro",
+        "frequency": 193
+      },
+      {
+        "id": "álbum",
+        "frequency": 192
+      },
+      {
+        "id": "novembro",
+        "frequency": 187
+      },
+      {
+        "id": "março",
+        "frequency": 183
+      },
+      {
+        "id": "ano",
+        "frequency": 181
+      },
+      {
+        "id": "artigo",
+        "frequency": 180
+      },
+      {
+        "id": "janeiro",
+        "frequency": 172
+      },
+      {
+        "id": "fevereiro",
+        "frequency": 169
+      },
+      {
+        "id": "single",
+        "frequency": 159
+      },
+      {
+        "id": "página",
+        "frequency": 145
+      },
+      {
+        "id": "música",
+        "frequency": 140
+      },
+      {
+        "id": "canção",
+        "frequency": 131
+      },
+      {
+        "id": "referência",
+        "frequency": 120
+      },
+      {
+        "id": "fonte",
+        "frequency": 115
+      },
+      {
+        "id": "lugar",
+        "frequency": 95
+      },
+      {
+        "id": "faixa",
+        "frequency": 87
+      },
+      {
+        "id": "nome",
+        "frequency": 86
+      },
+      {
+        "id": "vídeo",
+        "frequency": 82
+      },
+      {
+        "id": "dia",
+        "frequency": 81
+      },
+      {
+        "id": "agrotóxico",
+        "frequency": 80
+      },
+      {
+        "id": "lançamento",
+        "frequency": 77
+      },
+      {
+        "id": "número",
+        "frequency": 71
+      },
+      {
+        "id": "conteúdo",
+        "frequency": 69
+      },
+      {
+        "id": "parada",
+        "frequency": 68
+      },
+      {
+        "id": "vez",
+        "frequency": 66
+      },
+      {
+        "id": "estreia",
+        "frequency": 66
+      },
+      {
+        "id": "parte",
+        "frequency": 64
+      },
+      {
+        "id": "equipe",
+        "frequency": 63
+      },
+      {
+        "id": "show",
+        "frequency": 63
+      },
+      {
+        "id": "programa",
+        "frequency": 61
+      },
+      {
+        "id": "versão",
+        "frequency": 60
+      },
+      {
+        "id": "país",
+        "frequency": 58
+      },
+      {
+        "id": "lista",
+        "frequency": 58
+      },
+      {
+        "id": "tempo",
+        "frequency": 57
+      },
+      {
+        "id": "esboço",
+        "frequency": 57
+      },
+      {
+        "id": "mi",
+        "frequency": 57
+      },
+      {
+        "id": "portal",
+        "frequency": 56
+      },
+      {
+        "id": "sq",
+        "frequency": 56
+      },
+      {
+        "id": "membro",
+        "frequency": 55
+      },
+      {
+        "id": "mundo",
+        "frequency": 55
+      },
+      {
+        "id": "wikipédia",
+        "frequency": 54
+      },
+      {
+        "id": "ligação",
+        "frequency": 54
+      },
+      {
+        "id": "forma",
+        "frequency": 54
+      },
+      {
+        "id": "rodada",
+        "frequency": 53
+      },
+      {
+        "id": "estado",
+        "frequency": 52
+      },
+      {
+        "id": "ponto",
+        "frequency": 51
+      },
+      {
+        "id": "posição",
+        "frequency": 49
+      },
+      {
+        "id": "título",
+        "frequency": 48
+      },
+      {
+        "id": "disco",
+        "frequency": 48
+      },
+      {
+        "id": "mulher",
+        "frequency": 47
+      },
+      {
+        "id": "prêmio",
+        "frequency": 47
+      },
+      {
+        "id": "banda",
+        "frequency": 47
+      },
+      {
+        "id": "pessoa",
+        "frequency": 46
+      },
+      {
+        "id": "uso",
+        "frequency": 46
+      },
+      {
+        "id": "série",
+        "frequency": 45
+      },
+      {
+        "id": "história",
+        "frequency": 45
+      },
+      {
+        "id": "sucesso",
+        "frequency": 45
+      },
+      {
+        "id": "trabalho",
+        "frequency": 44
+      },
+      {
+        "id": "imagem",
+        "frequency": 44
+      },
+      {
+        "id": "temporada",
+        "frequency": 44
+      },
+      {
+        "id": "produção",
+        "frequency": 41
+      },
+      {
+        "id": "videoclipe",
+        "frequency": 41
+      },
+      {
+        "id": "empresa",
+        "frequency": 40
+      },
+      {
+        "id": "sistema",
+        "frequency": 40
+      },
+      {
+        "id": "cidade",
+        "frequency": 39
+      },
+      {
+        "id": "hangul",
+        "frequency": 38
+      },
+      {
+        "id": "semana",
+        "frequency": 38
+      },
+      {
+        "id": "produto",
+        "frequency": 38
+      },
+      {
+        "id": "gravação",
+        "frequency": 37
+      },
+      {
+        "id": "nota",
+        "frequency": 36
+      },
+      {
+        "id": "informação",
+        "frequency": 36
+      },
+      {
+        "id": "língua",
+        "frequency": 35
+      },
+      {
+        "id": "categoria",
+        "frequency": 35
+      },
+      {
+        "id": "acordo",
+        "frequency": 35
+      },
+      {
+        "id": "área",
+        "frequency": 35
+      },
+      {
+        "id": "integrante",
+        "frequency": 35
+      },
+      {
+        "id": "fim",
+        "frequency": 34
+      },
+      {
+        "id": "turnê",
+        "frequency": 34
+      },
+      {
+        "id": "evento",
+        "frequency": 33
+      },
+      {
+        "id": "tipo",
+        "frequency": 33
+      },
+      {
+        "id": "edição",
+        "frequency": 33
+      },
+      {
+        "id": "lado",
+        "frequency": 33
+      },
+      {
+        "id": "relação",
+        "frequency": 32
+      },
+      {
+        "id": "vitória",
+        "frequency": 32
+      },
+      {
+        "id": "clube",
+        "frequency": 31
+      },
+      {
+        "id": "jornal",
+        "frequency": 31
+      },
+      {
+        "id": "terra",
+        "frequency": 30
+      },
+      {
+        "id": "original",
+        "frequency": 30
+      },
+      {
+        "id": "vocal",
+        "frequency": 30
+      }
+    ],
+    "edges": [
+      {
+        "source": "ajudir",
+        "target": "inglês",
+        "weight": 1
+      },
+      {
+        "source": "ser",
+        "target": "evento",
+        "weight": 5
+      },
+      {
+        "source": "citar",
+        "target": "fonte",
+        "weight": 41
+      },
+      {
+        "source": "inserir",
+        "target": "referência",
+        "weight": 40
+      },
+      {
+        "source": "encontrar",
+        "target": "fonte",
+        "weight": 43
+      },
+      {
+        "source": "ter",
+        "target": "informação",
+        "weight": 1
+      },
+      {
+        "source": "consultar",
+        "target": "inglês",
+        "weight": 108
+      },
+      {
+        "source": "ajudar",
+        "target": "wikipédia",
+        "weight": 51
+      },
+      {
+        "source": "expander",
+        "target": "wikipédia",
+        "weight": 51
+      },
+      {
+        "source": "listar",
+        "target": "artigo",
+        "weight": 10
+      },
+      {
+        "source": "estar",
+        "target": "estado",
+        "weight": 1
+      },
+      {
+        "source": "ser",
+        "target": "lugar",
+        "weight": 1
+      },
+      {
+        "source": "obter",
+        "target": "imagem",
+        "weight": 1
+      },
+      {
+        "source": "fornecer",
+        "target": "informação",
+        "weight": 3
+      },
+      {
+        "source": "citar",
+        "target": "página",
+        "weight": 18
+      },
+      {
+        "source": "ajudir",
+        "target": "conteúdo",
+        "weight": 19
+      },
+      {
+        "source": "ser",
+        "target": "clube",
+        "weight": 2
+      },
+      {
+        "source": "ter",
+        "target": "clube",
+        "weight": 1
+      },
+      {
+        "source": "disputar",
+        "target": "clube",
+        "weight": 1
+      },
+      {
+        "source": "expander",
+        "target": "portal",
+        "weight": 13
+      },
+      {
+        "source": "usar",
+        "target": "página",
+        "weight": 1
+      },
+      {
+        "source": "ser",
+        "target": "tempo",
+        "weight": 2
+      },
+      {
+        "source": "consultar",
+        "target": "tempo",
+        "weight": 1
+      },
+      {
+        "source": "ser",
+        "target": "ano",
+        "weight": 9
+      },
+      {
+        "source": "publicar",
+        "target": "jornal",
+        "weight": 1
+      },
+      {
+        "source": "entrar",
+        "target": "história",
+        "weight": 1
+      },
+      {
+        "source": "ser",
+        "target": "história",
+        "weight": 3
+      },
+      {
+        "source": "ser",
+        "target": "terra",
+        "weight": 5
+      },
+      {
+        "source": "ser",
+        "target": "mundo",
+        "weight": 5
+      },
+      {
+        "source": "criar",
+        "target": "mundo",
+        "weight": 1
+      },
+      {
+        "source": "partir",
+        "target": "mundo",
+        "weight": 1
+      },
+      {
+        "source": "manter",
+        "target": "terra",
+        "weight": 1
+      },
+      {
+        "source": "dar",
+        "target": "terra",
+        "weight": 1
+      },
+      {
+        "source": "ser",
+        "target": "mulher",
+        "weight": 2
+      },
+      {
+        "source": "começar",
+        "target": "pessoa",
+        "weight": 1
+      },
+      {
+        "source": "incluir",
+        "target": "nome",
+        "weight": 1
+      },
+      {
+        "source": "ajudir",
+        "target": "informação",
+        "weight": 7
+      },
+      {
+        "source": "inserir",
+        "target": "artigo",
+        "weight": 9
+      },
+      {
+        "source": "fazer",
+        "target": "parte",
+        "weight": 9
+      },
+      {
+        "source": "ser",
+        "target": "artigo",
+        "weight": 6
+      },
+      {
+        "source": "ser",
+        "target": "título",
+        "weight": 3
+      },
+      {
+        "source": "ser",
+        "target": "sistema",
+        "weight": 3
+      },
+      {
+        "source": "poder",
+        "target": "sistema",
+        "weight": 1
+      },
+      {
+        "source": "ser",
+        "target": "parte",
+        "weight": 3
+      },
+      {
+        "source": "ser",
+        "target": "programa",
+        "weight": 3
+      },
+      {
+        "source": "abrir",
+        "target": "informação",
+        "weight": 1
+      },
+      {
+        "source": "ter",
+        "target": "edição",
+        "weight": 2
+      },
+      {
+        "source": "ocorrer",
+        "target": "país",
+        "weight": 1
+      },
+      {
+        "source": "encontrar",
+        "target": "evento",
+        "weight": 1
+      },
+      {
+        "source": "possuir",
+        "target": "imagem",
+        "weight": 2
+      },
+      {
+        "source": "considerar",
+        "target": "artigo",
+        "weight": 1
+      },
+      {
+        "source": "apresentar",
+        "target": "artigo",
+        "weight": 2
+      },
+      {
+        "source": "ajudir",
+        "target": "fonte",
+        "weight": 2
+      },
+      {
+        "source": "inserir",
+        "target": "fonte",
+        "weight": 3
+      },
+      {
+        "source": "ser",
+        "target": "canção",
+        "weight": 9
+      },
+      {
+        "source": "ser",
+        "target": "versão",
+        "weight": 2
+      },
+      {
+        "source": "possuir",
+        "target": "página",
+        "weight": 2
+      },
+      {
+        "source": "começar",
+        "target": "título",
+        "weight": 6
+      },
+      {
+        "source": "ser",
+        "target": "grupo",
+        "weight": 14
+      },
+      {
+        "source": "ser",
+        "target": "estreia",
+        "weight": 3
+      },
+      {
+        "source": "lançar",
+        "target": "grupo",
+        "weight": 11
+      },
+      {
+        "source": "realizar",
+        "target": "grupo",
+        "weight": 4
+      },
+      {
+        "source": "ter",
+        "target": "lugar",
+        "weight": 2
+      },
+      {
+        "source": "ser",
+        "target": "álbum",
+        "weight": 9
+      },
+      {
+        "source": "estrear",
+        "target": "fevereiro",
+        "weight": 1
+      },
+      {
+        "source": "chegar",
+        "target": "número",
+        "weight": 4
+      },
+      {
+        "source": "lançar",
+        "target": "single",
+        "weight": 6
+      },
+      {
+        "source": "lançar",
+        "target": "novembro",
+        "weight": 1
+      },
+      {
+        "source": "obter",
+        "target": "ponto",
+        "weight": 2
+      },
+      {
+        "source": "anunciar",
+        "target": "lançamento",
+        "weight": 1
+      },
+      {
+        "source": "ganhar",
+        "target": "prêmio",
+        "weight": 3
+      },
+      {
+        "source": "continuar",
+        "target": "equipe",
+        "weight": 1
+      },
+      {
+        "source": "lançar",
+        "target": "álbum",
+        "weight": 2
+      },
+      {
+        "source": "ser",
+        "target": "música",
+        "weight": 17
+      },
+      {
+        "source": "trazer",
+        "target": "grupo",
+        "weight": 1
+      },
+      {
+        "source": "ser",
+        "target": "show",
+        "weight": 4
+      },
+      {
+        "source": "intitular",
+        "target": "single",
+        "weight": 1
+      },
+      {
+        "source": "ganhar",
+        "target": "vitória",
+        "weight": 2
+      },
+      {
+        "source": "ter",
+        "target": "membro",
+        "weight": 1
+      },
+      {
+        "source": "deixar",
+        "target": "empresa",
+        "weight": 2
+      },
+      {
+        "source": "haver",
+        "target": "empresa",
+        "weight": 1
+      },
+      {
+        "source": "passar",
+        "target": "grupo",
+        "weight": 1
+      },
+      {
+        "source": "tornar",
+        "target": "grupo",
+        "weight": 3
+      },
+      {
+        "source": "ser",
+        "target": "nome",
+        "weight": 7
+      },
+      {
+        "source": "dar",
+        "target": "nome",
+        "weight": 4
+      },
+      {
+        "source": "dar",
+        "target": "membro",
+        "weight": 1
+      },
+      {
+        "source": "ver",
+        "target": "artigo",
+        "weight": 15
+      },
+      {
+        "source": "consultar",
+        "target": "coreano",
+        "weight": 149
+      },
+      {
+        "source": "arquivar",
+        "target": "cópia",
+        "weight": 298
+      },
+      {
+        "source": "relacionar",
+        "target": "artigo",
+        "weight": 4
+      },
+      {
+        "source": "incluir",
+        "target": "prêmio",
+        "weight": 4
+      },
+      {
+        "source": "incluir",
+        "target": "coreano",
+        "weight": 1
+      },
+      {
+        "source": "marcar",
+        "target": "grupo",
+        "weight": 1
+      },
+      {
+        "source": "chegar",
+        "target": "lugar",
+        "weight": 4
+      },
+      {
+        "source": "vender",
+        "target": "canção",
+        "weight": 1
+      },
+      {
+        "source": "vender",
+        "target": "posição",
+        "weight": 1
+      },
+      {
+        "source": "ganhar",
+        "target": "música",
+        "weight": 1
+      },
+      {
+        "source": "tornar",
+        "target": "videoclipe",
+        "weight": 1
+      },
+      {
+        "source": "alcançar",
+        "target": "sucesso",
+        "weight": 3
+      },
+      {
+        "source": "alcançar",
+        "target": "posição",
+        "weight": 11
+      },
+      {
+        "source": "incluir",
+        "target": "vitória",
+        "weight": 2
+      },
+      {
+        "source": "anunciar",
+        "target": "turnê",
+        "weight": 1
+      },
+      {
+        "source": "começar",
+        "target": "turnê",
+        "weight": 1
+      },
+      {
+        "source": "dar",
+        "target": "grupo",
+        "weight": 1
+      },
+      {
+        "source": "ficar",
+        "target": "single",
+        "weight": 1
+      },
+      {
+        "source": "descrever",
+        "target": "grupo",
+        "weight": 1
+      },
+      {
+        "source": "começar",
+        "target": "ano",
+        "weight": 1
+      },
+      {
+        "source": "ver",
+        "target": "grupo",
+        "weight": 1
+      },
+      {
+        "source": "alcançar",
+        "target": "grupo",
+        "weight": 4
+      },
+      {
+        "source": "marcar",
+        "target": "álbum",
+        "weight": 1
+      },
+      {
+        "source": "fazer",
+        "target": "grupo",
+        "weight": 3
+      },
+      {
+        "source": "estrear",
+        "target": "canção",
+        "weight": 1
+      },
+      {
+        "source": "tornar",
+        "target": "posição",
+        "weight": 2
+      },
+      {
+        "source": "ser",
+        "target": "setembro",
+        "weight": 4
+      },
+      {
+        "source": "estrear",
+        "target": "álbum",
+        "weight": 1
+      },
+      {
+        "source": "lançar",
+        "target": "videoclipe",
+        "weight": 1
+      },
+      {
+        "source": "seguir",
+        "target": "lançamento",
+        "weight": 1
+      },
+      {
+        "source": "intitular",
+        "target": "álbum",
+        "weight": 2
+      },
+      {
+        "source": "lançar",
+        "target": "edição",
+        "weight": 1
+      },
+      {
+        "source": "gravar",
+        "target": "canção",
+        "weight": 2
+      },
+      {
+        "source": "receber",
+        "target": "grupo",
+        "weight": 1
+      },
+      {
+        "source": "ir",
+        "target": "prêmio",
+        "weight": 1
+      },
+      {
+        "source": "fazer",
+        "target": "sucesso",
+        "weight": 3
+      },
+      {
+        "source": "alcançar",
+        "target": "lugar",
+        "weight": 2
+      },
+      {
+        "source": "lançar",
+        "target": "versão",
+        "weight": 6
+      },
+      {
+        "source": "lançar",
+        "target": "informação",
+        "weight": 1
+      },
+      {
+        "source": "fazer",
+        "target": "álbum",
+        "weight": 2
+      },
+      {
+        "source": "lançar",
+        "target": "vídeo",
+        "weight": 1
+      },
+      {
+        "source": "realizar",
+        "target": "evento",
+        "weight": 1
+      },
+      {
+        "source": "selecionar",
+        "target": "grupo",
+        "weight": 1
+      },
+      {
+        "source": "lançar",
+        "target": "série",
+        "weight": 1
+      },
+      {
+        "source": "lançar",
+        "target": "dia",
+        "weight": 1
+      },
+      {
+        "source": "escrever",
+        "target": "canção",
+        "weight": 1
+      },
+      {
+        "source": "terminar",
+        "target": "canção",
+        "weight": 1
+      },
+      {
+        "source": "realizar",
+        "target": "trabalho",
+        "weight": 2
+      },
+      {
+        "source": "apresentar",
+        "target": "pessoa",
+        "weight": 1
+      },
+      {
+        "source": "deixar",
+        "target": "trabalho",
+        "weight": 2
+      },
+      {
+        "source": "ter",
+        "target": "tempo",
+        "weight": 3
+      },
+      {
+        "source": "ter",
+        "target": "ano",
+        "weight": 5
+      },
+      {
+        "source": "ver",
+        "target": "número",
+        "weight": 1
+      },
+      {
+        "source": "consultar",
+        "target": "imagem",
+        "weight": 1
+      },
+      {
+        "source": "usar",
+        "target": "imagem",
+        "weight": 2
+      },
+      {
+        "source": "ficar",
+        "target": "país",
+        "weight": 1
+      },
+      {
+        "source": "possuir",
+        "target": "empresa",
+        "weight": 1
+      },
+      {
+        "source": "expander",
+        "target": "empresa",
+        "weight": 2
+      },
+      {
+        "source": "dever",
+        "target": "fonte",
+        "weight": 1
+      },
+      {
+        "source": "ser",
+        "target": "membro",
+        "weight": 14
+      },
+      {
+        "source": "fazer",
+        "target": "membro",
+        "weight": 1
+      },
+      {
+        "source": "intitular",
+        "target": "pessoa",
+        "weight": 1
+      },
+      {
+        "source": "usar",
+        "target": "nome",
+        "weight": 3
+      },
+      {
+        "source": "relacionar",
+        "target": "programa",
+        "weight": 1
+      },
+      {
+        "source": "estrear",
+        "target": "país",
+        "weight": 1
+      },
+      {
+        "source": "ser",
+        "target": "país",
+        "weight": 1
+      },
+      {
+        "source": "realizar",
+        "target": "gravação",
+        "weight": 1
+      },
+      {
+        "source": "chegar",
+        "target": "equipe",
+        "weight": 1
+      },
+      {
+        "source": "começar",
+        "target": "programa",
+        "weight": 1
+      },
+      {
+        "source": "ser",
+        "target": "prêmio",
+        "weight": 1
+      },
+      {
+        "source": "apresentar",
+        "target": "programa",
+        "weight": 1
+      },
+      {
+        "source": "tornar",
+        "target": "clube",
+        "weight": 1
+      },
+      {
+        "source": "estrear",
+        "target": "clube",
+        "weight": 1
+      },
+      {
+        "source": "passar",
+        "target": "imagem",
+        "weight": 1
+      },
+      {
+        "source": "ir",
+        "target": "clube",
+        "weight": 1
+      },
+      {
+        "source": "ser",
+        "target": "estado",
+        "weight": 1
+      },
+      {
+        "source": "ser",
+        "target": "maio",
+        "weight": 1
+      },
+      {
+        "source": "ver",
+        "target": "lugar",
+        "weight": 1
+      },
+      {
+        "source": "produzir",
+        "target": "música",
+        "weight": 1
+      },
+      {
+        "source": "conter",
+        "target": "título",
+        "weight": 2
+      },
+      {
+        "source": "ser",
+        "target": "temporada",
+        "weight": 2
+      },
+      {
+        "source": "ser",
+        "target": "rodada",
+        "weight": 1
+      },
+      {
+        "source": "terminar",
+        "target": "equipe",
+        "weight": 1
+      },
+      {
+        "source": "terminar",
+        "target": "temporada",
+        "weight": 4
+      },
+      {
+        "source": "usar",
+        "target": "equipe",
+        "weight": 1
+      },
+      {
+        "source": "descrever",
+        "target": "estado",
+        "weight": 1
+      },
+      {
+        "source": "ser",
+        "target": "produto",
+        "weight": 2
+      },
+      {
+        "source": "ver",
+        "target": "estado",
+        "weight": 1
+      },
+      {
+        "source": "passar",
+        "target": "tempo",
+        "weight": 1
+      },
+      {
+        "source": "produzir",
+        "target": "imagem",
+        "weight": 1
+      },
+      {
+        "source": "compor",
+        "target": "música",
+        "weight": 1
+      },
+      {
+        "source": "conseguir",
+        "target": "imagem",
+        "weight": 1
+      },
+      {
+        "source": "ser",
+        "target": "vídeo",
+        "weight": 6
+      },
+      {
+        "source": "ver",
+        "target": "história",
+        "weight": 1
+      },
+      {
+        "source": "contar",
+        "target": "show",
+        "weight": 1
+      },
+      {
+        "source": "arquivar",
+        "target": "julho",
+        "weight": 1
+      },
+      {
+        "source": "ver",
+        "target": "lista",
+        "weight": 1
+      },
+      {
+        "source": "ocorrer",
+        "target": "lançamento",
+        "weight": 2
+      },
+      {
+        "source": "ser",
+        "target": "single",
+        "weight": 6
+      },
+      {
+        "source": "alcançar",
+        "target": "canção",
+        "weight": 5
+      },
+      {
+        "source": "tornar",
+        "target": "single",
+        "weight": 1
+      },
+      {
+        "source": "ocorrer",
+        "target": "álbum",
+        "weight": 1
+      },
+      {
+        "source": "ter",
+        "target": "parte",
+        "weight": 2
+      },
+      {
+        "source": "haver",
+        "target": "conteúdo",
+        "weight": 1
+      },
+      {
+        "source": "apresentar",
+        "target": "disco",
+        "weight": 1
+      },
+      {
+        "source": "apresentar",
+        "target": "canção",
+        "weight": 4
+      },
+      {
+        "source": "ficar",
+        "target": "trabalho",
+        "weight": 1
+      },
+      {
+        "source": "atingir",
+        "target": "posição",
+        "weight": 2
+      },
+      {
+        "source": "consultar",
+        "target": "página",
+        "weight": 5
+      },
+      {
+        "source": "ser",
+        "target": "empresa",
+        "weight": 3
+      },
+      {
+        "source": "haver",
+        "target": "junho",
+        "weight": 1
+      },
+      {
+        "source": "haver",
+        "target": "outubro",
+        "weight": 1
+      },
+      {
+        "source": "consultar",
+        "target": "terra",
+        "weight": 4
+      },
+      {
+        "source": "poder",
+        "target": "agosto",
+        "weight": 1
+      },
+      {
+        "source": "disputar",
+        "target": "temporada",
+        "weight": 2
+      },
+      {
+        "source": "fazer",
+        "target": "história",
+        "weight": 1
+      },
+      {
+        "source": "participar",
+        "target": "mulher",
+        "weight": 1
+      },
+      {
+        "source": "vencer",
+        "target": "mulher",
+        "weight": 1
+      },
+      {
+        "source": "ter",
+        "target": "equipe",
+        "weight": 1
+      },
+      {
+        "source": "ir",
+        "target": "temporada",
+        "weight": 1
+      },
+      {
+        "source": "chegar",
+        "target": "fim",
+        "weight": 1
+      },
+      {
+        "source": "descrever",
+        "target": "canção",
+        "weight": 1
+      },
+      {
+        "source": "contar",
+        "target": "versão",
+        "weight": 1
+      },
+      {
+        "source": "aparecer",
+        "target": "banda",
+        "weight": 1
+      },
+      {
+        "source": "apresentar",
+        "target": "música",
+        "weight": 1
+      },
+      {
+        "source": "cantar",
+        "target": "música",
+        "weight": 1
+      },
+      {
+        "source": "escrever",
+        "target": "sucesso",
+        "weight": 1
+      },
+      {
+        "source": "considerar",
+        "target": "música",
+        "weight": 1
+      },
+      {
+        "source": "selecionar",
+        "target": "música",
+        "weight": 1
+      },
+      {
+        "source": "chegar",
+        "target": "semana",
+        "weight": 2
+      },
+      {
+        "source": "ser",
+        "target": "gravação",
+        "weight": 3
+      },
+      {
+        "source": "escrever",
+        "target": "referência",
+        "weight": 1
+      },
+      {
+        "source": "ver",
+        "target": "mulher",
+        "weight": 2
+      },
+      {
+        "source": "ser",
+        "target": "forma",
+        "weight": 2
+      },
+      {
+        "source": "chegar",
+        "target": "produto",
+        "weight": 1
+      },
+      {
+        "source": "surgir",
+        "target": "sistema",
+        "weight": 1
+      },
+      {
+        "source": "ser",
+        "target": "agrotóxico",
+        "weight": 9
+      },
+      {
+        "source": "associar",
+        "target": "tempo",
+        "weight": 1
+      },
+      {
+        "source": "ser",
+        "target": "agosto",
+        "weight": 3
+      },
+      {
+        "source": "incluir",
+        "target": "pessoa",
+        "weight": 1
+      },
+      {
+        "source": "conter",
+        "target": "referência",
+        "weight": 1
+      },
+      {
+        "source": "começar",
+        "target": "empresa",
+        "weight": 1
+      },
+      {
+        "source": "fornecer",
+        "target": "produto",
+        "weight": 1
+      },
+      {
+        "source": "incluir",
+        "target": "mi",
+        "weight": 6
+      },
+      {
+        "source": "estar",
+        "target": "mundo",
+        "weight": 1
+      },
+      {
+        "source": "contar",
+        "target": "nome",
+        "weight": 1
+      },
+      {
+        "source": "expander",
+        "target": "agrotóxico",
+        "weight": 1
+      },
+      {
+        "source": "poder",
+        "target": "agrotóxico",
+        "weight": 5
+      },
+      {
+        "source": "conhecer",
+        "target": "agrotóxico",
+        "weight": 1
+      },
+      {
+        "source": "conhecer",
+        "target": "tipo",
+        "weight": 1
+      },
+      {
+        "source": "estar",
+        "target": "tempo",
+        "weight": 1
+      },
+      {
+        "source": "referir",
+        "target": "tempo",
+        "weight": 1
+      },
+      {
+        "source": "ser",
+        "target": "uso",
+        "weight": 1
+      },
+      {
+        "source": "usar",
+        "target": "agrotóxico",
+        "weight": 3
+      },
+      {
+        "source": "ser",
+        "target": "cidade",
+        "weight": 1
+      },
+      {
+        "source": "ter",
+        "target": "agrotóxico",
+        "weight": 1
+      },
+      {
+        "source": "levar",
+        "target": "agrotóxico",
+        "weight": 1
+      },
+      {
+        "source": "descrever",
+        "target": "trabalho",
+        "weight": 1
+      },
+      {
+        "source": "tornar",
+        "target": "parte",
+        "weight": 1
+      },
+      {
+        "source": "trazer",
+        "target": "agrotóxico",
+        "weight": 1
+      },
+      {
+        "source": "utilizar",
+        "target": "agrotóxico",
+        "weight": 1
+      },
+      {
+        "source": "ir",
+        "target": "página",
+        "weight": 1
+      },
+      {
+        "source": "ir",
+        "target": "inglês",
+        "weight": 1
+      },
+      {
+        "source": "utilizar",
+        "target": "tempo",
+        "weight": 1
+      },
+      {
+        "source": "ser",
+        "target": "vez",
+        "weight": 1
+      },
+      {
+        "source": "estar",
+        "target": "artigo",
+        "weight": 1
+      },
+      {
+        "source": "encontrar",
+        "target": "página",
+        "weight": 1
+      },
+      {
+        "source": "estar",
+        "target": "língua",
+        "weight": 1
+      },
+      {
+        "source": "ser",
+        "target": "língua",
+        "weight": 1
+      },
+      {
+        "source": "ter",
+        "target": "álbum",
+        "weight": 3
+      },
+      {
+        "source": "indicar",
+        "target": "mulher",
+        "weight": 1
+      },
+      {
+        "source": "possuir",
+        "target": "área",
+        "weight": 1
+      },
+      {
+        "source": "começar",
+        "target": "canção",
+        "weight": 1
+      },
+      {
+        "source": "ser",
+        "target": "faixa",
+        "weight": 10
+      },
+      {
+        "source": "chegar",
+        "target": "lançamento",
+        "weight": 1
+      },
+      {
+        "source": "incluir",
+        "target": "cidade",
+        "weight": 1
+      },
+      {
+        "source": "fazer",
+        "target": "canção",
+        "weight": 2
+      },
+      {
+        "source": "cantar",
+        "target": "ano",
+        "weight": 1
+      },
+      {
+        "source": "gravar",
+        "target": "ano",
+        "weight": 1
+      },
+      {
+        "source": "deixar",
+        "target": "banda",
+        "weight": 1
+      },
+      {
+        "source": "referir",
+        "target": "título",
+        "weight": 1
+      },
+      {
+        "source": "tocar",
+        "target": "nota",
+        "weight": 1
+      },
+      {
+        "source": "ficar",
+        "target": "canção",
+        "weight": 1
+      },
+      {
+        "source": "indicar",
+        "target": "nome",
+        "weight": 1
+      },
+      {
+        "source": "apresentar",
+        "target": "grupo",
+        "weight": 1
+      },
+      {
+        "source": "mudar",
+        "target": "mulher",
+        "weight": 1
+      },
+      {
+        "source": "conseguir",
+        "target": "sucesso",
+        "weight": 1
+      },
+      {
+        "source": "chegar",
+        "target": "posição",
+        "weight": 2
+      },
+      {
+        "source": "contar",
+        "target": "história",
+        "weight": 2
+      },
+      {
+        "source": "contar",
+        "target": "gravação",
+        "weight": 1
+      },
+      {
+        "source": "abrir",
+        "target": "álbum",
+        "weight": 1
+      },
+      {
+        "source": "ser",
+        "target": "parada",
+        "weight": 1
+      },
+      {
+        "source": "estar",
+        "target": "álbum",
+        "weight": 1
+      },
+      {
+        "source": "escrever",
+        "target": "faixa",
+        "weight": 3
+      },
+      {
+        "source": "ter",
+        "target": "pessoa",
+        "weight": 1
+      },
+      {
+        "source": "ser",
+        "target": "disco",
+        "weight": 4
+      },
+      {
+        "source": "abrir",
+        "target": "disco",
+        "weight": 7
+      },
+      {
+        "source": "fechar",
+        "target": "disco",
+        "weight": 8
+      },
+      {
+        "source": "ter",
+        "target": "disco",
+        "weight": 1
+      },
+      {
+        "source": "dar",
+        "target": "ponto",
+        "weight": 1
+      },
+      {
+        "source": "poder",
+        "target": "uso",
+        "weight": 1
+      },
+      {
+        "source": "poder",
+        "target": "referência",
+        "weight": 1
+      },
+      {
+        "source": "obter",
+        "target": "vez",
+        "weight": 1
+      },
+      {
+        "source": "seguir",
+        "target": "artigo",
+        "weight": 1
+      },
+      {
+        "source": "apresentar",
+        "target": "informação",
+        "weight": 1
+      },
+      {
+        "source": "passar",
+        "target": "turnê",
+        "weight": 1
+      },
+      {
+        "source": "indicar",
+        "target": "país",
+        "weight": 1
+      },
+      {
+        "source": "anunciar",
+        "target": "show",
+        "weight": 2
+      },
+      {
+        "source": "fazer",
+        "target": "show",
+        "weight": 3
+      },
+      {
+        "source": "anunciar",
+        "target": "evento",
+        "weight": 1
+      },
+      {
+        "source": "consultar",
+        "target": "show",
+        "weight": 1
+      },
+      {
+        "source": "ver",
+        "target": "ano",
+        "weight": 1
+      },
+      {
+        "source": "consultar",
+        "target": "estado",
+        "weight": 1
+      },
+      {
+        "source": "ser",
+        "target": "banda",
+        "weight": 1
+      },
+      {
+        "source": "ser",
+        "target": "turnê",
+        "weight": 1
+      },
+      {
+        "source": "conter",
+        "target": "álbum",
+        "weight": 1
+      },
+      {
+        "source": "dizer",
+        "target": "álbum",
+        "weight": 1
+      },
+      {
+        "source": "estrear",
+        "target": "grupo",
+        "weight": 3
+      },
+      {
+        "source": "seguir",
+        "target": "dezembro",
+        "weight": 1
+      },
+      {
+        "source": "apresentar",
+        "target": "dezembro",
+        "weight": 1
+      },
+      {
+        "source": "liderar",
+        "target": "parada",
+        "weight": 6
+      },
+      {
+        "source": "incluir",
+        "target": "vez",
+        "weight": 1
+      },
+      {
+        "source": "chegar",
+        "target": "grupo",
+        "weight": 2
+      },
+      {
+        "source": "tornar",
+        "target": "vez",
+        "weight": 1
+      },
+      {
+        "source": "lançar",
+        "target": "setembro",
+        "weight": 1
+      },
+      {
+        "source": "vender",
+        "target": "álbum",
+        "weight": 2
+      },
+      {
+        "source": "vender",
+        "target": "cópia",
+        "weight": 7
+      },
+      {
+        "source": "ser",
+        "target": "março",
+        "weight": 5
+      },
+      {
+        "source": "haver",
+        "target": "grupo",
+        "weight": 1
+      },
+      {
+        "source": "ser",
+        "target": "abril",
+        "weight": 1
+      },
+      {
+        "source": "ser",
+        "target": "julho",
+        "weight": 1
+      },
+      {
+        "source": "incluir",
+        "target": "temporada",
+        "weight": 1
+      },
+      {
+        "source": "listar",
+        "target": "ano",
+        "weight": 1
+      },
+      {
+        "source": "listar",
+        "target": "nome",
+        "weight": 1
+      },
+      {
+        "source": "reconhecer",
+        "target": "evento",
+        "weight": 1
+      },
+      {
+        "source": "anunciar",
+        "target": "estreia",
+        "weight": 1
+      },
+      {
+        "source": "liderar",
+        "target": "programa",
+        "weight": 1
+      },
+      {
+        "source": "ser",
+        "target": "nota",
+        "weight": 1
+      },
+      {
+        "source": "ser",
+        "target": "pessoa",
+        "weight": 1
+      },
+      {
+        "source": "ser",
+        "target": "dia",
+        "weight": 1
+      },
+      {
+        "source": "ganhar",
+        "target": "disco",
+        "weight": 1
+      },
+      {
+        "source": "criar",
+        "target": "número",
+        "weight": 1
+      },
+      {
+        "source": "ir",
+        "target": "artigo",
+        "weight": 1
+      },
+      {
+        "source": "ser",
+        "target": "fonte",
+        "weight": 1
+      },
+      {
+        "source": "ver",
+        "target": "informação",
+        "weight": 1
+      },
+      {
+        "source": "dever",
+        "target": "página",
+        "weight": 1
+      },
+      {
+        "source": "estar",
+        "target": "equipe",
+        "weight": 1
+      },
+      {
+        "source": "voltar",
+        "target": "clube",
+        "weight": 2
+      },
+      {
+        "source": "ficar",
+        "target": "equipe",
+        "weight": 1
+      },
+      {
+        "source": "utilizar",
+        "target": "clube",
+        "weight": 1
+      },
+      {
+        "source": "utilizar",
+        "target": "nome",
+        "weight": 1
+      },
+      {
+        "source": "consultar",
+        "target": "agosto",
+        "weight": 1
+      },
+      {
+        "source": "ser",
+        "target": "lista",
+        "weight": 1
+      },
+      {
+        "source": "conter",
+        "target": "nota",
+        "weight": 1
+      },
+      {
+        "source": "tornar",
+        "target": "álbum",
+        "weight": 2
+      },
+      {
+        "source": "tornar",
+        "target": "membro",
+        "weight": 1
+      },
+      {
+        "source": "revelar",
+        "target": "nome",
+        "weight": 1
+      },
+      {
+        "source": "revelar",
+        "target": "empresa",
+        "weight": 1
+      },
+      {
+        "source": "revelar",
+        "target": "integrante",
+        "weight": 1
+      },
+      {
+        "source": "receber",
+        "target": "maio",
+        "weight": 1
+      },
+      {
+        "source": "realizar",
+        "target": "agosto",
+        "weight": 1
+      },
+      {
+        "source": "alcançar",
+        "target": "agosto",
+        "weight": 1
+      },
+      {
+        "source": "chamar",
+        "target": "música",
+        "weight": 3
+      },
+      {
+        "source": "fornecer",
+        "target": "vocal",
+        "weight": 1
+      },
+      {
+        "source": "apresentar",
+        "target": "single",
+        "weight": 1
+      },
+      {
+        "source": "alcançar",
+        "target": "número",
+        "weight": 1
+      },
+      {
+        "source": "incluir",
+        "target": "ano",
+        "weight": 2
+      },
+      {
+        "source": "incluir",
+        "target": "canção",
+        "weight": 3
+      },
+      {
+        "source": "incluir",
+        "target": "single",
+        "weight": 2
+      },
+      {
+        "source": "ficar",
+        "target": "música",
+        "weight": 2
+      },
+      {
+        "source": "aparecer",
+        "target": "grupo",
+        "weight": 3
+      },
+      {
+        "source": "ficar",
+        "target": "lançamento",
+        "weight": 1
+      },
+      {
+        "source": "estrear",
+        "target": "música",
+        "weight": 1
+      },
+      {
+        "source": "anunciar",
+        "target": "grupo",
+        "weight": 2
+      },
+      {
+        "source": "ser",
+        "target": "lançamento",
+        "weight": 1
+      },
+      {
+        "source": "ter",
+        "target": "canção",
+        "weight": 1
+      },
+      {
+        "source": "terminar",
+        "target": "grupo",
+        "weight": 1
+      },
+      {
+        "source": "vender",
+        "target": "videoclipe",
+        "weight": 1
+      },
+      {
+        "source": "incluir",
+        "target": "país",
+        "weight": 1
+      },
+      {
+        "source": "alcançar",
+        "target": "vitória",
+        "weight": 2
+      },
+      {
+        "source": "ser",
+        "target": "integrante",
+        "weight": 2
+      },
+      {
+        "source": "ser",
+        "target": "fevereiro",
+        "weight": 1
+      },
+      {
+        "source": "liderar",
+        "target": "grupo",
+        "weight": 1
+      },
+      {
+        "source": "conseguir",
+        "target": "grupo",
+        "weight": 1
+      },
+      {
+        "source": "liderar",
+        "target": "música",
+        "weight": 2
+      },
+      {
+        "source": "começar",
+        "target": "abril",
+        "weight": 1
+      },
+      {
+        "source": "ser",
+        "target": "junho",
+        "weight": 2
+      },
+      {
+        "source": "fazer",
+        "target": "referência",
+        "weight": 1
+      },
+      {
+        "source": "atingir",
+        "target": "música",
+        "weight": 1
+      },
+      {
+        "source": "ganhar",
+        "target": "canção",
+        "weight": 1
+      },
+      {
+        "source": "ter",
+        "target": "grupo",
+        "weight": 1
+      },
+      {
+        "source": "estar",
+        "target": "integrante",
+        "weight": 1
+      },
+      {
+        "source": "chamar",
+        "target": "grupo",
+        "weight": 1
+      },
+      {
+        "source": "descrever",
+        "target": "música",
+        "weight": 1
+      },
+      {
+        "source": "ganhar",
+        "target": "grupo",
+        "weight": 1
+      },
+      {
+        "source": "revelar",
+        "target": "grupo",
+        "weight": 1
+      },
+      {
+        "source": "liderar",
+        "target": "lista",
+        "weight": 1
+      },
+      {
+        "source": "lançar",
+        "target": "música",
+        "weight": 1
+      },
+      {
+        "source": "considerar",
+        "target": "grupo",
+        "weight": 1
+      },
+      {
+        "source": "dar",
+        "target": "sistema",
+        "weight": 1
+      },
+      {
+        "source": "escrever",
+        "target": "música",
+        "weight": 1
+      },
+      {
+        "source": "partir",
+        "target": "faixa",
+        "weight": 1
+      },
+      {
+        "source": "conter",
+        "target": "vocal",
+        "weight": 1
+      },
+      {
+        "source": "obter",
+        "target": "sucesso",
+        "weight": 1
+      },
+      {
+        "source": "conter",
+        "target": "uso",
+        "weight": 1
+      },
+      {
+        "source": "reconhecer",
+        "target": "lista",
+        "weight": 1
+      },
+      {
+        "source": "receber",
+        "target": "ano",
+        "weight": 1
+      },
+      {
+        "source": "lançar",
+        "target": "ano",
+        "weight": 2
+      },
+      {
+        "source": "ficar",
+        "target": "tipo",
+        "weight": 2
+      },
+      {
+        "source": "fazer",
+        "target": "mulher",
+        "weight": 2
+      },
+      {
+        "source": "fazer",
+        "target": "ponto",
+        "weight": 1
+      },
+      {
+        "source": "poder",
+        "target": "pessoa",
+        "weight": 1
+      },
+      {
+        "source": "apontar",
+        "target": "lado",
+        "weight": 1
+      },
+      {
+        "source": "servir",
+        "target": "faixa",
+        "weight": 1
+      },
+      {
+        "source": "apresentar",
+        "target": "imagem",
+        "weight": 1
+      },
+      {
+        "source": "criar",
+        "target": "edição",
+        "weight": 1
+      },
+      {
+        "source": "apresentar",
+        "target": "versão",
+        "weight": 2
+      },
+      {
+        "source": "fazer",
+        "target": "uso",
+        "weight": 1
+      },
+      {
+        "source": "possuir",
+        "target": "canção",
+        "weight": 1
+      },
+      {
+        "source": "ser",
+        "target": "produção",
+        "weight": 1
+      },
+      {
+        "source": "seguir",
+        "target": "forma",
+        "weight": 1
+      },
+      {
+        "source": "abrir",
+        "target": "faixa",
+        "weight": 1
+      },
+      {
+        "source": "terminar",
+        "target": "faixa",
+        "weight": 1
+      },
+      {
+        "source": "trazer",
+        "target": "mulher",
+        "weight": 1
+      },
+      {
+        "source": "estar",
+        "target": "mulher",
+        "weight": 2
+      },
+      {
+        "source": "fazer",
+        "target": "faixa",
+        "weight": 1
+      },
+      {
+        "source": "conter",
+        "target": "mulher",
+        "weight": 1
+      },
+      {
+        "source": "dizer",
+        "target": "vídeo",
+        "weight": 1
+      },
+      {
+        "source": "ter",
+        "target": "vídeo",
+        "weight": 2
+      },
+      {
+        "source": "sugerir",
+        "target": "grupo",
+        "weight": 1
+      },
+      {
+        "source": "chamar",
+        "target": "vídeo",
+        "weight": 1
+      },
+      {
+        "source": "terminar",
+        "target": "vídeo",
+        "weight": 1
+      },
+      {
+        "source": "fazer",
+        "target": "imagem",
+        "weight": 1
+      },
+      {
+        "source": "relacionar",
+        "target": "imagem",
+        "weight": 1
+      },
+      {
+        "source": "selecionar",
+        "target": "vídeo",
+        "weight": 1
+      },
+      {
+        "source": "aparecer",
+        "target": "vídeo",
+        "weight": 1
+      },
+      {
+        "source": "realizar",
+        "target": "original",
+        "weight": 1
+      },
+      {
+        "source": "participar",
+        "target": "grupo",
+        "weight": 1
+      },
+      {
+        "source": "revelar",
+        "target": "ano",
+        "weight": 1
+      },
+      {
+        "source": "cantar",
+        "target": "mulher",
+        "weight": 2
+      },
+      {
+        "source": "usar",
+        "target": "grupo",
+        "weight": 1
+      },
+      {
+        "source": "marcar",
+        "target": "música",
+        "weight": 1
+      },
+      {
+        "source": "mostrar",
+        "target": "faixa",
+        "weight": 1
+      },
+      {
+        "source": "mostrar",
+        "target": "lado",
+        "weight": 1
+      },
+      {
+        "source": "lançar",
+        "target": "trabalho",
+        "weight": 1
+      },
+      {
+        "source": "ajudar",
+        "target": "número",
+        "weight": 1
+      },
+      {
+        "source": "cantar",
+        "target": "faixa",
+        "weight": 1
+      },
+      {
+        "source": "gravar",
+        "target": "grupo",
+        "weight": 1
+      },
+      {
+        "source": "surgir",
+        "target": "imagem",
+        "weight": 1
+      },
+      {
+        "source": "obter",
+        "target": "música",
+        "weight": 1
+      },
+      {
+        "source": "trazer",
+        "target": "faixa",
+        "weight": 1
+      },
+      {
+        "source": "ocorrer",
+        "target": "gravação",
+        "weight": 1
+      },
+      {
+        "source": "estrear",
+        "target": "videoclipe",
+        "weight": 1
+      },
+      {
+        "source": "começar",
+        "target": "grupo",
+        "weight": 1
+      },
+      {
+        "source": "fazer",
+        "target": "versão",
+        "weight": 1
+      },
+      {
+        "source": "fechar",
+        "target": "grupo",
+        "weight": 1
+      },
+      {
+        "source": "começar",
+        "target": "imagem",
+        "weight": 1
+      },
+      {
+        "source": "ser",
+        "target": "imagem",
+        "weight": 1
+      },
+      {
+        "source": "apresentar",
+        "target": "conteúdo",
+        "weight": 1
+      },
+      {
+        "source": "criar",
+        "target": "grupo",
+        "weight": 1
+      },
+      {
+        "source": "ter",
+        "target": "história",
+        "weight": 1
+      },
+      {
+        "source": "considerar",
+        "target": "lugar",
+        "weight": 1
+      },
+      {
+        "source": "estar",
+        "target": "nome",
+        "weight": 1
+      },
+      {
+        "source": "obter",
+        "target": "canção",
+        "weight": 1
+      },
+      {
+        "source": "gravar",
+        "target": "faixa",
+        "weight": 1
+      }
+    ]
+  }
+}

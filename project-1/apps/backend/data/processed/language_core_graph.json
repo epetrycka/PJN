@@ -1,0 +1,10674 @@
+{
+  "metadata": {
+    "target_unique_words": 100000,
+    "unique_words_observed": 100108,
+    "total_tokens_observed": 861167,
+    "articles_used": 2516,
+    "files_considered": 1,
+    "lemma_strategy": "simplemma[pt]",
+    "min_frequency": 12,
+    "min_connection_weight": 5,
+    "max_nodes": 250,
+    "selected_nodes": 250,
+    "selected_edges": 1831
+  },
+  "nodes": [
+    {
+      "id": "consultar",
+      "frequency": 6784,
+      "unique_neighbors": 1492,
+      "connection_weight": 13568
+    },
+    {
+      "id": "inglês",
+      "frequency": 3253,
+      "unique_neighbors": 1822,
+      "connection_weight": 6495
+    },
+    {
+      "id": "poder",
+      "frequency": 3167,
+      "unique_neighbors": 1988,
+      "connection_weight": 6332
+    },
+    {
+      "id": "ano",
+      "frequency": 2779,
+      "unique_neighbors": 1886,
+      "connection_weight": 5393
+    },
+    {
+      "id": "artigo",
+      "frequency": 2225,
+      "unique_neighbors": 983,
+      "connection_weight": 4432
+    },
+    {
+      "id": "outro",
+      "frequency": 2075,
+      "unique_neighbors": 1883,
+      "connection_weight": 4142
+    },
+    {
+      "id": "portal",
+      "frequency": 2058,
+      "unique_neighbors": 789,
+      "connection_weight": 4103
+    },
+    {
+      "id": "abril",
+      "frequency": 2004,
+      "unique_neighbors": 1494,
+      "connection_weight": 3966
+    },
+    {
+      "id": "janeiro",
+      "frequency": 2028,
+      "unique_neighbors": 1550,
+      "connection_weight": 3963
+    },
+    {
+      "id": "ajudar",
+      "frequency": 1979,
+      "unique_neighbors": 499,
+      "connection_weight": 3947
+    },
+    {
+      "id": "agosto",
+      "frequency": 1970,
+      "unique_neighbors": 1510,
+      "connection_weight": 3896
+    },
+    {
+      "id": "primeiro",
+      "frequency": 1946,
+      "unique_neighbors": 1593,
+      "connection_weight": 3889
+    },
+    {
+      "id": "brasil",
+      "frequency": 1905,
+      "unique_neighbors": 1528,
+      "connection_weight": 3754
+    },
+    {
+      "id": "maio",
+      "frequency": 1900,
+      "unique_neighbors": 1604,
+      "connection_weight": 3744
+    },
+    {
+      "id": "ver",
+      "frequency": 1872,
+      "unique_neighbors": 1544,
+      "connection_weight": 3731
+    },
+    {
+      "id": "julho",
+      "frequency": 1810,
+      "unique_neighbors": 1547,
+      "connection_weight": 3580
+    },
+    {
+      "id": "março",
+      "frequency": 1688,
+      "unique_neighbors": 1448,
+      "connection_weight": 3345
+    },
+    {
+      "id": "dezembro",
+      "frequency": 1689,
+      "unique_neighbors": 1227,
+      "connection_weight": 3237
+    },
+    {
+      "id": "junho",
+      "frequency": 1590,
+      "unique_neighbors": 1377,
+      "connection_weight": 3145
+    },
+    {
+      "id": "partir",
+      "frequency": 1575,
+      "unique_neighbors": 1610,
+      "connection_weight": 3114
+    },
+    {
+      "id": "álbum",
+      "frequency": 1558,
+      "unique_neighbors": 1081,
+      "connection_weight": 3088
+    },
+    {
+      "id": "outubro",
+      "frequency": 1558,
+      "unique_neighbors": 1346,
+      "connection_weight": 3064
+    },
+    {
+      "id": "setembro",
+      "frequency": 1525,
+      "unique_neighbors": 1300,
+      "connection_weight": 3001
+    },
+    {
+      "id": "novo",
+      "frequency": 1498,
+      "unique_neighbors": 1382,
+      "connection_weight": 2984
+    },
+    {
+      "id": "todo",
+      "frequency": 1437,
+      "unique_neighbors": 1348,
+      "connection_weight": 2866
+    },
+    {
+      "id": "novembro",
+      "frequency": 1401,
+      "unique_neighbors": 1254,
+      "connection_weight": 2767
+    },
+    {
+      "id": "fonte",
+      "frequency": 1364,
+      "unique_neighbors": 406,
+      "connection_weight": 2725
+    },
+    {
+      "id": "dia",
+      "frequency": 1351,
+      "unique_neighbors": 965,
+      "connection_weight": 2664
+    },
+    {
+      "id": "nome",
+      "frequency": 1324,
+      "unique_neighbors": 1140,
+      "connection_weight": 2642
+    },
+    {
+      "id": "fevereiro",
+      "frequency": 1322,
+      "unique_neighbors": 1197,
+      "connection_weight": 2618
+    },
+    {
+      "id": "principal",
+      "frequency": 1243,
+      "unique_neighbors": 802,
+      "connection_weight": 2486
+    },
+    {
+      "id": "rir",
+      "frequency": 1247,
+      "unique_neighbors": 800,
+      "connection_weight": 2483
+    },
+    {
+      "id": "segundo",
+      "frequency": 1224,
+      "unique_neighbors": 1122,
+      "connection_weight": 2442
+    },
+    {
+      "id": "grande",
+      "frequency": 1193,
+      "unique_neighbors": 1098,
+      "connection_weight": 2373
+    },
+    {
+      "id": "wikipédia",
+      "frequency": 1168,
+      "unique_neighbors": 43,
+      "connection_weight": 2336
+    },
+    {
+      "id": "página",
+      "frequency": 1163,
+      "unique_neighbors": 707,
+      "connection_weight": 2301
+    },
+    {
+      "id": "santo",
+      "frequency": 1138,
+      "unique_neighbors": 896,
+      "connection_weight": 2271
+    },
+    {
+      "id": "país",
+      "frequency": 1129,
+      "unique_neighbors": 902,
+      "connection_weight": 2258
+    },
+    {
+      "id": "esboço",
+      "frequency": 1117,
+      "unique_neighbors": 287,
+      "connection_weight": 2234
+    },
+    {
+      "id": "unido",
+      "frequency": 1085,
+      "unique_neighbors": 623,
+      "connection_weight": 2147
+    },
+    {
+      "id": "listar",
+      "frequency": 1064,
+      "unique_neighbors": 552,
+      "connection_weight": 2097
+    },
+    {
+      "id": "estado",
+      "frequency": 1045,
+      "unique_neighbors": 570,
+      "connection_weight": 2085
+    },
+    {
+      "id": "grupo",
+      "frequency": 1030,
+      "unique_neighbors": 1183,
+      "connection_weight": 2051
+    },
+    {
+      "id": "cidade",
+      "frequency": 1000,
+      "unique_neighbors": 1070,
+      "connection_weight": 1998
+    },
+    {
+      "id": "dois",
+      "frequency": 994,
+      "unique_neighbors": 1072,
+      "connection_weight": 1986
+    },
+    {
+      "id": "história",
+      "frequency": 995,
+      "unique_neighbors": 1110,
+      "connection_weight": 1959
+    },
+    {
+      "id": "externar",
+      "frequency": 949,
+      "unique_neighbors": 390,
+      "connection_weight": 1897
+    },
+    {
+      "id": "região",
+      "frequency": 954,
+      "unique_neighbors": 784,
+      "connection_weight": 1894
+    },
+    {
+      "id": "paulo",
+      "frequency": 977,
+      "unique_neighbors": 881,
+      "connection_weight": 1889
+    },
+    {
+      "id": "músico",
+      "frequency": 984,
+      "unique_neighbors": 989,
+      "connection_weight": 1888
+    },
+    {
+      "id": "asteroide",
+      "frequency": 1105,
+      "unique_neighbors": 194,
+      "connection_weight": 1879
+    },
+    {
+      "id": "possuir",
+      "frequency": 938,
+      "unique_neighbors": 571,
+      "connection_weight": 1874
+    },
+    {
+      "id": "nacional",
+      "frequency": 934,
+      "unique_neighbors": 745,
+      "connection_weight": 1868
+    },
+    {
+      "id": "ligações",
+      "frequency": 930,
+      "unique_neighbors": 376,
+      "connection_weight": 1860
+    },
+    {
+      "id": "expandindo-o",
+      "frequency": 1089,
+      "unique_neighbors": 120,
+      "connection_weight": 1855
+    },
+    {
+      "id": "família",
+      "frequency": 903,
+      "unique_neighbors": 810,
+      "connection_weight": 1806
+    },
+    {
+      "id": "dar",
+      "frequency": 893,
+      "unique_neighbors": 1077,
+      "connection_weight": 1786
+    },
+    {
+      "id": "brasileiro",
+      "frequency": 890,
+      "unique_neighbors": 761,
+      "connection_weight": 1778
+    },
+    {
+      "id": "dado",
+      "frequency": 886,
+      "unique_neighbors": 504,
+      "connection_weight": 1772
+    },
+    {
+      "id": "sul",
+      "frequency": 889,
+      "unique_neighbors": 654,
+      "connection_weight": 1771
+    },
+    {
+      "id": "jogo",
+      "frequency": 885,
+      "unique_neighbors": 646,
+      "connection_weight": 1762
+    },
+    {
+      "id": "maior",
+      "frequency": 873,
+      "unique_neighbors": 765,
+      "connection_weight": 1742
+    },
+    {
+      "id": "datar",
+      "frequency": 894,
+      "unique_neighbors": 467,
+      "connection_weight": 1725
+    },
+    {
+      "id": "cópia",
+      "frequency": 821,
+      "unique_neighbors": 154,
+      "connection_weight": 1642
+    },
+    {
+      "id": "período",
+      "frequency": 819,
+      "unique_neighbors": 563,
+      "connection_weight": 1636
+    },
+    {
+      "id": "título",
+      "frequency": 815,
+      "unique_neighbors": 608,
+      "connection_weight": 1626
+    },
+    {
+      "id": "espécie",
+      "frequency": 815,
+      "unique_neighbors": 737,
+      "connection_weight": 1626
+    },
+    {
+      "id": "área",
+      "frequency": 812,
+      "unique_neighbors": 670,
+      "connection_weight": 1616
+    },
+    {
+      "id": "ua",
+      "frequency": 809,
+      "unique_neighbors": 68,
+      "connection_weight": 1610
+    },
+    {
+      "id": "lançamento",
+      "frequency": 793,
+      "unique_neighbors": 651,
+      "connection_weight": 1579
+    },
+    {
+      "id": "canção",
+      "frequency": 793,
+      "unique_neighbors": 798,
+      "connection_weight": 1570
+    },
+    {
+      "id": "categoria",
+      "frequency": 786,
+      "unique_neighbors": 376,
+      "connection_weight": 1564
+    },
+    {
+      "id": "final",
+      "frequency": 795,
+      "unique_neighbors": 737,
+      "connection_weight": 1554
+    },
+    {
+      "id": "lançar",
+      "frequency": 774,
+      "unique_neighbors": 691,
+      "connection_weight": 1546
+    },
+    {
+      "id": "fazer",
+      "frequency": 771,
+      "unique_neighbors": 950,
+      "connection_weight": 1542
+    },
+    {
+      "id": "após",
+      "frequency": 753,
+      "unique_neighbors": 912,
+      "connection_weight": 1506
+    },
+    {
+      "id": "formar",
+      "frequency": 739,
+      "unique_neighbors": 1057,
+      "connection_weight": 1474
+    },
+    {
+      "id": "algum",
+      "frequency": 724,
+      "unique_neighbors": 925,
+      "connection_weight": 1448
+    },
+    {
+      "id": "encontrar",
+      "frequency": 720,
+      "unique_neighbors": 472,
+      "connection_weight": 1440
+    },
+    {
+      "id": "durante",
+      "frequency": 707,
+      "unique_neighbors": 820,
+      "connection_weight": 1414
+    },
+    {
+      "id": "campeonato",
+      "frequency": 737,
+      "unique_neighbors": 360,
+      "connection_weight": 1412
+    },
+    {
+      "id": "filme",
+      "frequency": 714,
+      "unique_neighbors": 758,
+      "connection_weight": 1412
+    },
+    {
+      "id": "produção",
+      "frequency": 702,
+      "unique_neighbors": 845,
+      "connection_weight": 1402
+    },
+    {
+      "id": "oficial",
+      "frequency": 706,
+      "unique_neighbors": 586,
+      "connection_weight": 1401
+    },
+    {
+      "id": "onde",
+      "frequency": 690,
+      "unique_neighbors": 955,
+      "connection_weight": 1380
+    },
+    {
+      "id": "masc",
+      "frequency": 676,
+      "unique_neighbors": 71,
+      "connection_weight": 1352
+    },
+    {
+      "id": "total",
+      "frequency": 671,
+      "unique_neighbors": 412,
+      "connection_weight": 1341
+    },
+    {
+      "id": "século",
+      "frequency": 732,
+      "unique_neighbors": 469,
+      "connection_weight": 1320
+    },
+    {
+      "id": "clube",
+      "frequency": 668,
+      "unique_neighbors": 549,
+      "connection_weight": 1319
+    },
+    {
+      "id": "número",
+      "frequency": 728,
+      "unique_neighbors": 652,
+      "connection_weight": 1318
+    },
+    {
+      "id": "melhor",
+      "frequency": 650,
+      "unique_neighbors": 511,
+      "connection_weight": 1299
+    },
+    {
+      "id": "reino",
+      "frequency": 645,
+      "unique_neighbors": 356,
+      "connection_weight": 1287
+    },
+    {
+      "id": "fem",
+      "frequency": 642,
+      "unique_neighbors": 50,
+      "connection_weight": 1278
+    },
+    {
+      "id": "local",
+      "frequency": 641,
+      "unique_neighbors": 771,
+      "connection_weight": 1276
+    },
+    {
+      "id": "mundial",
+      "frequency": 641,
+      "unique_neighbors": 392,
+      "connection_weight": 1273
+    },
+    {
+      "id": "tv",
+      "frequency": 643,
+      "unique_neighbors": 474,
+      "connection_weight": 1264
+    },
+    {
+      "id": "tempo",
+      "frequency": 632,
+      "unique_neighbors": 658,
+      "connection_weight": 1259
+    },
+    {
+      "id": "político",
+      "frequency": 638,
+      "unique_neighbors": 601,
+      "connection_weight": 1253
+    },
+    {
+      "id": "edição",
+      "frequency": 629,
+      "unique_neighbors": 520,
+      "connection_weight": 1252
+    },
+    {
+      "id": "francês",
+      "frequency": 626,
+      "unique_neighbors": 568,
+      "connection_weight": 1247
+    },
+    {
+      "id": "série",
+      "frequency": 649,
+      "unique_neighbors": 683,
+      "connection_weight": 1240
+    },
+    {
+      "id": "público",
+      "frequency": 621,
+      "unique_neighbors": 645,
+      "connection_weight": 1240
+    },
+    {
+      "id": "gênero",
+      "frequency": 617,
+      "unique_neighbors": 492,
+      "connection_weight": 1232
+    },
+    {
+      "id": "frança",
+      "frequency": 631,
+      "unique_neighbors": 542,
+      "connection_weight": 1226
+    },
+    {
+      "id": "informação",
+      "frequency": 615,
+      "unique_neighbors": 473,
+      "connection_weight": 1225
+    },
+    {
+      "id": "vida",
+      "frequency": 615,
+      "unique_neighbors": 709,
+      "connection_weight": 1221
+    },
+    {
+      "id": "equipar",
+      "frequency": 609,
+      "unique_neighbors": 596,
+      "connection_weight": 1210
+    },
+    {
+      "id": "futebol",
+      "frequency": 614,
+      "unique_neighbors": 358,
+      "connection_weight": 1209
+    },
+    {
+      "id": "desde",
+      "frequency": 604,
+      "unique_neighbors": 671,
+      "connection_weight": 1207
+    },
+    {
+      "id": "geral",
+      "frequency": 605,
+      "unique_neighbors": 556,
+      "connection_weight": 1206
+    },
+    {
+      "id": "ordem",
+      "frequency": 600,
+      "unique_neighbors": 488,
+      "connection_weight": 1197
+    },
+    {
+      "id": "portugal",
+      "frequency": 610,
+      "unique_neighbors": 584,
+      "connection_weight": 1196
+    },
+    {
+      "id": "sistema",
+      "frequency": 593,
+      "unique_neighbors": 725,
+      "connection_weight": 1172
+    },
+    {
+      "id": "incluir",
+      "frequency": 586,
+      "unique_neighbors": 870,
+      "connection_weight": 1172
+    },
+    {
+      "id": "cintura",
+      "frequency": 587,
+      "unique_neighbors": 59,
+      "connection_weight": 1171
+    },
+    {
+      "id": "imagem",
+      "frequency": 584,
+      "unique_neighbors": 332,
+      "connection_weight": 1162
+    },
+    {
+      "id": "guerra",
+      "frequency": 587,
+      "unique_neighbors": 488,
+      "connection_weight": 1160
+    },
+    {
+      "id": "arquivar",
+      "frequency": 579,
+      "unique_neighbors": 138,
+      "connection_weight": 1158
+    },
+    {
+      "id": "população",
+      "frequency": 576,
+      "unique_neighbors": 328,
+      "connection_weight": 1148
+    },
+    {
+      "id": "projeto",
+      "frequency": 574,
+      "unique_neighbors": 579,
+      "connection_weight": 1145
+    },
+    {
+      "id": "divisão",
+      "frequency": 597,
+      "unique_neighbors": 382,
+      "connection_weight": 1143
+    },
+    {
+      "id": "josé",
+      "frequency": 573,
+      "unique_neighbors": 605,
+      "connection_weight": 1143
+    },
+    {
+      "id": "governo",
+      "frequency": 577,
+      "unique_neighbors": 618,
+      "connection_weight": 1137
+    },
+    {
+      "id": "joão",
+      "frequency": 570,
+      "unique_neighbors": 578,
+      "connection_weight": 1135
+    },
+    {
+      "id": "vez",
+      "frequency": 567,
+      "unique_neighbors": 614,
+      "connection_weight": 1134
+    },
+    {
+      "id": "maria",
+      "frequency": 563,
+      "unique_neighbors": 535,
+      "connection_weight": 1126
+    },
+    {
+      "id": "descobrir",
+      "frequency": 561,
+      "unique_neighbors": 339,
+      "connection_weight": 1122
+    },
+    {
+      "id": "conteúdo",
+      "frequency": 557,
+      "unique_neighbors": 180,
+      "connection_weight": 1114
+    },
+    {
+      "id": "mundo",
+      "frequency": 550,
+      "unique_neighbors": 644,
+      "connection_weight": 1099
+    },
+    {
+      "id": "bandar",
+      "frequency": 551,
+      "unique_neighbors": 584,
+      "connection_weight": 1098
+    },
+    {
+      "id": "orbital",
+      "frequency": 545,
+      "unique_neighbors": 46,
+      "connection_weight": 1090
+    },
+    {
+      "id": "internacional",
+      "frequency": 543,
+      "unique_neighbors": 518,
+      "connection_weight": 1083
+    },
+    {
+      "id": "apenas",
+      "frequency": 540,
+      "unique_neighbors": 716,
+      "connection_weight": 1080
+    },
+    {
+      "id": "john",
+      "frequency": 540,
+      "unique_neighbors": 731,
+      "connection_weight": 1079
+    },
+    {
+      "id": "el",
+      "frequency": 540,
+      "unique_neighbors": 711,
+      "connection_weight": 1077
+    },
+    {
+      "id": "pessoa",
+      "frequency": 539,
+      "unique_neighbors": 647,
+      "connection_weight": 1072
+    },
+    {
+      "id": "localização",
+      "frequency": 550,
+      "unique_neighbors": 482,
+      "connection_weight": 1060
+    },
+    {
+      "id": "livro",
+      "frequency": 531,
+      "unique_neighbors": 588,
+      "connection_weight": 1053
+    },
+    {
+      "id": "vivo",
+      "frequency": 542,
+      "unique_neighbors": 457,
+      "connection_weight": 1050
+    },
+    {
+      "id": "conhecido",
+      "frequency": 520,
+      "unique_neighbors": 778,
+      "connection_weight": 1040
+    },
+    {
+      "id": "ainda",
+      "frequency": 519,
+      "unique_neighbors": 768,
+      "connection_weight": 1038
+    },
+    {
+      "id": "capar",
+      "frequency": 518,
+      "unique_neighbors": 143,
+      "connection_weight": 1036
+    },
+    {
+      "id": "característica",
+      "frequency": 518,
+      "unique_neighbors": 331,
+      "connection_weight": 1036
+    },
+    {
+      "id": "último",
+      "frequency": 517,
+      "unique_neighbors": 556,
+      "connection_weight": 1030
+    },
+    {
+      "id": "asteroides",
+      "frequency": 511,
+      "unique_neighbors": 174,
+      "connection_weight": 1019
+    },
+    {
+      "id": "ficar",
+      "frequency": 507,
+      "unique_neighbors": 709,
+      "connection_weight": 1014
+    },
+    {
+      "id": "município",
+      "frequency": 508,
+      "unique_neighbors": 485,
+      "connection_weight": 1011
+    },
+    {
+      "id": "googlar",
+      "frequency": 501,
+      "unique_neighbors": 82,
+      "connection_weight": 1001
+    },
+    {
+      "id": "versão",
+      "frequency": 501,
+      "unique_neighbors": 538,
+      "connection_weight": 998
+    },
+    {
+      "id": "tipo",
+      "frequency": 502,
+      "unique_neighbors": 580,
+      "connection_weight": 997
+    },
+    {
+      "id": "além",
+      "frequency": 497,
+      "unique_neighbors": 706,
+      "connection_weight": 992
+    },
+    {
+      "id": "coreano",
+      "frequency": 496,
+      "unique_neighbors": 269,
+      "connection_weight": 992
+    },
+    {
+      "id": "posição",
+      "frequency": 495,
+      "unique_neighbors": 407,
+      "connection_weight": 990
+    },
+    {
+      "id": "três",
+      "frequency": 492,
+      "unique_neighbors": 608,
+      "connection_weight": 984
+    },
+    {
+      "id": "médio",
+      "frequency": 491,
+      "unique_neighbors": 279,
+      "connection_weight": 982
+    },
+    {
+      "id": "campo",
+      "frequency": 484,
+      "unique_neighbors": 579,
+      "connection_weight": 968
+    },
+    {
+      "id": "filho",
+      "frequency": 483,
+      "unique_neighbors": 673,
+      "connection_weight": 966
+    },
+    {
+      "id": "começar",
+      "frequency": 483,
+      "unique_neighbors": 677,
+      "connection_weight": 966
+    },
+    {
+      "id": "morte",
+      "frequency": 485,
+      "unique_neighbors": 528,
+      "connection_weight": 964
+    },
+    {
+      "id": "feminino",
+      "frequency": 481,
+      "unique_neighbors": 399,
+      "connection_weight": 962
+    },
+    {
+      "id": "lugar",
+      "frequency": 481,
+      "unique_neighbors": 533,
+      "connection_weight": 958
+    },
+    {
+      "id": "del",
+      "frequency": 477,
+      "unique_neighbors": 475,
+      "connection_weight": 950
+    },
+    {
+      "id": "nascimento",
+      "frequency": 469,
+      "unique_neighbors": 468,
+      "connection_weight": 936
+    },
+    {
+      "id": "antes",
+      "frequency": 464,
+      "unique_neighbors": 567,
+      "connection_weight": 927
+    },
+    {
+      "id": "evento",
+      "frequency": 464,
+      "unique_neighbors": 471,
+      "connection_weight": 924
+    },
+    {
+      "id": "international",
+      "frequency": 460,
+      "unique_neighbors": 374,
+      "connection_weight": 920
+    },
+    {
+      "id": "controlo",
+      "frequency": 459,
+      "unique_neighbors": 366,
+      "connection_weight": 918
+    },
+    {
+      "id": "citar",
+      "frequency": 459,
+      "unique_neighbors": 111,
+      "connection_weight": 917
+    },
+    {
+      "id": "passar",
+      "frequency": 459,
+      "unique_neighbors": 688,
+      "connection_weight": 917
+    },
+    {
+      "id": "bem",
+      "frequency": 458,
+      "unique_neighbors": 630,
+      "connection_weight": 912
+    },
+    {
+      "id": "presidente",
+      "frequency": 456,
+      "unique_neighbors": 550,
+      "connection_weight": 912
+    },
+    {
+      "id": "billboard",
+      "frequency": 459,
+      "unique_neighbors": 272,
+      "connection_weight": 910
+    },
+    {
+      "id": "inserir",
+      "frequency": 454,
+      "unique_neighbors": 21,
+      "connection_weight": 908
+    },
+    {
+      "id": "universidade",
+      "frequency": 455,
+      "unique_neighbors": 414,
+      "connection_weight": 907
+    },
+    {
+      "id": "arte",
+      "frequency": 461,
+      "unique_neighbors": 440,
+      "connection_weight": 898
+    },
+    {
+      "id": "festival",
+      "frequency": 453,
+      "unique_neighbors": 384,
+      "connection_weight": 897
+    },
+    {
+      "id": "hab",
+      "frequency": 467,
+      "unique_neighbors": 80,
+      "connection_weight": 894
+    },
+    {
+      "id": "norte",
+      "frequency": 439,
+      "unique_neighbors": 429,
+      "connection_weight": 878
+    },
+    {
+      "id": "classificação",
+      "frequency": 440,
+      "unique_neighbors": 413,
+      "connection_weight": 877
+    },
+    {
+      "id": "social",
+      "frequency": 437,
+      "unique_neighbors": 463,
+      "connection_weight": 874
+    },
+    {
+      "id": "david",
+      "frequency": 437,
+      "unique_neighbors": 546,
+      "connection_weight": 874
+    },
+    {
+      "id": "commons",
+      "frequency": 468,
+      "unique_neighbors": 154,
+      "connection_weight": 868
+    },
+    {
+      "id": "san",
+      "frequency": 433,
+      "unique_neighbors": 351,
+      "connection_weight": 866
+    },
+    {
+      "id": "prêmio",
+      "frequency": 440,
+      "unique_neighbors": 399,
+      "connection_weight": 863
+    },
+    {
+      "id": "terceiro",
+      "frequency": 437,
+      "unique_neighbors": 417,
+      "connection_weight": 863
+    },
+    {
+      "id": "excentricidade",
+      "frequency": 431,
+      "unique_neighbors": 47,
+      "connection_weight": 862
+    },
+    {
+      "id": "direito",
+      "frequency": 436,
+      "unique_neighbors": 490,
+      "connection_weight": 861
+    },
+    {
+      "id": "antigo",
+      "frequency": 432,
+      "unique_neighbors": 553,
+      "connection_weight": 861
+    },
+    {
+      "id": "autoridade",
+      "frequency": 429,
+      "unique_neighbors": 200,
+      "connection_weight": 858
+    },
+    {
+      "id": "pedrar",
+      "frequency": 427,
+      "unique_neighbors": 484,
+      "connection_weight": 853
+    },
+    {
+      "id": "estúdio",
+      "frequency": 426,
+      "unique_neighbors": 391,
+      "connection_weight": 852
+    },
+    {
+      "id": "década",
+      "frequency": 473,
+      "unique_neighbors": 584,
+      "connection_weight": 844
+    },
+    {
+      "id": "classe",
+      "frequency": 427,
+      "unique_neighbors": 308,
+      "connection_weight": 844
+    },
+    {
+      "id": "apresentar",
+      "frequency": 421,
+      "unique_neighbors": 596,
+      "connection_weight": 842
+    },
+    {
+      "id": "rede",
+      "frequency": 422,
+      "unique_neighbors": 446,
+      "connection_weight": 840
+    },
+    {
+      "id": "carlos",
+      "frequency": 421,
+      "unique_neighbors": 459,
+      "connection_weight": 840
+    },
+    {
+      "id": "abw",
+      "frequency": 415,
+      "unique_neighbors": 2,
+      "connection_weight": 830
+    },
+    {
+      "id": "terra",
+      "frequency": 418,
+      "unique_neighbors": 547,
+      "connection_weight": 828
+    },
+    {
+      "id": "enquanto",
+      "frequency": 414,
+      "unique_neighbors": 685,
+      "connection_weight": 828
+    },
+    {
+      "id": "centro",
+      "frequency": 415,
+      "unique_neighbors": 507,
+      "connection_weight": 821
+    },
+    {
+      "id": "br",
+      "frequency": 412,
+      "unique_neighbors": 363,
+      "connection_weight": 820
+    },
+    {
+      "id": "histórico",
+      "frequency": 410,
+      "unique_neighbors": 403,
+      "connection_weight": 820
+    },
+    {
+      "id": "michael",
+      "frequency": 406,
+      "unique_neighbors": 501,
+      "connection_weight": 812
+    },
+    {
+      "id": "inclinação",
+      "frequency": 405,
+      "unique_neighbors": 23,
+      "connection_weight": 810
+    },
+    {
+      "id": "digital",
+      "frequency": 404,
+      "unique_neighbors": 306,
+      "connection_weight": 808
+    },
+    {
+      "id": "igreja",
+      "frequency": 405,
+      "unique_neighbors": 476,
+      "connection_weight": 806
+    },
+    {
+      "id": "aeroporto",
+      "frequency": 417,
+      "unique_neighbors": 391,
+      "connection_weight": 805
+    },
+    {
+      "id": "rock",
+      "frequency": 409,
+      "unique_neighbors": 340,
+      "connection_weight": 805
+    },
+    {
+      "id": "press",
+      "frequency": 404,
+      "unique_neighbors": 255,
+      "connection_weight": 804
+    },
+    {
+      "id": "show",
+      "frequency": 402,
+      "unique_neighbors": 476,
+      "connection_weight": 800
+    },
+    {
+      "id": "trabalho",
+      "frequency": 400,
+      "unique_neighbors": 580,
+      "connection_weight": 800
+    },
+    {
+      "id": "rei",
+      "frequency": 402,
+      "unique_neighbors": 520,
+      "connection_weight": 798
+    },
+    {
+      "id": "recorde",
+      "frequency": 404,
+      "unique_neighbors": 151,
+      "connection_weight": 790
+    },
+    {
+      "id": "portuguesar",
+      "frequency": 393,
+      "unique_neighbors": 394,
+      "connection_weight": 786
+    },
+    {
+      "id": "distrito",
+      "frequency": 393,
+      "unique_neighbors": 390,
+      "connection_weight": 784
+    },
+    {
+      "id": "lei",
+      "frequency": 395,
+      "unique_neighbors": 401,
+      "connection_weight": 782
+    },
+    {
+      "id": "criar",
+      "frequency": 392,
+      "unique_neighbors": 568,
+      "connection_weight": 782
+    },
+    {
+      "id": "porto",
+      "frequency": 394,
+      "unique_neighbors": 339,
+      "connection_weight": 780
+    },
+    {
+      "id": "baixo",
+      "frequency": 392,
+      "unique_neighbors": 398,
+      "connection_weight": 777
+    },
+    {
+      "id": "dizer",
+      "frequency": 388,
+      "unique_neighbors": 612,
+      "connection_weight": 776
+    },
+    {
+      "id": "mulher",
+      "frequency": 390,
+      "unique_neighbors": 510,
+      "connection_weight": 775
+    },
+    {
+      "id": "iii",
+      "frequency": 388,
+      "unique_neighbors": 342,
+      "connection_weight": 775
+    },
+    {
+      "id": "ponto",
+      "frequency": 387,
+      "unique_neighbors": 455,
+      "connection_weight": 771
+    },
+    {
+      "id": "alemanha",
+      "frequency": 393,
+      "unique_neighbors": 351,
+      "connection_weight": 764
+    },
+    {
+      "id": "assim",
+      "frequency": 383,
+      "unique_neighbors": 634,
+      "connection_weight": 764
+    },
+    {
+      "id": "comuna",
+      "frequency": 382,
+      "unique_neighbors": 261,
+      "connection_weight": 764
+    },
+    {
+      "id": "caso",
+      "frequency": 381,
+      "unique_neighbors": 487,
+      "connection_weight": 759
+    },
+    {
+      "id": "científico",
+      "frequency": 380,
+      "unique_neighbors": 167,
+      "connection_weight": 759
+    },
+    {
+      "id": "duração",
+      "frequency": 379,
+      "unique_neighbors": 314,
+      "connection_weight": 758
+    },
+    {
+      "id": "vário",
+      "frequency": 377,
+      "unique_neighbors": 426,
+      "connection_weight": 754
+    },
+    {
+      "id": "receber",
+      "frequency": 376,
+      "unique_neighbors": 520,
+      "connection_weight": 752
+    },
+    {
+      "id": "amor",
+      "frequency": 403,
+      "unique_neighbors": 500,
+      "connection_weight": 748
+    },
+    {
+      "id": "contra",
+      "frequency": 374,
+      "unique_neighbors": 506,
+      "connection_weight": 748
+    },
+    {
+      "id": "tour",
+      "frequency": 379,
+      "unique_neighbors": 336,
+      "connection_weight": 747
+    },
+    {
+      "id": "repúblico",
+      "frequency": 373,
+      "unique_neighbors": 264,
+      "connection_weight": 745
+    },
+    {
+      "id": "cada",
+      "frequency": 372,
+      "unique_neighbors": 469,
+      "connection_weight": 744
+    },
+    {
+      "id": "you",
+      "frequency": 372,
+      "unique_neighbors": 343,
+      "connection_weight": 744
+    },
+    {
+      "id": "university",
+      "frequency": 372,
+      "unique_neighbors": 214,
+      "connection_weight": 743
+    },
+    {
+      "id": "calendário",
+      "frequency": 389,
+      "unique_neighbors": 122,
+      "connection_weight": 737
+    },
+    {
+      "id": "escola",
+      "frequency": 369,
+      "unique_neighbors": 448,
+      "connection_weight": 732
+    },
+    {
+      "id": "aguar",
+      "frequency": 366,
+      "unique_neighbors": 448,
+      "connection_weight": 732
+    },
+    {
+      "id": "alto",
+      "frequency": 366,
+      "unique_neighbors": 460,
+      "connection_weight": 730
+    },
+    {
+      "id": "dever",
+      "frequency": 365,
+      "unique_neighbors": 562,
+      "connection_weight": 728
+    },
+    {
+      "id": "campeão",
+      "frequency": 364,
+      "unique_neighbors": 344,
+      "connection_weight": 726
+    },
+    {
+      "id": "sol",
+      "frequency": 364,
+      "unique_neighbors": 183,
+      "connection_weight": 726
+    },
+    {
+      "id": "cantor",
+      "frequency": 363,
+      "unique_neighbors": 431,
+      "connection_weight": 724
+    },
+    {
+      "id": "york",
+      "frequency": 362,
+      "unique_neighbors": 170,
+      "connection_weight": 724
+    },
+    {
+      "id": "chart",
+      "frequency": 362,
+      "unique_neighbors": 174,
+      "connection_weight": 722
+    },
+    {
+      "id": "início",
+      "frequency": 360,
+      "unique_neighbors": 358,
+      "connection_weight": 720
+    },
+    {
+      "id": "membro",
+      "frequency": 360,
+      "unique_neighbors": 464,
+      "connection_weight": 720
+    }
+  ],
+  "edges": [
+    {
+      "source": "livro",
+      "target": "todo",
+      "weight": 7
+    },
+    {
+      "source": "livro",
+      "target": "lançar",
+      "weight": 5
+    },
+    {
+      "source": "livro",
+      "target": "primeiro",
+      "weight": 10
+    },
+    {
+      "source": "livro",
+      "target": "iii",
+      "weight": 11
+    },
+    {
+      "source": "livro",
+      "target": "série",
+      "weight": 14
+    },
+    {
+      "source": "livro",
+      "target": "segundo",
+      "weight": 6
+    },
+    {
+      "source": "livro",
+      "target": "incluir",
+      "weight": 7
+    },
+    {
+      "source": "livro",
+      "target": "categoria",
+      "weight": 6
+    },
+    {
+      "source": "livro",
+      "target": "outro",
+      "weight": 5
+    },
+    {
+      "source": "livro",
+      "target": "esboço",
+      "weight": 5
+    },
+    {
+      "source": "livro",
+      "target": "brasileiro",
+      "weight": 5
+    },
+    {
+      "source": "livro",
+      "target": "ano",
+      "weight": 5
+    },
+    {
+      "source": "listar",
+      "target": "artigo",
+      "weight": 81
+    },
+    {
+      "source": "listar",
+      "target": "ver",
+      "weight": 158
+    },
+    {
+      "source": "listar",
+      "target": "principal",
+      "weight": 12
+    },
+    {
+      "source": "listar",
+      "target": "lugar",
+      "weight": 7
+    },
+    {
+      "source": "listar",
+      "target": "lançamento",
+      "weight": 13
+    },
+    {
+      "source": "listar",
+      "target": "página",
+      "weight": 11
+    },
+    {
+      "source": "listar",
+      "target": "brasil",
+      "weight": 7
+    },
+    {
+      "source": "listar",
+      "target": "político",
+      "weight": 5
+    },
+    {
+      "source": "listar",
+      "target": "álbum",
+      "weight": 6
+    },
+    {
+      "source": "listar",
+      "target": "oficial",
+      "weight": 5
+    },
+    {
+      "source": "listar",
+      "target": "bem",
+      "weight": 24
+    },
+    {
+      "source": "listar",
+      "target": "imagem",
+      "weight": 12
+    },
+    {
+      "source": "listar",
+      "target": "conteúdo",
+      "weight": 12
+    },
+    {
+      "source": "listar",
+      "target": "asteroides",
+      "weight": 173
+    },
+    {
+      "source": "listar",
+      "target": "espécie",
+      "weight": 51
+    },
+    {
+      "source": "listar",
+      "target": "aeroporto",
+      "weight": 18
+    },
+    {
+      "source": "listar",
+      "target": "comuna",
+      "weight": 6
+    },
+    {
+      "source": "listar",
+      "target": "distrito",
+      "weight": 5
+    },
+    {
+      "source": "listar",
+      "target": "município",
+      "weight": 8
+    },
+    {
+      "source": "direito",
+      "target": "mulher",
+      "weight": 6
+    },
+    {
+      "source": "direito",
+      "target": "partir",
+      "weight": 5
+    },
+    {
+      "source": "direito",
+      "target": "internacional",
+      "weight": 7
+    },
+    {
+      "source": "direito",
+      "target": "portal",
+      "weight": 6
+    },
+    {
+      "source": "direito",
+      "target": "universidade",
+      "weight": 9
+    },
+    {
+      "source": "direito",
+      "target": "político",
+      "weight": 6
+    },
+    {
+      "source": "direito",
+      "target": "público",
+      "weight": 7
+    },
+    {
+      "source": "direito",
+      "target": "nacional",
+      "weight": 9
+    },
+    {
+      "source": "futebol",
+      "target": "clube",
+      "weight": 131
+    },
+    {
+      "source": "futebol",
+      "target": "rir",
+      "weight": 17
+    },
+    {
+      "source": "futebol",
+      "target": "brasileiro",
+      "weight": 28
+    },
+    {
+      "source": "futebol",
+      "target": "campeonato",
+      "weight": 24
+    },
+    {
+      "source": "futebol",
+      "target": "portal",
+      "weight": 104
+    },
+    {
+      "source": "futebol",
+      "target": "consultar",
+      "weight": 5
+    },
+    {
+      "source": "futebol",
+      "target": "esboço",
+      "weight": 8
+    },
+    {
+      "source": "futebol",
+      "target": "divisão",
+      "weight": 9
+    },
+    {
+      "source": "futebol",
+      "target": "junho",
+      "weight": 5
+    },
+    {
+      "source": "futebol",
+      "target": "segundo",
+      "weight": 7
+    },
+    {
+      "source": "futebol",
+      "target": "brasil",
+      "weight": 7
+    },
+    {
+      "source": "futebol",
+      "target": "campeão",
+      "weight": 5
+    },
+    {
+      "source": "futebol",
+      "target": "feminino",
+      "weight": 19
+    },
+    {
+      "source": "futebol",
+      "target": "primeiro",
+      "weight": 7
+    },
+    {
+      "source": "futebol",
+      "target": "edição",
+      "weight": 9
+    },
+    {
+      "source": "futebol",
+      "target": "paulo",
+      "weight": 13
+    },
+    {
+      "source": "futebol",
+      "target": "mundial",
+      "weight": 7
+    },
+    {
+      "source": "futebol",
+      "target": "artigo",
+      "weight": 5
+    },
+    {
+      "source": "futebol",
+      "target": "terceiro",
+      "weight": 8
+    },
+    {
+      "source": "edição",
+      "target": "primeiro",
+      "weight": 36
+    },
+    {
+      "source": "edição",
+      "target": "último",
+      "weight": 46
+    },
+    {
+      "source": "edição",
+      "target": "terceiro",
+      "weight": 16
+    },
+    {
+      "source": "edição",
+      "target": "campeonato",
+      "weight": 25
+    },
+    {
+      "source": "edição",
+      "target": "brasil",
+      "weight": 7
+    },
+    {
+      "source": "edição",
+      "target": "festival",
+      "weight": 6
+    },
+    {
+      "source": "edição",
+      "target": "brasileiro",
+      "weight": 11
+    },
+    {
+      "source": "edição",
+      "target": "histórico",
+      "weight": 35
+    },
+    {
+      "source": "edição",
+      "target": "prêmio",
+      "weight": 7
+    },
+    {
+      "source": "edição",
+      "target": "jogo",
+      "weight": 8
+    },
+    {
+      "source": "edição",
+      "target": "segundo",
+      "weight": 24
+    },
+    {
+      "source": "edição",
+      "target": "dois",
+      "weight": 6
+    },
+    {
+      "source": "edição",
+      "target": "novo",
+      "weight": 10
+    },
+    {
+      "source": "edição",
+      "target": "incluir",
+      "weight": 9
+    },
+    {
+      "source": "edição",
+      "target": "março",
+      "weight": 7
+    },
+    {
+      "source": "edição",
+      "target": "paulo",
+      "weight": 5
+    },
+    {
+      "source": "edição",
+      "target": "abril",
+      "weight": 6
+    },
+    {
+      "source": "edição",
+      "target": "rir",
+      "weight": 7
+    },
+    {
+      "source": "edição",
+      "target": "capar",
+      "weight": 6
+    },
+    {
+      "source": "edição",
+      "target": "divisão",
+      "weight": 28
+    },
+    {
+      "source": "edição",
+      "target": "portuguesar",
+      "weight": 6
+    },
+    {
+      "source": "edição",
+      "target": "melhor",
+      "weight": 9
+    },
+    {
+      "source": "edição",
+      "target": "categoria",
+      "weight": 5
+    },
+    {
+      "source": "edição",
+      "target": "série",
+      "weight": 20
+    },
+    {
+      "source": "masc",
+      "target": "fem",
+      "weight": 727
+    },
+    {
+      "source": "masc",
+      "target": "equipar",
+      "weight": 41
+    },
+    {
+      "source": "lançar",
+      "target": "álbum",
+      "weight": 51
+    },
+    {
+      "source": "lançar",
+      "target": "terceiro",
+      "weight": 11
+    },
+    {
+      "source": "lançar",
+      "target": "grupo",
+      "weight": 16
+    },
+    {
+      "source": "lançar",
+      "target": "canção",
+      "weight": 7
+    },
+    {
+      "source": "lançar",
+      "target": "fevereiro",
+      "weight": 10
+    },
+    {
+      "source": "lançar",
+      "target": "novembro",
+      "weight": 13
+    },
+    {
+      "source": "lançar",
+      "target": "março",
+      "weight": 19
+    },
+    {
+      "source": "lançar",
+      "target": "novo",
+      "weight": 18
+    },
+    {
+      "source": "lançar",
+      "target": "segundo",
+      "weight": 21
+    },
+    {
+      "source": "lançar",
+      "target": "outubro",
+      "weight": 19
+    },
+    {
+      "source": "lançar",
+      "target": "primeiro",
+      "weight": 47
+    },
+    {
+      "source": "lançar",
+      "target": "julho",
+      "weight": 9
+    },
+    {
+      "source": "lançar",
+      "target": "agosto",
+      "weight": 13
+    },
+    {
+      "source": "lançar",
+      "target": "estúdio",
+      "weight": 6
+    },
+    {
+      "source": "lançar",
+      "target": "grande",
+      "weight": 5
+    },
+    {
+      "source": "lançar",
+      "target": "dezembro",
+      "weight": 12
+    },
+    {
+      "source": "lançar",
+      "target": "dia",
+      "weight": 31
+    },
+    {
+      "source": "lançar",
+      "target": "filme",
+      "weight": 12
+    },
+    {
+      "source": "lançar",
+      "target": "dois",
+      "weight": 17
+    },
+    {
+      "source": "lançar",
+      "target": "estado",
+      "weight": 10
+    },
+    {
+      "source": "lançar",
+      "target": "versão",
+      "weight": 10
+    },
+    {
+      "source": "lançar",
+      "target": "setembro",
+      "weight": 17
+    },
+    {
+      "source": "lançar",
+      "target": "músico",
+      "weight": 11
+    },
+    {
+      "source": "lançar",
+      "target": "ano",
+      "weight": 12
+    },
+    {
+      "source": "lançar",
+      "target": "cantor",
+      "weight": 7
+    },
+    {
+      "source": "lançar",
+      "target": "bandar",
+      "weight": 21
+    },
+    {
+      "source": "lançar",
+      "target": "abril",
+      "weight": 12
+    },
+    {
+      "source": "lançar",
+      "target": "junho",
+      "weight": 12
+    },
+    {
+      "source": "lançar",
+      "target": "jogo",
+      "weight": 8
+    },
+    {
+      "source": "lançar",
+      "target": "maio",
+      "weight": 13
+    },
+    {
+      "source": "lançar",
+      "target": "janeiro",
+      "weight": 9
+    },
+    {
+      "source": "lançar",
+      "target": "projeto",
+      "weight": 6
+    },
+    {
+      "source": "ano",
+      "target": "último",
+      "weight": 30
+    },
+    {
+      "source": "ano",
+      "target": "durante",
+      "weight": 26
+    },
+    {
+      "source": "ano",
+      "target": "nome",
+      "weight": 22
+    },
+    {
+      "source": "ano",
+      "target": "tempo",
+      "weight": 7
+    },
+    {
+      "source": "ano",
+      "target": "segundo",
+      "weight": 12
+    },
+    {
+      "source": "ano",
+      "target": "campeão",
+      "weight": 27
+    },
+    {
+      "source": "ano",
+      "target": "fevereiro",
+      "weight": 24
+    },
+    {
+      "source": "ano",
+      "target": "dezembro",
+      "weight": 56
+    },
+    {
+      "source": "ano",
+      "target": "abril",
+      "weight": 42
+    },
+    {
+      "source": "ano",
+      "target": "julho",
+      "weight": 38
+    },
+    {
+      "source": "ano",
+      "target": "título",
+      "weight": 40
+    },
+    {
+      "source": "ano",
+      "target": "categoria",
+      "weight": 5
+    },
+    {
+      "source": "ano",
+      "target": "show",
+      "weight": 5
+    },
+    {
+      "source": "ano",
+      "target": "datar",
+      "weight": 14
+    },
+    {
+      "source": "ano",
+      "target": "antes",
+      "weight": 16
+    },
+    {
+      "source": "ano",
+      "target": "três",
+      "weight": 23
+    },
+    {
+      "source": "ano",
+      "target": "vário",
+      "weight": 15
+    },
+    {
+      "source": "ano",
+      "target": "dois",
+      "weight": 41
+    },
+    {
+      "source": "ano",
+      "target": "final",
+      "weight": 25
+    },
+    {
+      "source": "ano",
+      "target": "começar",
+      "weight": 6
+    },
+    {
+      "source": "ano",
+      "target": "partir",
+      "weight": 11
+    },
+    {
+      "source": "ano",
+      "target": "maio",
+      "weight": 39
+    },
+    {
+      "source": "ano",
+      "target": "junho",
+      "weight": 21
+    },
+    {
+      "source": "ano",
+      "target": "março",
+      "weight": 39
+    },
+    {
+      "source": "ano",
+      "target": "todo",
+      "weight": 16
+    },
+    {
+      "source": "ano",
+      "target": "total",
+      "weight": 7
+    },
+    {
+      "source": "ano",
+      "target": "campeonato",
+      "weight": 6
+    },
+    {
+      "source": "ano",
+      "target": "canção",
+      "weight": 21
+    },
+    {
+      "source": "ano",
+      "target": "cada",
+      "weight": 10
+    },
+    {
+      "source": "ano",
+      "target": "brasil",
+      "weight": 18
+    },
+    {
+      "source": "ano",
+      "target": "janeiro",
+      "weight": 33
+    },
+    {
+      "source": "ano",
+      "target": "setembro",
+      "weight": 35
+    },
+    {
+      "source": "ano",
+      "target": "equipar",
+      "weight": 8
+    },
+    {
+      "source": "ano",
+      "target": "história",
+      "weight": 12
+    },
+    {
+      "source": "ano",
+      "target": "após",
+      "weight": 29
+    },
+    {
+      "source": "ano",
+      "target": "pessoa",
+      "weight": 6
+    },
+    {
+      "source": "ano",
+      "target": "novembro",
+      "weight": 26
+    },
+    {
+      "source": "ano",
+      "target": "álbum",
+      "weight": 27
+    },
+    {
+      "source": "ano",
+      "target": "local",
+      "weight": 38
+    },
+    {
+      "source": "ano",
+      "target": "grupo",
+      "weight": 5
+    },
+    {
+      "source": "ano",
+      "target": "receber",
+      "weight": 8
+    },
+    {
+      "source": "ano",
+      "target": "outubro",
+      "weight": 25
+    },
+    {
+      "source": "ano",
+      "target": "escola",
+      "weight": 5
+    },
+    {
+      "source": "ano",
+      "target": "algum",
+      "weight": 12
+    },
+    {
+      "source": "ano",
+      "target": "passar",
+      "weight": 17
+    },
+    {
+      "source": "ano",
+      "target": "agosto",
+      "weight": 37
+    },
+    {
+      "source": "ano",
+      "target": "ver",
+      "weight": 8
+    },
+    {
+      "source": "ano",
+      "target": "mulher",
+      "weight": 6
+    },
+    {
+      "source": "ano",
+      "target": "cantor",
+      "weight": 7
+    },
+    {
+      "source": "ano",
+      "target": "ficar",
+      "weight": 5
+    },
+    {
+      "source": "ano",
+      "target": "músico",
+      "weight": 14
+    },
+    {
+      "source": "ano",
+      "target": "feminino",
+      "weight": 6
+    },
+    {
+      "source": "ano",
+      "target": "vez",
+      "weight": 7
+    },
+    {
+      "source": "ano",
+      "target": "desde",
+      "weight": 18
+    },
+    {
+      "source": "ano",
+      "target": "novo",
+      "weight": 19
+    },
+    {
+      "source": "ano",
+      "target": "dar",
+      "weight": 5
+    },
+    {
+      "source": "ano",
+      "target": "início",
+      "weight": 20
+    },
+    {
+      "source": "ano",
+      "target": "cidade",
+      "weight": 14
+    },
+    {
+      "source": "ano",
+      "target": "período",
+      "weight": 6
+    },
+    {
+      "source": "ano",
+      "target": "estúdio",
+      "weight": 5
+    },
+    {
+      "source": "ano",
+      "target": "série",
+      "weight": 6
+    },
+    {
+      "source": "ano",
+      "target": "apenas",
+      "weight": 20
+    },
+    {
+      "source": "ano",
+      "target": "rir",
+      "weight": 12
+    },
+    {
+      "source": "ano",
+      "target": "primeiro",
+      "weight": 30
+    },
+    {
+      "source": "ano",
+      "target": "filme",
+      "weight": 9
+    },
+    {
+      "source": "ano",
+      "target": "clube",
+      "weight": 36
+    },
+    {
+      "source": "ano",
+      "target": "vida",
+      "weight": 10
+    },
+    {
+      "source": "ano",
+      "target": "dia",
+      "weight": 43
+    },
+    {
+      "source": "ano",
+      "target": "lançamento",
+      "weight": 7
+    },
+    {
+      "source": "ano",
+      "target": "bandar",
+      "weight": 10
+    },
+    {
+      "source": "ano",
+      "target": "maior",
+      "weight": 5
+    },
+    {
+      "source": "ano",
+      "target": "paulo",
+      "weight": 5
+    },
+    {
+      "source": "ano",
+      "target": "outro",
+      "weight": 21
+    },
+    {
+      "source": "ano",
+      "target": "nascimento",
+      "weight": 7
+    },
+    {
+      "source": "ano",
+      "target": "ainda",
+      "weight": 6
+    },
+    {
+      "source": "ano",
+      "target": "morte",
+      "weight": 16
+    },
+    {
+      "source": "ano",
+      "target": "vivo",
+      "weight": 7
+    },
+    {
+      "source": "ano",
+      "target": "evento",
+      "weight": 16
+    },
+    {
+      "source": "ano",
+      "target": "sul",
+      "weight": 5
+    },
+    {
+      "source": "ano",
+      "target": "orbital",
+      "weight": 149
+    },
+    {
+      "source": "ano",
+      "target": "década",
+      "weight": 28
+    },
+    {
+      "source": "ano",
+      "target": "arte",
+      "weight": 22
+    },
+    {
+      "source": "ano",
+      "target": "região",
+      "weight": 5
+    },
+    {
+      "source": "ano",
+      "target": "político",
+      "weight": 6
+    },
+    {
+      "source": "ano",
+      "target": "portugal",
+      "weight": 5
+    },
+    {
+      "source": "país",
+      "target": "outro",
+      "weight": 21
+    },
+    {
+      "source": "país",
+      "target": "brasil",
+      "weight": 25
+    },
+    {
+      "source": "país",
+      "target": "jogo",
+      "weight": 18
+    },
+    {
+      "source": "país",
+      "target": "baixo",
+      "weight": 165
+    },
+    {
+      "source": "país",
+      "target": "alemanha",
+      "weight": 26
+    },
+    {
+      "source": "país",
+      "target": "portugal",
+      "weight": 21
+    },
+    {
+      "source": "país",
+      "target": "região",
+      "weight": 8
+    },
+    {
+      "source": "país",
+      "target": "todo",
+      "weight": 31
+    },
+    {
+      "source": "país",
+      "target": "maior",
+      "weight": 16
+    },
+    {
+      "source": "país",
+      "target": "mundo",
+      "weight": 10
+    },
+    {
+      "source": "país",
+      "target": "terceiro",
+      "weight": 19
+    },
+    {
+      "source": "país",
+      "target": "onde",
+      "weight": 6
+    },
+    {
+      "source": "país",
+      "target": "localização",
+      "weight": 6
+    },
+    {
+      "source": "país",
+      "target": "norte",
+      "weight": 6
+    },
+    {
+      "source": "país",
+      "target": "geral",
+      "weight": 5
+    },
+    {
+      "source": "país",
+      "target": "cidade",
+      "weight": 13
+    },
+    {
+      "source": "país",
+      "target": "local",
+      "weight": 9
+    },
+    {
+      "source": "país",
+      "target": "estado",
+      "weight": 19
+    },
+    {
+      "source": "país",
+      "target": "primeiro",
+      "weight": 7
+    },
+    {
+      "source": "país",
+      "target": "agosto",
+      "weight": 7
+    },
+    {
+      "source": "país",
+      "target": "ordem",
+      "weight": 7
+    },
+    {
+      "source": "país",
+      "target": "total",
+      "weight": 6
+    },
+    {
+      "source": "país",
+      "target": "vário",
+      "weight": 8
+    },
+    {
+      "source": "país",
+      "target": "reino",
+      "weight": 9
+    },
+    {
+      "source": "país",
+      "target": "ver",
+      "weight": 6
+    },
+    {
+      "source": "país",
+      "target": "história",
+      "weight": 7
+    },
+    {
+      "source": "país",
+      "target": "frança",
+      "weight": 75
+    },
+    {
+      "source": "país",
+      "target": "inglês",
+      "weight": 9
+    },
+    {
+      "source": "país",
+      "target": "algum",
+      "weight": 5
+    },
+    {
+      "source": "país",
+      "target": "lançamento",
+      "weight": 6
+    },
+    {
+      "source": "país",
+      "target": "el",
+      "weight": 5
+    },
+    {
+      "source": "país",
+      "target": "nacional",
+      "weight": 11
+    },
+    {
+      "source": "país",
+      "target": "equipar",
+      "weight": 11
+    },
+    {
+      "source": "século",
+      "target": "brasil",
+      "weight": 8
+    },
+    {
+      "source": "século",
+      "target": "início",
+      "weight": 28
+    },
+    {
+      "source": "século",
+      "target": "músico",
+      "weight": 5
+    },
+    {
+      "source": "século",
+      "target": "morte",
+      "weight": 5
+    },
+    {
+      "source": "século",
+      "target": "portuguesar",
+      "weight": 17
+    },
+    {
+      "source": "século",
+      "target": "durante",
+      "weight": 24
+    },
+    {
+      "source": "século",
+      "target": "arte",
+      "weight": 5
+    },
+    {
+      "source": "século",
+      "target": "primeiro",
+      "weight": 8
+    },
+    {
+      "source": "século",
+      "target": "final",
+      "weight": 50
+    },
+    {
+      "source": "século",
+      "target": "partir",
+      "weight": 10
+    },
+    {
+      "source": "século",
+      "target": "desde",
+      "weight": 8
+    },
+    {
+      "source": "século",
+      "target": "iii",
+      "weight": 28
+    },
+    {
+      "source": "século",
+      "target": "década",
+      "weight": 12
+    },
+    {
+      "source": "século",
+      "target": "calendário",
+      "weight": 5
+    },
+    {
+      "source": "ordem",
+      "target": "nacional",
+      "weight": 7
+    },
+    {
+      "source": "ordem",
+      "target": "contra",
+      "weight": 7
+    },
+    {
+      "source": "ordem",
+      "target": "político",
+      "weight": 8
+    },
+    {
+      "source": "ordem",
+      "target": "público",
+      "weight": 6
+    },
+    {
+      "source": "característica",
+      "target": "brasil",
+      "weight": 11
+    },
+    {
+      "source": "característica",
+      "target": "cidade",
+      "weight": 9
+    },
+    {
+      "source": "característica",
+      "target": "geral",
+      "weight": 5
+    },
+    {
+      "source": "característica",
+      "target": "inclinação",
+      "weight": 8
+    },
+    {
+      "source": "característica",
+      "target": "tipo",
+      "weight": 28
+    },
+    {
+      "source": "característica",
+      "target": "principal",
+      "weight": 6
+    },
+    {
+      "source": "rei",
+      "target": "pedrar",
+      "weight": 11
+    },
+    {
+      "source": "rei",
+      "target": "filho",
+      "weight": 6
+    },
+    {
+      "source": "rei",
+      "target": "carlos",
+      "weight": 8
+    },
+    {
+      "source": "rei",
+      "target": "joão",
+      "weight": 6
+    },
+    {
+      "source": "rei",
+      "target": "frança",
+      "weight": 8
+    },
+    {
+      "source": "área",
+      "target": "total",
+      "weight": 152
+    },
+    {
+      "source": "área",
+      "target": "grande",
+      "weight": 8
+    },
+    {
+      "source": "área",
+      "target": "população",
+      "weight": 40
+    },
+    {
+      "source": "área",
+      "target": "região",
+      "weight": 11
+    },
+    {
+      "source": "área",
+      "target": "possuir",
+      "weight": 16
+    },
+    {
+      "source": "área",
+      "target": "outro",
+      "weight": 8
+    },
+    {
+      "source": "área",
+      "target": "cidade",
+      "weight": 5
+    },
+    {
+      "source": "área",
+      "target": "onde",
+      "weight": 6
+    },
+    {
+      "source": "área",
+      "target": "aguar",
+      "weight": 20
+    },
+    {
+      "source": "área",
+      "target": "todo",
+      "weight": 6
+    },
+    {
+      "source": "área",
+      "target": "incluir",
+      "weight": 5
+    },
+    {
+      "source": "área",
+      "target": "comuna",
+      "weight": 53
+    },
+    {
+      "source": "localização",
+      "target": "unido",
+      "weight": 21
+    },
+    {
+      "source": "localização",
+      "target": "cidade",
+      "weight": 8
+    },
+    {
+      "source": "localização",
+      "target": "francês",
+      "weight": 39
+    },
+    {
+      "source": "localização",
+      "target": "público",
+      "weight": 5
+    },
+    {
+      "source": "localização",
+      "target": "aeroporto",
+      "weight": 14
+    },
+    {
+      "source": "localização",
+      "target": "distrito",
+      "weight": 8
+    },
+    {
+      "source": "localização",
+      "target": "comuna",
+      "weight": 15
+    },
+    {
+      "source": "localização",
+      "target": "município",
+      "weight": 9
+    },
+    {
+      "source": "formar",
+      "target": "grupo",
+      "weight": 6
+    },
+    {
+      "source": "formar",
+      "target": "social",
+      "weight": 5
+    },
+    {
+      "source": "formar",
+      "target": "partir",
+      "weight": 12
+    },
+    {
+      "source": "formar",
+      "target": "outro",
+      "weight": 12
+    },
+    {
+      "source": "formar",
+      "target": "novo",
+      "weight": 7
+    },
+    {
+      "source": "formar",
+      "target": "primeiro",
+      "weight": 5
+    },
+    {
+      "source": "formar",
+      "target": "poder",
+      "weight": 5
+    },
+    {
+      "source": "formar",
+      "target": "onde",
+      "weight": 6
+    },
+    {
+      "source": "presidente",
+      "target": "governo",
+      "weight": 6
+    },
+    {
+      "source": "presidente",
+      "target": "repúblico",
+      "weight": 29
+    },
+    {
+      "source": "presidente",
+      "target": "brasil",
+      "weight": 9
+    },
+    {
+      "source": "presidente",
+      "target": "primeiro",
+      "weight": 11
+    },
+    {
+      "source": "presidente",
+      "target": "nome",
+      "weight": 9
+    },
+    {
+      "source": "presidente",
+      "target": "paulo",
+      "weight": 8
+    },
+    {
+      "source": "começar",
+      "target": "título",
+      "weight": 38
+    },
+    {
+      "source": "começar",
+      "target": "dia",
+      "weight": 10
+    },
+    {
+      "source": "começar",
+      "target": "fazer",
+      "weight": 7
+    },
+    {
+      "source": "sul",
+      "target": "grande",
+      "weight": 131
+    },
+    {
+      "source": "sul",
+      "target": "partir",
+      "weight": 6
+    },
+    {
+      "source": "sul",
+      "target": "gênero",
+      "weight": 7
+    },
+    {
+      "source": "sul",
+      "target": "dezembro",
+      "weight": 5
+    },
+    {
+      "source": "sul",
+      "target": "julho",
+      "weight": 6
+    },
+    {
+      "source": "sul",
+      "target": "rir",
+      "weight": 9
+    },
+    {
+      "source": "sul",
+      "target": "brasil",
+      "weight": 32
+    },
+    {
+      "source": "sul",
+      "target": "cidade",
+      "weight": 5
+    },
+    {
+      "source": "sul",
+      "target": "portal",
+      "weight": 10
+    },
+    {
+      "source": "sul",
+      "target": "junho",
+      "weight": 5
+    },
+    {
+      "source": "sul",
+      "target": "santo",
+      "weight": 9
+    },
+    {
+      "source": "sul",
+      "target": "região",
+      "weight": 16
+    },
+    {
+      "source": "sul",
+      "target": "estado",
+      "weight": 5
+    },
+    {
+      "source": "sul",
+      "target": "primeiro",
+      "weight": 5
+    },
+    {
+      "source": "sul",
+      "target": "norte",
+      "weight": 9
+    },
+    {
+      "source": "sul",
+      "target": "paulo",
+      "weight": 9
+    },
+    {
+      "source": "sul",
+      "target": "centro",
+      "weight": 7
+    },
+    {
+      "source": "sul",
+      "target": "outubro",
+      "weight": 5
+    },
+    {
+      "source": "sul",
+      "target": "canção",
+      "weight": 9
+    },
+    {
+      "source": "sul",
+      "target": "distrito",
+      "weight": 5
+    },
+    {
+      "source": "tempo",
+      "target": "período",
+      "weight": 15
+    },
+    {
+      "source": "tempo",
+      "target": "ficar",
+      "weight": 5
+    },
+    {
+      "source": "tempo",
+      "target": "passar",
+      "weight": 13
+    },
+    {
+      "source": "tempo",
+      "target": "novo",
+      "weight": 16
+    },
+    {
+      "source": "tempo",
+      "target": "melhor",
+      "weight": 26
+    },
+    {
+      "source": "tempo",
+      "target": "todo",
+      "weight": 29
+    },
+    {
+      "source": "tempo",
+      "target": "durante",
+      "weight": 10
+    },
+    {
+      "source": "tempo",
+      "target": "algum",
+      "weight": 10
+    },
+    {
+      "source": "tempo",
+      "target": "desde",
+      "weight": 6
+    },
+    {
+      "source": "tempo",
+      "target": "local",
+      "weight": 11
+    },
+    {
+      "source": "tempo",
+      "target": "geral",
+      "weight": 5
+    },
+    {
+      "source": "tempo",
+      "target": "além",
+      "weight": 15
+    },
+    {
+      "source": "tempo",
+      "target": "equipar",
+      "weight": 8
+    },
+    {
+      "source": "santo",
+      "target": "maria",
+      "weight": 76
+    },
+    {
+      "source": "santo",
+      "target": "josé",
+      "weight": 9
+    },
+    {
+      "source": "santo",
+      "target": "igreja",
+      "weight": 17
+    },
+    {
+      "source": "santo",
+      "target": "rir",
+      "weight": 5
+    },
+    {
+      "source": "santo",
+      "target": "todo",
+      "weight": 7
+    },
+    {
+      "source": "santo",
+      "target": "município",
+      "weight": 6
+    },
+    {
+      "source": "santo",
+      "target": "carlos",
+      "weight": 6
+    },
+    {
+      "source": "santo",
+      "target": "portal",
+      "weight": 10
+    },
+    {
+      "source": "santo",
+      "target": "porto",
+      "weight": 19
+    },
+    {
+      "source": "santo",
+      "target": "brasil",
+      "weight": 5
+    },
+    {
+      "source": "santo",
+      "target": "político",
+      "weight": 7
+    },
+    {
+      "source": "guerra",
+      "target": "durante",
+      "weight": 38
+    },
+    {
+      "source": "guerra",
+      "target": "primeiro",
+      "weight": 21
+    },
+    {
+      "source": "guerra",
+      "target": "mundial",
+      "weight": 121
+    },
+    {
+      "source": "guerra",
+      "target": "segundo",
+      "weight": 107
+    },
+    {
+      "source": "guerra",
+      "target": "portal",
+      "weight": 10
+    },
+    {
+      "source": "guerra",
+      "target": "social",
+      "weight": 6
+    },
+    {
+      "source": "guerra",
+      "target": "após",
+      "weight": 9
+    },
+    {
+      "source": "guerra",
+      "target": "início",
+      "weight": 6
+    },
+    {
+      "source": "guerra",
+      "target": "contra",
+      "weight": 12
+    },
+    {
+      "source": "guerra",
+      "target": "grande",
+      "weight": 6
+    },
+    {
+      "source": "guerra",
+      "target": "del",
+      "weight": 6
+    },
+    {
+      "source": "guerra",
+      "target": "história",
+      "weight": 10
+    },
+    {
+      "source": "guerra",
+      "target": "filme",
+      "weight": 5
+    },
+    {
+      "source": "guerra",
+      "target": "partir",
+      "weight": 6
+    },
+    {
+      "source": "nome",
+      "target": "clube",
+      "weight": 8
+    },
+    {
+      "source": "nome",
+      "target": "dar",
+      "weight": 28
+    },
+    {
+      "source": "nome",
+      "target": "científico",
+      "weight": 11
+    },
+    {
+      "source": "nome",
+      "target": "vez",
+      "weight": 5
+    },
+    {
+      "source": "nome",
+      "target": "ainda",
+      "weight": 5
+    },
+    {
+      "source": "nome",
+      "target": "partir",
+      "weight": 6
+    },
+    {
+      "source": "nome",
+      "target": "oficial",
+      "weight": 12
+    },
+    {
+      "source": "nome",
+      "target": "geral",
+      "weight": 12
+    },
+    {
+      "source": "nome",
+      "target": "conhecido",
+      "weight": 10
+    },
+    {
+      "source": "nome",
+      "target": "receber",
+      "weight": 22
+    },
+    {
+      "source": "nome",
+      "target": "novo",
+      "weight": 15
+    },
+    {
+      "source": "nome",
+      "target": "equipar",
+      "weight": 5
+    },
+    {
+      "source": "nome",
+      "target": "datar",
+      "weight": 54
+    },
+    {
+      "source": "nome",
+      "target": "álbum",
+      "weight": 7
+    },
+    {
+      "source": "nome",
+      "target": "grande",
+      "weight": 7
+    },
+    {
+      "source": "nome",
+      "target": "outro",
+      "weight": 20
+    },
+    {
+      "source": "nome",
+      "target": "filme",
+      "weight": 8
+    },
+    {
+      "source": "nome",
+      "target": "período",
+      "weight": 15
+    },
+    {
+      "source": "nome",
+      "target": "novembro",
+      "weight": 9
+    },
+    {
+      "source": "nome",
+      "target": "ver",
+      "weight": 25
+    },
+    {
+      "source": "nome",
+      "target": "segundo",
+      "weight": 5
+    },
+    {
+      "source": "nome",
+      "target": "portuguesar",
+      "weight": 15
+    },
+    {
+      "source": "nome",
+      "target": "local",
+      "weight": 8
+    },
+    {
+      "source": "nome",
+      "target": "cidade",
+      "weight": 6
+    },
+    {
+      "source": "nome",
+      "target": "posição",
+      "weight": 5
+    },
+    {
+      "source": "nome",
+      "target": "família",
+      "weight": 6
+    },
+    {
+      "source": "passar",
+      "target": "estado",
+      "weight": 5
+    },
+    {
+      "source": "passar",
+      "target": "janeiro",
+      "weight": 5
+    },
+    {
+      "source": "passar",
+      "target": "fazer",
+      "weight": 7
+    },
+    {
+      "source": "passar",
+      "target": "maior",
+      "weight": 6
+    },
+    {
+      "source": "passar",
+      "target": "poder",
+      "weight": 8
+    },
+    {
+      "source": "arte",
+      "target": "portal",
+      "weight": 77
+    },
+    {
+      "source": "arte",
+      "target": "capar",
+      "weight": 12
+    },
+    {
+      "source": "arte",
+      "target": "brasil",
+      "weight": 5
+    },
+    {
+      "source": "arte",
+      "target": "novo",
+      "weight": 14
+    },
+    {
+      "source": "arte",
+      "target": "universidade",
+      "weight": 8
+    },
+    {
+      "source": "arte",
+      "target": "escola",
+      "weight": 7
+    },
+    {
+      "source": "arte",
+      "target": "história",
+      "weight": 11
+    },
+    {
+      "source": "arte",
+      "target": "público",
+      "weight": 5
+    },
+    {
+      "source": "nascimento",
+      "target": "local",
+      "weight": 46
+    },
+    {
+      "source": "nascimento",
+      "target": "datar",
+      "weight": 68
+    },
+    {
+      "source": "nascimento",
+      "target": "abril",
+      "weight": 21
+    },
+    {
+      "source": "nascimento",
+      "target": "fevereiro",
+      "weight": 21
+    },
+    {
+      "source": "nascimento",
+      "target": "setembro",
+      "weight": 19
+    },
+    {
+      "source": "nascimento",
+      "target": "novembro",
+      "weight": 22
+    },
+    {
+      "source": "nascimento",
+      "target": "junho",
+      "weight": 21
+    },
+    {
+      "source": "nascimento",
+      "target": "dezembro",
+      "weight": 25
+    },
+    {
+      "source": "nascimento",
+      "target": "julho",
+      "weight": 21
+    },
+    {
+      "source": "nascimento",
+      "target": "agosto",
+      "weight": 18
+    },
+    {
+      "source": "nascimento",
+      "target": "janeiro",
+      "weight": 26
+    },
+    {
+      "source": "nascimento",
+      "target": "maio",
+      "weight": 23
+    },
+    {
+      "source": "nascimento",
+      "target": "outubro",
+      "weight": 16
+    },
+    {
+      "source": "nascimento",
+      "target": "março",
+      "weight": 14
+    },
+    {
+      "source": "nascimento",
+      "target": "morte",
+      "weight": 16
+    },
+    {
+      "source": "alto",
+      "target": "região",
+      "weight": 8
+    },
+    {
+      "source": "alto",
+      "target": "frança",
+      "weight": 8
+    },
+    {
+      "source": "rock",
+      "target": "rir",
+      "weight": 22
+    },
+    {
+      "source": "rock",
+      "target": "bandar",
+      "weight": 19
+    },
+    {
+      "source": "rock",
+      "target": "músico",
+      "weight": 6
+    },
+    {
+      "source": "rock",
+      "target": "duração",
+      "weight": 19
+    },
+    {
+      "source": "rock",
+      "target": "gênero",
+      "weight": 23
+    },
+    {
+      "source": "rock",
+      "target": "festival",
+      "weight": 19
+    },
+    {
+      "source": "rock",
+      "target": "portal",
+      "weight": 13
+    },
+    {
+      "source": "rock",
+      "target": "you",
+      "weight": 8
+    },
+    {
+      "source": "história",
+      "target": "clube",
+      "weight": 9
+    },
+    {
+      "source": "história",
+      "target": "desde",
+      "weight": 5
+    },
+    {
+      "source": "história",
+      "target": "primeiro",
+      "weight": 13
+    },
+    {
+      "source": "história",
+      "target": "brasil",
+      "weight": 14
+    },
+    {
+      "source": "história",
+      "target": "mundo",
+      "weight": 9
+    },
+    {
+      "source": "história",
+      "target": "grande",
+      "weight": 8
+    },
+    {
+      "source": "história",
+      "target": "ver",
+      "weight": 15
+    },
+    {
+      "source": "história",
+      "target": "portal",
+      "weight": 57
+    },
+    {
+      "source": "história",
+      "target": "período",
+      "weight": 5
+    },
+    {
+      "source": "história",
+      "target": "agosto",
+      "weight": 5
+    },
+    {
+      "source": "história",
+      "target": "vez",
+      "weight": 8
+    },
+    {
+      "source": "história",
+      "target": "nacional",
+      "weight": 5
+    },
+    {
+      "source": "história",
+      "target": "paulo",
+      "weight": 7
+    },
+    {
+      "source": "história",
+      "target": "porto",
+      "weight": 6
+    },
+    {
+      "source": "história",
+      "target": "cidade",
+      "weight": 5
+    },
+    {
+      "source": "história",
+      "target": "portugal",
+      "weight": 18
+    },
+    {
+      "source": "história",
+      "target": "novo",
+      "weight": 7
+    },
+    {
+      "source": "história",
+      "target": "maio",
+      "weight": 6
+    },
+    {
+      "source": "história",
+      "target": "vida",
+      "weight": 8
+    },
+    {
+      "source": "história",
+      "target": "partir",
+      "weight": 5
+    },
+    {
+      "source": "show",
+      "target": "primeiro",
+      "weight": 17
+    },
+    {
+      "source": "show",
+      "target": "músico",
+      "weight": 9
+    },
+    {
+      "source": "show",
+      "target": "el",
+      "weight": 5
+    },
+    {
+      "source": "show",
+      "target": "brasil",
+      "weight": 8
+    },
+    {
+      "source": "show",
+      "target": "outubro",
+      "weight": 5
+    },
+    {
+      "source": "show",
+      "target": "durante",
+      "weight": 9
+    },
+    {
+      "source": "show",
+      "target": "bandar",
+      "weight": 5
+    },
+    {
+      "source": "show",
+      "target": "novo",
+      "weight": 7
+    },
+    {
+      "source": "show",
+      "target": "cantor",
+      "weight": 6
+    },
+    {
+      "source": "show",
+      "target": "três",
+      "weight": 5
+    },
+    {
+      "source": "show",
+      "target": "fazer",
+      "weight": 9
+    },
+    {
+      "source": "dar",
+      "target": "artigo",
+      "weight": 59
+    },
+    {
+      "source": "dar",
+      "target": "grupo",
+      "weight": 7
+    },
+    {
+      "source": "dar",
+      "target": "início",
+      "weight": 12
+    },
+    {
+      "source": "dar",
+      "target": "poder",
+      "weight": 9
+    },
+    {
+      "source": "dar",
+      "target": "primeiro",
+      "weight": 5
+    },
+    {
+      "source": "dar",
+      "target": "período",
+      "weight": 7
+    },
+    {
+      "source": "dar",
+      "target": "partir",
+      "weight": 8
+    },
+    {
+      "source": "dar",
+      "target": "outro",
+      "weight": 18
+    },
+    {
+      "source": "dar",
+      "target": "álbum",
+      "weight": 7
+    },
+    {
+      "source": "dar",
+      "target": "dois",
+      "weight": 6
+    },
+    {
+      "source": "dar",
+      "target": "vida",
+      "weight": 10
+    },
+    {
+      "source": "dar",
+      "target": "tipo",
+      "weight": 13
+    },
+    {
+      "source": "dar",
+      "target": "lugar",
+      "weight": 11
+    },
+    {
+      "source": "dar",
+      "target": "jogo",
+      "weight": 9
+    },
+    {
+      "source": "dar",
+      "target": "filme",
+      "weight": 7
+    },
+    {
+      "source": "tipo",
+      "target": "três",
+      "weight": 10
+    },
+    {
+      "source": "tipo",
+      "target": "dois",
+      "weight": 8
+    },
+    {
+      "source": "tipo",
+      "target": "outro",
+      "weight": 13
+    },
+    {
+      "source": "tipo",
+      "target": "todo",
+      "weight": 11
+    },
+    {
+      "source": "tipo",
+      "target": "ficar",
+      "weight": 5
+    },
+    {
+      "source": "tipo",
+      "target": "novo",
+      "weight": 5
+    },
+    {
+      "source": "tipo",
+      "target": "algum",
+      "weight": 7
+    },
+    {
+      "source": "tipo",
+      "target": "geral",
+      "weight": 5
+    },
+    {
+      "source": "tipo",
+      "target": "principal",
+      "weight": 5
+    },
+    {
+      "source": "tipo",
+      "target": "vário",
+      "weight": 8
+    },
+    {
+      "source": "tipo",
+      "target": "público",
+      "weight": 16
+    },
+    {
+      "source": "tipo",
+      "target": "asteroide",
+      "weight": 5
+    },
+    {
+      "source": "tipo",
+      "target": "asteroides",
+      "weight": 5
+    },
+    {
+      "source": "último",
+      "target": "março",
+      "weight": 6
+    },
+    {
+      "source": "último",
+      "target": "álbum",
+      "weight": 14
+    },
+    {
+      "source": "último",
+      "target": "ficar",
+      "weight": 8
+    },
+    {
+      "source": "último",
+      "target": "lugar",
+      "weight": 8
+    },
+    {
+      "source": "último",
+      "target": "dois",
+      "weight": 5
+    },
+    {
+      "source": "último",
+      "target": "vez",
+      "weight": 14
+    },
+    {
+      "source": "último",
+      "target": "dia",
+      "weight": 13
+    },
+    {
+      "source": "último",
+      "target": "segundo",
+      "weight": 5
+    },
+    {
+      "source": "último",
+      "target": "grande",
+      "weight": 6
+    },
+    {
+      "source": "possuir",
+      "target": "commons",
+      "weight": 301
+    },
+    {
+      "source": "possuir",
+      "target": "categoria",
+      "weight": 278
+    },
+    {
+      "source": "possuir",
+      "target": "imagem",
+      "weight": 22
+    },
+    {
+      "source": "possuir",
+      "target": "página",
+      "weight": 7
+    },
+    {
+      "source": "possuir",
+      "target": "excentricidade",
+      "weight": 209
+    },
+    {
+      "source": "possuir",
+      "target": "dois",
+      "weight": 5
+    },
+    {
+      "source": "possuir",
+      "target": "principal",
+      "weight": 148
+    },
+    {
+      "source": "possuir",
+      "target": "ua",
+      "weight": 34
+    },
+    {
+      "source": "possuir",
+      "target": "cidade",
+      "weight": 5
+    },
+    {
+      "source": "possuir",
+      "target": "comuna",
+      "weight": 5
+    },
+    {
+      "source": "possuir",
+      "target": "população",
+      "weight": 6
+    },
+    {
+      "source": "sol",
+      "target": "excentricidade",
+      "weight": 203
+    },
+    {
+      "source": "sol",
+      "target": "ua",
+      "weight": 22
+    },
+    {
+      "source": "reino",
+      "target": "alemanha",
+      "weight": 5
+    },
+    {
+      "source": "reino",
+      "target": "científico",
+      "weight": 146
+    },
+    {
+      "source": "reino",
+      "target": "portal",
+      "weight": 14
+    },
+    {
+      "source": "reino",
+      "target": "álbum",
+      "weight": 6
+    },
+    {
+      "source": "reino",
+      "target": "portugal",
+      "weight": 22
+    },
+    {
+      "source": "partir",
+      "target": "maior",
+      "weight": 61
+    },
+    {
+      "source": "partir",
+      "target": "político",
+      "weight": 9
+    },
+    {
+      "source": "partir",
+      "target": "criar",
+      "weight": 7
+    },
+    {
+      "source": "partir",
+      "target": "mundo",
+      "weight": 8
+    },
+    {
+      "source": "partir",
+      "target": "primeiro",
+      "weight": 35
+    },
+    {
+      "source": "partir",
+      "target": "grande",
+      "weight": 56
+    },
+    {
+      "source": "partir",
+      "target": "novembro",
+      "weight": 6
+    },
+    {
+      "source": "partir",
+      "target": "nacional",
+      "weight": 14
+    },
+    {
+      "source": "partir",
+      "target": "série",
+      "weight": 17
+    },
+    {
+      "source": "partir",
+      "target": "outubro",
+      "weight": 7
+    },
+    {
+      "source": "partir",
+      "target": "segundo",
+      "weight": 30
+    },
+    {
+      "source": "partir",
+      "target": "fazer",
+      "weight": 117
+    },
+    {
+      "source": "partir",
+      "target": "vida",
+      "weight": 10
+    },
+    {
+      "source": "partir",
+      "target": "grupo",
+      "weight": 10
+    },
+    {
+      "source": "partir",
+      "target": "outro",
+      "weight": 9
+    },
+    {
+      "source": "partir",
+      "target": "brasil",
+      "weight": 5
+    },
+    {
+      "source": "partir",
+      "target": "população",
+      "weight": 5
+    },
+    {
+      "source": "partir",
+      "target": "região",
+      "weight": 6
+    },
+    {
+      "source": "partir",
+      "target": "agosto",
+      "weight": 10
+    },
+    {
+      "source": "partir",
+      "target": "álbum",
+      "weight": 6
+    },
+    {
+      "source": "partir",
+      "target": "maio",
+      "weight": 10
+    },
+    {
+      "source": "partir",
+      "target": "dois",
+      "weight": 18
+    },
+    {
+      "source": "partir",
+      "target": "década",
+      "weight": 6
+    },
+    {
+      "source": "partir",
+      "target": "membro",
+      "weight": 8
+    },
+    {
+      "source": "partir",
+      "target": "todo",
+      "weight": 6
+    },
+    {
+      "source": "partir",
+      "target": "poder",
+      "weight": 9
+    },
+    {
+      "source": "partir",
+      "target": "projeto",
+      "weight": 9
+    },
+    {
+      "source": "partir",
+      "target": "total",
+      "weight": 5
+    },
+    {
+      "source": "partir",
+      "target": "junho",
+      "weight": 5
+    },
+    {
+      "source": "partir",
+      "target": "dia",
+      "weight": 9
+    },
+    {
+      "source": "partir",
+      "target": "dado",
+      "weight": 13
+    },
+    {
+      "source": "partir",
+      "target": "dezembro",
+      "weight": 5
+    },
+    {
+      "source": "partir",
+      "target": "julho",
+      "weight": 7
+    },
+    {
+      "source": "partir",
+      "target": "sistema",
+      "weight": 7
+    },
+    {
+      "source": "partir",
+      "target": "janeiro",
+      "weight": 8
+    },
+    {
+      "source": "partir",
+      "target": "ver",
+      "weight": 5
+    },
+    {
+      "source": "partir",
+      "target": "terra",
+      "weight": 5
+    },
+    {
+      "source": "partir",
+      "target": "novo",
+      "weight": 8
+    },
+    {
+      "source": "partir",
+      "target": "histórico",
+      "weight": 5
+    },
+    {
+      "source": "partir",
+      "target": "norte",
+      "weight": 10
+    },
+    {
+      "source": "partir",
+      "target": "família",
+      "weight": 8
+    },
+    {
+      "source": "partir",
+      "target": "setembro",
+      "weight": 6
+    },
+    {
+      "source": "partir",
+      "target": "br",
+      "weight": 8
+    },
+    {
+      "source": "onde",
+      "target": "local",
+      "weight": 13
+    },
+    {
+      "source": "onde",
+      "target": "paulo",
+      "weight": 7
+    },
+    {
+      "source": "onde",
+      "target": "janeiro",
+      "weight": 9
+    },
+    {
+      "source": "onde",
+      "target": "poder",
+      "weight": 13
+    },
+    {
+      "source": "onde",
+      "target": "fazer",
+      "weight": 5
+    },
+    {
+      "source": "onde",
+      "target": "encontrar",
+      "weight": 13
+    },
+    {
+      "source": "onde",
+      "target": "todo",
+      "weight": 5
+    },
+    {
+      "source": "onde",
+      "target": "ficar",
+      "weight": 9
+    },
+    {
+      "source": "onde",
+      "target": "receber",
+      "weight": 5
+    },
+    {
+      "source": "onde",
+      "target": "cada",
+      "weight": 6
+    },
+    {
+      "source": "onde",
+      "target": "lugar",
+      "weight": 6
+    },
+    {
+      "source": "bem",
+      "target": "todo",
+      "weight": 11
+    },
+    {
+      "source": "bem",
+      "target": "ficar",
+      "weight": 8
+    },
+    {
+      "source": "bem",
+      "target": "conhecido",
+      "weight": 5
+    },
+    {
+      "source": "bem",
+      "target": "outro",
+      "weight": 9
+    },
+    {
+      "source": "bem",
+      "target": "histórico",
+      "weight": 12
+    },
+    {
+      "source": "york",
+      "target": "novo",
+      "weight": 64
+    },
+    {
+      "source": "campeão",
+      "target": "campeonato",
+      "weight": 10
+    },
+    {
+      "source": "campeão",
+      "target": "clube",
+      "weight": 8
+    },
+    {
+      "source": "campeão",
+      "target": "brasil",
+      "weight": 8
+    },
+    {
+      "source": "campeão",
+      "target": "primeiro",
+      "weight": 6
+    },
+    {
+      "source": "campeão",
+      "target": "mundial",
+      "weight": 25
+    },
+    {
+      "source": "campeão",
+      "target": "grande",
+      "weight": 6
+    },
+    {
+      "source": "campeão",
+      "target": "escola",
+      "weight": 6
+    },
+    {
+      "source": "campeão",
+      "target": "título",
+      "weight": 18
+    },
+    {
+      "source": "campeão",
+      "target": "dado",
+      "weight": 5
+    },
+    {
+      "source": "março",
+      "target": "consultar",
+      "weight": 590
+    },
+    {
+      "source": "março",
+      "target": "artigo",
+      "weight": 34
+    },
+    {
+      "source": "março",
+      "target": "googlar",
+      "weight": 31
+    },
+    {
+      "source": "março",
+      "target": "canção",
+      "weight": 6
+    },
+    {
+      "source": "março",
+      "target": "junho",
+      "weight": 8
+    },
+    {
+      "source": "março",
+      "target": "julho",
+      "weight": 12
+    },
+    {
+      "source": "março",
+      "target": "abril",
+      "weight": 17
+    },
+    {
+      "source": "março",
+      "target": "maio",
+      "weight": 13
+    },
+    {
+      "source": "março",
+      "target": "cópia",
+      "weight": 23
+    },
+    {
+      "source": "março",
+      "target": "arquivar",
+      "weight": 58
+    },
+    {
+      "source": "março",
+      "target": "dia",
+      "weight": 72
+    },
+    {
+      "source": "março",
+      "target": "coreano",
+      "weight": 6
+    },
+    {
+      "source": "março",
+      "target": "portugal",
+      "weight": 9
+    },
+    {
+      "source": "março",
+      "target": "lançamento",
+      "weight": 18
+    },
+    {
+      "source": "março",
+      "target": "inglês",
+      "weight": 17
+    },
+    {
+      "source": "março",
+      "target": "portal",
+      "weight": 6
+    },
+    {
+      "source": "março",
+      "target": "setembro",
+      "weight": 9
+    },
+    {
+      "source": "março",
+      "target": "fevereiro",
+      "weight": 24
+    },
+    {
+      "source": "março",
+      "target": "outubro",
+      "weight": 8
+    },
+    {
+      "source": "março",
+      "target": "dezembro",
+      "weight": 13
+    },
+    {
+      "source": "março",
+      "target": "michael",
+      "weight": 5
+    },
+    {
+      "source": "março",
+      "target": "brasil",
+      "weight": 17
+    },
+    {
+      "source": "março",
+      "target": "ligações",
+      "weight": 20
+    },
+    {
+      "source": "março",
+      "target": "descobrir",
+      "weight": 44
+    },
+    {
+      "source": "março",
+      "target": "novembro",
+      "weight": 6
+    },
+    {
+      "source": "março",
+      "target": "rir",
+      "weight": 6
+    },
+    {
+      "source": "março",
+      "target": "final",
+      "weight": 11
+    },
+    {
+      "source": "março",
+      "target": "agosto",
+      "weight": 10
+    },
+    {
+      "source": "março",
+      "target": "após",
+      "weight": 6
+    },
+    {
+      "source": "março",
+      "target": "unido",
+      "weight": 7
+    },
+    {
+      "source": "março",
+      "target": "janeiro",
+      "weight": 8
+    },
+    {
+      "source": "março",
+      "target": "morte",
+      "weight": 12
+    },
+    {
+      "source": "março",
+      "target": "datar",
+      "weight": 5
+    },
+    {
+      "source": "março",
+      "target": "período",
+      "weight": 6
+    },
+    {
+      "source": "desde",
+      "target": "janeiro",
+      "weight": 9
+    },
+    {
+      "source": "desde",
+      "target": "paulo",
+      "weight": 12
+    },
+    {
+      "source": "desde",
+      "target": "primeiro",
+      "weight": 7
+    },
+    {
+      "source": "desde",
+      "target": "julho",
+      "weight": 5
+    },
+    {
+      "source": "desde",
+      "target": "dia",
+      "weight": 5
+    },
+    {
+      "source": "desde",
+      "target": "junho",
+      "weight": 5
+    },
+    {
+      "source": "desde",
+      "target": "membro",
+      "weight": 5
+    },
+    {
+      "source": "desde",
+      "target": "fevereiro",
+      "weight": 5
+    },
+    {
+      "source": "desde",
+      "target": "início",
+      "weight": 22
+    },
+    {
+      "source": "desde",
+      "target": "novo",
+      "weight": 6
+    },
+    {
+      "source": "desde",
+      "target": "lançamento",
+      "weight": 8
+    },
+    {
+      "source": "desde",
+      "target": "década",
+      "weight": 5
+    },
+    {
+      "source": "desde",
+      "target": "região",
+      "weight": 11
+    },
+    {
+      "source": "desde",
+      "target": "maio",
+      "weight": 5
+    },
+    {
+      "source": "desde",
+      "target": "tour",
+      "weight": 5
+    },
+    {
+      "source": "local",
+      "target": "trabalho",
+      "weight": 5
+    },
+    {
+      "source": "local",
+      "target": "paulo",
+      "weight": 8
+    },
+    {
+      "source": "local",
+      "target": "datar",
+      "weight": 31
+    },
+    {
+      "source": "local",
+      "target": "população",
+      "weight": 7
+    },
+    {
+      "source": "local",
+      "target": "poder",
+      "weight": 7
+    },
+    {
+      "source": "local",
+      "target": "rede",
+      "weight": 5
+    },
+    {
+      "source": "local",
+      "target": "setembro",
+      "weight": 5
+    },
+    {
+      "source": "local",
+      "target": "outro",
+      "weight": 10
+    },
+    {
+      "source": "local",
+      "target": "morte",
+      "weight": 5
+    },
+    {
+      "source": "segundo",
+      "target": "outro",
+      "weight": 7
+    },
+    {
+      "source": "segundo",
+      "target": "maior",
+      "weight": 16
+    },
+    {
+      "source": "segundo",
+      "target": "alemanha",
+      "weight": 7
+    },
+    {
+      "source": "segundo",
+      "target": "álbum",
+      "weight": 42
+    },
+    {
+      "source": "segundo",
+      "target": "grupo",
+      "weight": 6
+    },
+    {
+      "source": "segundo",
+      "target": "canção",
+      "weight": 6
+    },
+    {
+      "source": "segundo",
+      "target": "lançamento",
+      "weight": 6
+    },
+    {
+      "source": "segundo",
+      "target": "repúblico",
+      "weight": 11
+    },
+    {
+      "source": "segundo",
+      "target": "lugar",
+      "weight": 20
+    },
+    {
+      "source": "segundo",
+      "target": "mulher",
+      "weight": 5
+    },
+    {
+      "source": "segundo",
+      "target": "antes",
+      "weight": 5
+    },
+    {
+      "source": "segundo",
+      "target": "durante",
+      "weight": 26
+    },
+    {
+      "source": "segundo",
+      "target": "primeiro",
+      "weight": 16
+    },
+    {
+      "source": "segundo",
+      "target": "terceiro",
+      "weight": 12
+    },
+    {
+      "source": "segundo",
+      "target": "ficar",
+      "weight": 5
+    },
+    {
+      "source": "segundo",
+      "target": "divisão",
+      "weight": 143
+    },
+    {
+      "source": "segundo",
+      "target": "ponto",
+      "weight": 6
+    },
+    {
+      "source": "segundo",
+      "target": "vez",
+      "weight": 13
+    },
+    {
+      "source": "segundo",
+      "target": "posição",
+      "weight": 5
+    },
+    {
+      "source": "segundo",
+      "target": "dado",
+      "weight": 5
+    },
+    {
+      "source": "segundo",
+      "target": "algum",
+      "weight": 6
+    },
+    {
+      "source": "segundo",
+      "target": "enquanto",
+      "weight": 5
+    },
+    {
+      "source": "segundo",
+      "target": "portal",
+      "weight": 10
+    },
+    {
+      "source": "segundo",
+      "target": "dia",
+      "weight": 7
+    },
+    {
+      "source": "segundo",
+      "target": "após",
+      "weight": 9
+    },
+    {
+      "source": "segundo",
+      "target": "filho",
+      "weight": 8
+    },
+    {
+      "source": "segundo",
+      "target": "série",
+      "weight": 10
+    },
+    {
+      "source": "citar",
+      "target": "artigo",
+      "weight": 190
+    },
+    {
+      "source": "citar",
+      "target": "fonte",
+      "weight": 399
+    },
+    {
+      "source": "citar",
+      "target": "página",
+      "weight": 196
+    },
+    {
+      "source": "citar",
+      "target": "vivo",
+      "weight": 9
+    },
+    {
+      "source": "citar",
+      "target": "poder",
+      "weight": 5
+    },
+    {
+      "source": "frança",
+      "target": "alemanha",
+      "weight": 8
+    },
+    {
+      "source": "frança",
+      "target": "portal",
+      "weight": 34
+    },
+    {
+      "source": "frança",
+      "target": "outubro",
+      "weight": 5
+    },
+    {
+      "source": "frança",
+      "target": "portugal",
+      "weight": 6
+    },
+    {
+      "source": "frança",
+      "target": "julho",
+      "weight": 10
+    },
+    {
+      "source": "frança",
+      "target": "esboço",
+      "weight": 67
+    },
+    {
+      "source": "frança",
+      "target": "região",
+      "weight": 63
+    },
+    {
+      "source": "frança",
+      "target": "commons",
+      "weight": 10
+    },
+    {
+      "source": "br",
+      "target": "consultar",
+      "weight": 158
+    },
+    {
+      "source": "br",
+      "target": "janeiro",
+      "weight": 5
+    },
+    {
+      "source": "br",
+      "target": "abril",
+      "weight": 7
+    },
+    {
+      "source": "br",
+      "target": "inglês",
+      "weight": 5
+    },
+    {
+      "source": "br",
+      "target": "junho",
+      "weight": 9
+    },
+    {
+      "source": "bandar",
+      "target": "membro",
+      "weight": 15
+    },
+    {
+      "source": "bandar",
+      "target": "canção",
+      "weight": 15
+    },
+    {
+      "source": "bandar",
+      "target": "álbum",
+      "weight": 23
+    },
+    {
+      "source": "bandar",
+      "target": "estúdio",
+      "weight": 25
+    },
+    {
+      "source": "bandar",
+      "target": "grupo",
+      "weight": 5
+    },
+    {
+      "source": "bandar",
+      "target": "vivo",
+      "weight": 14
+    },
+    {
+      "source": "bandar",
+      "target": "melhor",
+      "weight": 7
+    },
+    {
+      "source": "bandar",
+      "target": "músico",
+      "weight": 8
+    },
+    {
+      "source": "maria",
+      "target": "joão",
+      "weight": 19
+    },
+    {
+      "source": "maria",
+      "target": "josé",
+      "weight": 20
+    },
+    {
+      "source": "maria",
+      "target": "criar",
+      "weight": 7
+    },
+    {
+      "source": "maria",
+      "target": "portugal",
+      "weight": 7
+    },
+    {
+      "source": "maria",
+      "target": "del",
+      "weight": 6
+    },
+    {
+      "source": "fazer",
+      "target": "dever",
+      "weight": 6
+    },
+    {
+      "source": "fazer",
+      "target": "grande",
+      "weight": 5
+    },
+    {
+      "source": "fazer",
+      "target": "trabalho",
+      "weight": 6
+    },
+    {
+      "source": "fazer",
+      "target": "julho",
+      "weight": 5
+    },
+    {
+      "source": "fazer",
+      "target": "canção",
+      "weight": 6
+    },
+    {
+      "source": "fazer",
+      "target": "primeiro",
+      "weight": 9
+    },
+    {
+      "source": "fazer",
+      "target": "dizer",
+      "weight": 8
+    },
+    {
+      "source": "fazer",
+      "target": "pessoa",
+      "weight": 6
+    },
+    {
+      "source": "fazer",
+      "target": "poder",
+      "weight": 16
+    },
+    {
+      "source": "fazer",
+      "target": "algum",
+      "weight": 9
+    },
+    {
+      "source": "fazer",
+      "target": "músico",
+      "weight": 5
+    },
+    {
+      "source": "fazer",
+      "target": "hab",
+      "weight": 10
+    },
+    {
+      "source": "alemanha",
+      "target": "posição",
+      "weight": 13
+    },
+    {
+      "source": "alemanha",
+      "target": "julho",
+      "weight": 6
+    },
+    {
+      "source": "alemanha",
+      "target": "portal",
+      "weight": 44
+    },
+    {
+      "source": "alemanha",
+      "target": "janeiro",
+      "weight": 8
+    },
+    {
+      "source": "alemanha",
+      "target": "município",
+      "weight": 9
+    },
+    {
+      "source": "alemanha",
+      "target": "esboço",
+      "weight": 13
+    },
+    {
+      "source": "alemanha",
+      "target": "nacional",
+      "weight": 6
+    },
+    {
+      "source": "alemanha",
+      "target": "artigo",
+      "weight": 5
+    },
+    {
+      "source": "conteúdo",
+      "target": "todo",
+      "weight": 206
+    },
+    {
+      "source": "conteúdo",
+      "target": "ajudar",
+      "weight": 203
+    },
+    {
+      "source": "brasil",
+      "target": "campo",
+      "weight": 6
+    },
+    {
+      "source": "brasil",
+      "target": "ver",
+      "weight": 10
+    },
+    {
+      "source": "brasil",
+      "target": "consultar",
+      "weight": 64
+    },
+    {
+      "source": "brasil",
+      "target": "artigo",
+      "weight": 9
+    },
+    {
+      "source": "brasil",
+      "target": "esboço",
+      "weight": 11
+    },
+    {
+      "source": "brasil",
+      "target": "paulo",
+      "weight": 27
+    },
+    {
+      "source": "brasil",
+      "target": "categoria",
+      "weight": 6
+    },
+    {
+      "source": "brasil",
+      "target": "portal",
+      "weight": 76
+    },
+    {
+      "source": "brasil",
+      "target": "geral",
+      "weight": 21
+    },
+    {
+      "source": "brasil",
+      "target": "janeiro",
+      "weight": 32
+    },
+    {
+      "source": "brasil",
+      "target": "rir",
+      "weight": 12
+    },
+    {
+      "source": "brasil",
+      "target": "junho",
+      "weight": 10
+    },
+    {
+      "source": "brasil",
+      "target": "julho",
+      "weight": 7
+    },
+    {
+      "source": "brasil",
+      "target": "agosto",
+      "weight": 11
+    },
+    {
+      "source": "brasil",
+      "target": "setembro",
+      "weight": 19
+    },
+    {
+      "source": "brasil",
+      "target": "outubro",
+      "weight": 22
+    },
+    {
+      "source": "brasil",
+      "target": "todo",
+      "weight": 14
+    },
+    {
+      "source": "brasil",
+      "target": "oficial",
+      "weight": 5
+    },
+    {
+      "source": "brasil",
+      "target": "rede",
+      "weight": 9
+    },
+    {
+      "source": "brasil",
+      "target": "norte",
+      "weight": 17
+    },
+    {
+      "source": "brasil",
+      "target": "joão",
+      "weight": 5
+    },
+    {
+      "source": "brasil",
+      "target": "região",
+      "weight": 5
+    },
+    {
+      "source": "brasil",
+      "target": "dia",
+      "weight": 10
+    },
+    {
+      "source": "brasil",
+      "target": "jogo",
+      "weight": 5
+    },
+    {
+      "source": "brasil",
+      "target": "nacional",
+      "weight": 5
+    },
+    {
+      "source": "brasil",
+      "target": "prêmio",
+      "weight": 6
+    },
+    {
+      "source": "brasil",
+      "target": "novembro",
+      "weight": 9
+    },
+    {
+      "source": "brasil",
+      "target": "portugal",
+      "weight": 23
+    },
+    {
+      "source": "brasil",
+      "target": "social",
+      "weight": 6
+    },
+    {
+      "source": "brasil",
+      "target": "billboard",
+      "weight": 7
+    },
+    {
+      "source": "brasil",
+      "target": "cantor",
+      "weight": 6
+    },
+    {
+      "source": "brasil",
+      "target": "mundo",
+      "weight": 7
+    },
+    {
+      "source": "brasil",
+      "target": "fevereiro",
+      "weight": 7
+    },
+    {
+      "source": "brasil",
+      "target": "tv",
+      "weight": 32
+    },
+    {
+      "source": "brasil",
+      "target": "maio",
+      "weight": 5
+    },
+    {
+      "source": "brasil",
+      "target": "tour",
+      "weight": 21
+    },
+    {
+      "source": "brasil",
+      "target": "versão",
+      "weight": 5
+    },
+    {
+      "source": "brasil",
+      "target": "vivo",
+      "weight": 22
+    },
+    {
+      "source": "brasil",
+      "target": "principal",
+      "weight": 7
+    },
+    {
+      "source": "brasil",
+      "target": "repúblico",
+      "weight": 5
+    },
+    {
+      "source": "brasil",
+      "target": "após",
+      "weight": 6
+    },
+    {
+      "source": "brasil",
+      "target": "abril",
+      "weight": 14
+    },
+    {
+      "source": "brasil",
+      "target": "morte",
+      "weight": 8
+    },
+    {
+      "source": "brasil",
+      "target": "aeroporto",
+      "weight": 14
+    },
+    {
+      "source": "brasil",
+      "target": "dezembro",
+      "weight": 5
+    },
+    {
+      "source": "brasil",
+      "target": "município",
+      "weight": 8
+    },
+    {
+      "source": "brasil",
+      "target": "pedrar",
+      "weight": 5
+    },
+    {
+      "source": "cintura",
+      "target": "asteroide",
+      "weight": 486
+    },
+    {
+      "source": "cintura",
+      "target": "principal",
+      "weight": 546
+    },
+    {
+      "source": "cintura",
+      "target": "categoria",
+      "weight": 33
+    },
+    {
+      "source": "cintura",
+      "target": "asteroides",
+      "weight": 23
+    },
+    {
+      "source": "escola",
+      "target": "público",
+      "weight": 10
+    },
+    {
+      "source": "escola",
+      "target": "outro",
+      "weight": 6
+    },
+    {
+      "source": "escola",
+      "target": "ainda",
+      "weight": 5
+    },
+    {
+      "source": "escola",
+      "target": "músico",
+      "weight": 8
+    },
+    {
+      "source": "escola",
+      "target": "todo",
+      "weight": 7
+    },
+    {
+      "source": "aeroporto",
+      "target": "internacional",
+      "weight": 75
+    },
+    {
+      "source": "aeroporto",
+      "target": "esboço",
+      "weight": 11
+    },
+    {
+      "source": "aeroporto",
+      "target": "dado",
+      "weight": 5
+    },
+    {
+      "source": "aeroporto",
+      "target": "expandindo-o",
+      "weight": 5
+    },
+    {
+      "source": "expandindo-o",
+      "target": "wikipédia",
+      "weight": 1085
+    },
+    {
+      "source": "expandindo-o",
+      "target": "portal",
+      "weight": 250
+    },
+    {
+      "source": "expandindo-o",
+      "target": "controlo",
+      "weight": 80
+    },
+    {
+      "source": "expandindo-o",
+      "target": "artigo",
+      "weight": 20
+    },
+    {
+      "source": "expandindo-o",
+      "target": "filme",
+      "weight": 5
+    },
+    {
+      "source": "expandindo-o",
+      "target": "ver",
+      "weight": 25
+    },
+    {
+      "source": "expandindo-o",
+      "target": "commons",
+      "weight": 56
+    },
+    {
+      "source": "expandindo-o",
+      "target": "comuna",
+      "weight": 8
+    },
+    {
+      "source": "expandindo-o",
+      "target": "município",
+      "weight": 5
+    },
+    {
+      "source": "expandindo-o",
+      "target": "cidade",
+      "weight": 6
+    },
+    {
+      "source": "após",
+      "target": "década",
+      "weight": 6
+    },
+    {
+      "source": "após",
+      "target": "morte",
+      "weight": 47
+    },
+    {
+      "source": "após",
+      "target": "vida",
+      "weight": 7
+    },
+    {
+      "source": "após",
+      "target": "algum",
+      "weight": 6
+    },
+    {
+      "source": "após",
+      "target": "lançamento",
+      "weight": 33
+    },
+    {
+      "source": "após",
+      "target": "dia",
+      "weight": 18
+    },
+    {
+      "source": "após",
+      "target": "dois",
+      "weight": 10
+    },
+    {
+      "source": "após",
+      "target": "primeiro",
+      "weight": 8
+    },
+    {
+      "source": "após",
+      "target": "início",
+      "weight": 5
+    },
+    {
+      "source": "após",
+      "target": "período",
+      "weight": 6
+    },
+    {
+      "source": "após",
+      "target": "final",
+      "weight": 5
+    },
+    {
+      "source": "após",
+      "target": "evento",
+      "weight": 5
+    },
+    {
+      "source": "abril",
+      "target": "googlar",
+      "weight": 33
+    },
+    {
+      "source": "abril",
+      "target": "consultar",
+      "weight": 952
+    },
+    {
+      "source": "abril",
+      "target": "artigo",
+      "weight": 64
+    },
+    {
+      "source": "abril",
+      "target": "paulo",
+      "weight": 5
+    },
+    {
+      "source": "abril",
+      "target": "imagem",
+      "weight": 8
+    },
+    {
+      "source": "abril",
+      "target": "ligações",
+      "weight": 33
+    },
+    {
+      "source": "abril",
+      "target": "dia",
+      "weight": 43
+    },
+    {
+      "source": "abril",
+      "target": "inglês",
+      "weight": 18
+    },
+    {
+      "source": "abril",
+      "target": "coreano",
+      "weight": 18
+    },
+    {
+      "source": "abril",
+      "target": "cópia",
+      "weight": 87
+    },
+    {
+      "source": "abril",
+      "target": "arquivar",
+      "weight": 72
+    },
+    {
+      "source": "abril",
+      "target": "ver",
+      "weight": 7
+    },
+    {
+      "source": "abril",
+      "target": "portal",
+      "weight": 9
+    },
+    {
+      "source": "abril",
+      "target": "morte",
+      "weight": 15
+    },
+    {
+      "source": "abril",
+      "target": "primeiro",
+      "weight": 5
+    },
+    {
+      "source": "abril",
+      "target": "billboard",
+      "weight": 6
+    },
+    {
+      "source": "abril",
+      "target": "maio",
+      "weight": 21
+    },
+    {
+      "source": "abril",
+      "target": "digital",
+      "weight": 6
+    },
+    {
+      "source": "abril",
+      "target": "novembro",
+      "weight": 8
+    },
+    {
+      "source": "abril",
+      "target": "janeiro",
+      "weight": 11
+    },
+    {
+      "source": "abril",
+      "target": "tv",
+      "weight": 5
+    },
+    {
+      "source": "abril",
+      "target": "lançamento",
+      "weight": 20
+    },
+    {
+      "source": "abril",
+      "target": "el",
+      "weight": 5
+    },
+    {
+      "source": "abril",
+      "target": "julho",
+      "weight": 5
+    },
+    {
+      "source": "abril",
+      "target": "fevereiro",
+      "weight": 8
+    },
+    {
+      "source": "abril",
+      "target": "unido",
+      "weight": 5
+    },
+    {
+      "source": "abril",
+      "target": "álbum",
+      "weight": 6
+    },
+    {
+      "source": "abril",
+      "target": "descobrir",
+      "weight": 28
+    },
+    {
+      "source": "abril",
+      "target": "setembro",
+      "weight": 6
+    },
+    {
+      "source": "abril",
+      "target": "john",
+      "weight": 5
+    },
+    {
+      "source": "sistema",
+      "target": "informação",
+      "weight": 13
+    },
+    {
+      "source": "sistema",
+      "target": "produção",
+      "weight": 5
+    },
+    {
+      "source": "sistema",
+      "target": "nacional",
+      "weight": 11
+    },
+    {
+      "source": "sistema",
+      "target": "criar",
+      "weight": 5
+    },
+    {
+      "source": "sistema",
+      "target": "região",
+      "weight": 18
+    },
+    {
+      "source": "sistema",
+      "target": "outro",
+      "weight": 6
+    },
+    {
+      "source": "sistema",
+      "target": "classificação",
+      "weight": 5
+    },
+    {
+      "source": "campo",
+      "target": "primeiro",
+      "weight": 5
+    },
+    {
+      "source": "campo",
+      "target": "grande",
+      "weight": 59
+    },
+    {
+      "source": "campo",
+      "target": "josé",
+      "weight": 7
+    },
+    {
+      "source": "campo",
+      "target": "del",
+      "weight": 11
+    },
+    {
+      "source": "campeonato",
+      "target": "brasileiro",
+      "weight": 19
+    },
+    {
+      "source": "campeonato",
+      "target": "paulo",
+      "weight": 5
+    },
+    {
+      "source": "campeonato",
+      "target": "início",
+      "weight": 6
+    },
+    {
+      "source": "campeonato",
+      "target": "grande",
+      "weight": 6
+    },
+    {
+      "source": "campeonato",
+      "target": "mundial",
+      "weight": 171
+    },
+    {
+      "source": "campeonato",
+      "target": "evento",
+      "weight": 12
+    },
+    {
+      "source": "campeonato",
+      "target": "feminino",
+      "weight": 38
+    },
+    {
+      "source": "campeonato",
+      "target": "janeiro",
+      "weight": 8
+    },
+    {
+      "source": "campeonato",
+      "target": "ver",
+      "weight": 12
+    },
+    {
+      "source": "campeonato",
+      "target": "série",
+      "weight": 6
+    },
+    {
+      "source": "campeonato",
+      "target": "divisão",
+      "weight": 16
+    },
+    {
+      "source": "campeonato",
+      "target": "final",
+      "weight": 7
+    },
+    {
+      "source": "campeonato",
+      "target": "equipar",
+      "weight": 6
+    },
+    {
+      "source": "campeonato",
+      "target": "título",
+      "weight": 11
+    },
+    {
+      "source": "campeonato",
+      "target": "nacional",
+      "weight": 13
+    },
+    {
+      "source": "campeonato",
+      "target": "recorde",
+      "weight": 15
+    },
+    {
+      "source": "campeonato",
+      "target": "agosto",
+      "weight": 12
+    },
+    {
+      "source": "campeonato",
+      "target": "julho",
+      "weight": 5
+    },
+    {
+      "source": "campeonato",
+      "target": "dezembro",
+      "weight": 6
+    },
+    {
+      "source": "campeonato",
+      "target": "francês",
+      "weight": 5
+    },
+    {
+      "source": "poder",
+      "target": "esboço",
+      "weight": 1085
+    },
+    {
+      "source": "poder",
+      "target": "ajudar",
+      "weight": 1094
+    },
+    {
+      "source": "poder",
+      "target": "artigo",
+      "weight": 88
+    },
+    {
+      "source": "poder",
+      "target": "encontrar",
+      "weight": 22
+    },
+    {
+      "source": "poder",
+      "target": "família",
+      "weight": 5
+    },
+    {
+      "source": "poder",
+      "target": "ainda",
+      "weight": 11
+    },
+    {
+      "source": "poder",
+      "target": "pessoa",
+      "weight": 5
+    },
+    {
+      "source": "poder",
+      "target": "algum",
+      "weight": 5
+    },
+    {
+      "source": "poder",
+      "target": "apresentar",
+      "weight": 11
+    },
+    {
+      "source": "poder",
+      "target": "político",
+      "weight": 5
+    },
+    {
+      "source": "poder",
+      "target": "incluir",
+      "weight": 11
+    },
+    {
+      "source": "poder",
+      "target": "melhor",
+      "weight": 5
+    },
+    {
+      "source": "poder",
+      "target": "rede",
+      "weight": 5
+    },
+    {
+      "source": "poder",
+      "target": "informação",
+      "weight": 6
+    },
+    {
+      "source": "poder",
+      "target": "criar",
+      "weight": 10
+    },
+    {
+      "source": "poder",
+      "target": "amor",
+      "weight": 5
+    },
+    {
+      "source": "poder",
+      "target": "maior",
+      "weight": 6
+    },
+    {
+      "source": "poder",
+      "target": "público",
+      "weight": 6
+    },
+    {
+      "source": "poder",
+      "target": "ver",
+      "weight": 10
+    },
+    {
+      "source": "poder",
+      "target": "dizer",
+      "weight": 11
+    },
+    {
+      "source": "poder",
+      "target": "espécie",
+      "weight": 5
+    },
+    {
+      "source": "igreja",
+      "target": "san",
+      "weight": 6
+    },
+    {
+      "source": "igreja",
+      "target": "novo",
+      "weight": 11
+    },
+    {
+      "source": "família",
+      "target": "grande",
+      "weight": 16
+    },
+    {
+      "source": "família",
+      "target": "membro",
+      "weight": 24
+    },
+    {
+      "source": "família",
+      "target": "filho",
+      "weight": 5
+    },
+    {
+      "source": "família",
+      "target": "asteroides",
+      "weight": 17
+    },
+    {
+      "source": "família",
+      "target": "algum",
+      "weight": 5
+    },
+    {
+      "source": "internacional",
+      "target": "festival",
+      "weight": 33
+    },
+    {
+      "source": "internacional",
+      "target": "dia",
+      "weight": 56
+    },
+    {
+      "source": "internacional",
+      "target": "mulher",
+      "weight": 6
+    },
+    {
+      "source": "internacional",
+      "target": "nacional",
+      "weight": 5
+    },
+    {
+      "source": "internacional",
+      "target": "evento",
+      "weight": 6
+    },
+    {
+      "source": "internacional",
+      "target": "político",
+      "weight": 9
+    },
+    {
+      "source": "espécie",
+      "target": "outro",
+      "weight": 11
+    },
+    {
+      "source": "espécie",
+      "target": "dois",
+      "weight": 9
+    },
+    {
+      "source": "espécie",
+      "target": "gênero",
+      "weight": 63
+    },
+    {
+      "source": "espécie",
+      "target": "ver",
+      "weight": 29
+    },
+    {
+      "source": "espécie",
+      "target": "científico",
+      "weight": 24
+    },
+    {
+      "source": "brasileiro",
+      "target": "clube",
+      "weight": 13
+    },
+    {
+      "source": "brasileiro",
+      "target": "político",
+      "weight": 20
+    },
+    {
+      "source": "brasileiro",
+      "target": "consultar",
+      "weight": 17
+    },
+    {
+      "source": "brasileiro",
+      "target": "cantor",
+      "weight": 9
+    },
+    {
+      "source": "brasileiro",
+      "target": "rir",
+      "weight": 6
+    },
+    {
+      "source": "brasileiro",
+      "target": "músico",
+      "weight": 10
+    },
+    {
+      "source": "brasileiro",
+      "target": "cidade",
+      "weight": 7
+    },
+    {
+      "source": "brasileiro",
+      "target": "melhor",
+      "weight": 6
+    },
+    {
+      "source": "brasileiro",
+      "target": "feminino",
+      "weight": 6
+    },
+    {
+      "source": "brasileiro",
+      "target": "primeiro",
+      "weight": 5
+    },
+    {
+      "source": "brasileiro",
+      "target": "esboço",
+      "weight": 9
+    },
+    {
+      "source": "brasileiro",
+      "target": "filme",
+      "weight": 15
+    },
+    {
+      "source": "brasileiro",
+      "target": "município",
+      "weight": 8
+    },
+    {
+      "source": "brasileiro",
+      "target": "digital",
+      "weight": 9
+    },
+    {
+      "source": "brasileiro",
+      "target": "julho",
+      "weight": 7
+    },
+    {
+      "source": "população",
+      "target": "hab",
+      "weight": 42
+    },
+    {
+      "source": "população",
+      "target": "município",
+      "weight": 35
+    },
+    {
+      "source": "população",
+      "target": "total",
+      "weight": 277
+    },
+    {
+      "source": "população",
+      "target": "grupo",
+      "weight": 6
+    },
+    {
+      "source": "população",
+      "target": "geral",
+      "weight": 7
+    },
+    {
+      "source": "população",
+      "target": "aguar",
+      "weight": 19
+    },
+    {
+      "source": "população",
+      "target": "julho",
+      "weight": 13
+    },
+    {
+      "source": "população",
+      "target": "janeiro",
+      "weight": 5
+    },
+    {
+      "source": "commons",
+      "target": "externar",
+      "weight": 67
+    },
+    {
+      "source": "commons",
+      "target": "categoria",
+      "weight": 18
+    },
+    {
+      "source": "commons",
+      "target": "ver",
+      "weight": 6
+    },
+    {
+      "source": "commons",
+      "target": "portal",
+      "weight": 16
+    },
+    {
+      "source": "commons",
+      "target": "artigo",
+      "weight": 5
+    },
+    {
+      "source": "commons",
+      "target": "imagem",
+      "weight": 23
+    },
+    {
+      "source": "commons",
+      "target": "fevereiro",
+      "weight": 5
+    },
+    {
+      "source": "trabalho",
+      "target": "outro",
+      "weight": 9
+    },
+    {
+      "source": "trabalho",
+      "target": "primeiro",
+      "weight": 7
+    },
+    {
+      "source": "trabalho",
+      "target": "principal",
+      "weight": 7
+    },
+    {
+      "source": "trabalho",
+      "target": "conhecido",
+      "weight": 5
+    },
+    {
+      "source": "trabalho",
+      "target": "durante",
+      "weight": 6
+    },
+    {
+      "source": "trabalho",
+      "target": "grupo",
+      "weight": 5
+    },
+    {
+      "source": "dezembro",
+      "target": "googlar",
+      "weight": 35
+    },
+    {
+      "source": "dezembro",
+      "target": "consultar",
+      "weight": 827
+    },
+    {
+      "source": "dezembro",
+      "target": "junho",
+      "weight": 8
+    },
+    {
+      "source": "dezembro",
+      "target": "arquivar",
+      "weight": 33
+    },
+    {
+      "source": "dezembro",
+      "target": "cópia",
+      "weight": 111
+    },
+    {
+      "source": "dezembro",
+      "target": "maio",
+      "weight": 15
+    },
+    {
+      "source": "dezembro",
+      "target": "ligações",
+      "weight": 73
+    },
+    {
+      "source": "dezembro",
+      "target": "dia",
+      "weight": 28
+    },
+    {
+      "source": "dezembro",
+      "target": "lei",
+      "weight": 12
+    },
+    {
+      "source": "dezembro",
+      "target": "ver",
+      "weight": 8
+    },
+    {
+      "source": "dezembro",
+      "target": "artigo",
+      "weight": 23
+    },
+    {
+      "source": "dezembro",
+      "target": "portal",
+      "weight": 17
+    },
+    {
+      "source": "dezembro",
+      "target": "janeiro",
+      "weight": 20
+    },
+    {
+      "source": "dezembro",
+      "target": "inglês",
+      "weight": 21
+    },
+    {
+      "source": "dezembro",
+      "target": "julho",
+      "weight": 9
+    },
+    {
+      "source": "dezembro",
+      "target": "lançamento",
+      "weight": 23
+    },
+    {
+      "source": "dezembro",
+      "target": "gênero",
+      "weight": 6
+    },
+    {
+      "source": "dezembro",
+      "target": "cidade",
+      "weight": 7
+    },
+    {
+      "source": "dezembro",
+      "target": "mundo",
+      "weight": 16
+    },
+    {
+      "source": "dezembro",
+      "target": "governo",
+      "weight": 5
+    },
+    {
+      "source": "dezembro",
+      "target": "novembro",
+      "weight": 8
+    },
+    {
+      "source": "dezembro",
+      "target": "agosto",
+      "weight": 8
+    },
+    {
+      "source": "dezembro",
+      "target": "controlo",
+      "weight": 18
+    },
+    {
+      "source": "dezembro",
+      "target": "outubro",
+      "weight": 7
+    },
+    {
+      "source": "dezembro",
+      "target": "morte",
+      "weight": 16
+    },
+    {
+      "source": "dezembro",
+      "target": "final",
+      "weight": 8
+    },
+    {
+      "source": "dezembro",
+      "target": "setembro",
+      "weight": 7
+    },
+    {
+      "source": "dezembro",
+      "target": "descobrir",
+      "weight": 5
+    },
+    {
+      "source": "título",
+      "target": "vário",
+      "weight": 80
+    },
+    {
+      "source": "título",
+      "target": "álbum",
+      "weight": 25
+    },
+    {
+      "source": "título",
+      "target": "duração",
+      "weight": 53
+    },
+    {
+      "source": "título",
+      "target": "primeiro",
+      "weight": 9
+    },
+    {
+      "source": "título",
+      "target": "ajudar",
+      "weight": 14
+    },
+    {
+      "source": "título",
+      "target": "página",
+      "weight": 5
+    },
+    {
+      "source": "título",
+      "target": "receber",
+      "weight": 5
+    },
+    {
+      "source": "título",
+      "target": "digital",
+      "weight": 6
+    },
+    {
+      "source": "título",
+      "target": "ver",
+      "weight": 5
+    },
+    {
+      "source": "título",
+      "target": "contra",
+      "weight": 6
+    },
+    {
+      "source": "distrito",
+      "target": "município",
+      "weight": 15
+    },
+    {
+      "source": "distrito",
+      "target": "vivo",
+      "weight": 6
+    },
+    {
+      "source": "distrito",
+      "target": "comuna",
+      "weight": 14
+    },
+    {
+      "source": "distrito",
+      "target": "porto",
+      "weight": 5
+    },
+    {
+      "source": "michael",
+      "target": "vivo",
+      "weight": 5
+    },
+    {
+      "source": "vez",
+      "target": "cada",
+      "weight": 48
+    },
+    {
+      "source": "vez",
+      "target": "primeiro",
+      "weight": 127
+    },
+    {
+      "source": "vez",
+      "target": "outro",
+      "weight": 8
+    },
+    {
+      "source": "vez",
+      "target": "álbum",
+      "weight": 5
+    },
+    {
+      "source": "vez",
+      "target": "vida",
+      "weight": 5
+    },
+    {
+      "source": "vez",
+      "target": "apenas",
+      "weight": 5
+    },
+    {
+      "source": "município",
+      "target": "rir",
+      "weight": 14
+    },
+    {
+      "source": "município",
+      "target": "portuguesar",
+      "weight": 7
+    },
+    {
+      "source": "município",
+      "target": "cidade",
+      "weight": 8
+    },
+    {
+      "source": "município",
+      "target": "região",
+      "weight": 8
+    },
+    {
+      "source": "município",
+      "target": "político",
+      "weight": 11
+    },
+    {
+      "source": "município",
+      "target": "fonte",
+      "weight": 10
+    },
+    {
+      "source": "município",
+      "target": "paulo",
+      "weight": 5
+    },
+    {
+      "source": "período",
+      "target": "durante",
+      "weight": 52
+    },
+    {
+      "source": "período",
+      "target": "dado",
+      "weight": 8
+    },
+    {
+      "source": "período",
+      "target": "fevereiro",
+      "weight": 8
+    },
+    {
+      "source": "período",
+      "target": "janeiro",
+      "weight": 6
+    },
+    {
+      "source": "período",
+      "target": "início",
+      "weight": 6
+    },
+    {
+      "source": "período",
+      "target": "ver",
+      "weight": 5
+    },
+    {
+      "source": "período",
+      "target": "primeiro",
+      "weight": 5
+    },
+    {
+      "source": "período",
+      "target": "excentricidade",
+      "weight": 232
+    },
+    {
+      "source": "período",
+      "target": "orbital",
+      "weight": 236
+    },
+    {
+      "source": "período",
+      "target": "julho",
+      "weight": 5
+    },
+    {
+      "source": "período",
+      "target": "novo",
+      "weight": 5
+    },
+    {
+      "source": "período",
+      "target": "produção",
+      "weight": 9
+    },
+    {
+      "source": "período",
+      "target": "maio",
+      "weight": 5
+    },
+    {
+      "source": "janeiro",
+      "target": "rir",
+      "weight": 504
+    },
+    {
+      "source": "janeiro",
+      "target": "artigo",
+      "weight": 21
+    },
+    {
+      "source": "janeiro",
+      "target": "portal",
+      "weight": 8
+    },
+    {
+      "source": "janeiro",
+      "target": "fevereiro",
+      "weight": 20
+    },
+    {
+      "source": "janeiro",
+      "target": "setembro",
+      "weight": 6
+    },
+    {
+      "source": "janeiro",
+      "target": "consultar",
+      "weight": 540
+    },
+    {
+      "source": "janeiro",
+      "target": "novembro",
+      "weight": 18
+    },
+    {
+      "source": "janeiro",
+      "target": "cópia",
+      "weight": 23
+    },
+    {
+      "source": "janeiro",
+      "target": "coreano",
+      "weight": 14
+    },
+    {
+      "source": "janeiro",
+      "target": "inglês",
+      "weight": 19
+    },
+    {
+      "source": "janeiro",
+      "target": "ver",
+      "weight": 6
+    },
+    {
+      "source": "janeiro",
+      "target": "googlar",
+      "weight": 34
+    },
+    {
+      "source": "janeiro",
+      "target": "dia",
+      "weight": 31
+    },
+    {
+      "source": "janeiro",
+      "target": "maio",
+      "weight": 12
+    },
+    {
+      "source": "janeiro",
+      "target": "junho",
+      "weight": 17
+    },
+    {
+      "source": "janeiro",
+      "target": "agosto",
+      "weight": 10
+    },
+    {
+      "source": "janeiro",
+      "target": "julho",
+      "weight": 14
+    },
+    {
+      "source": "janeiro",
+      "target": "arquivar",
+      "weight": 20
+    },
+    {
+      "source": "janeiro",
+      "target": "datar",
+      "weight": 6
+    },
+    {
+      "source": "janeiro",
+      "target": "paulo",
+      "weight": 18
+    },
+    {
+      "source": "janeiro",
+      "target": "lei",
+      "weight": 6
+    },
+    {
+      "source": "janeiro",
+      "target": "ligações",
+      "weight": 25
+    },
+    {
+      "source": "janeiro",
+      "target": "lançamento",
+      "weight": 18
+    },
+    {
+      "source": "janeiro",
+      "target": "região",
+      "weight": 5
+    },
+    {
+      "source": "janeiro",
+      "target": "início",
+      "weight": 12
+    },
+    {
+      "source": "janeiro",
+      "target": "unido",
+      "weight": 10
+    },
+    {
+      "source": "janeiro",
+      "target": "portugal",
+      "weight": 6
+    },
+    {
+      "source": "janeiro",
+      "target": "descobrir",
+      "weight": 8
+    },
+    {
+      "source": "janeiro",
+      "target": "morte",
+      "weight": 12
+    },
+    {
+      "source": "janeiro",
+      "target": "governo",
+      "weight": 7
+    },
+    {
+      "source": "janeiro",
+      "target": "outubro",
+      "weight": 5
+    },
+    {
+      "source": "janeiro",
+      "target": "novo",
+      "weight": 6
+    },
+    {
+      "source": "janeiro",
+      "target": "posição",
+      "weight": 27
+    },
+    {
+      "source": "categoria",
+      "target": "imagem",
+      "weight": 280
+    },
+    {
+      "source": "categoria",
+      "target": "portal",
+      "weight": 45
+    },
+    {
+      "source": "categoria",
+      "target": "fem",
+      "weight": 6
+    },
+    {
+      "source": "categoria",
+      "target": "melhor",
+      "weight": 17
+    },
+    {
+      "source": "categoria",
+      "target": "prêmio",
+      "weight": 11
+    },
+    {
+      "source": "categoria",
+      "target": "asteroide",
+      "weight": 149
+    },
+    {
+      "source": "apresentar",
+      "target": "dois",
+      "weight": 5
+    },
+    {
+      "source": "apresentar",
+      "target": "artigo",
+      "weight": 17
+    },
+    {
+      "source": "apresentar",
+      "target": "apenas",
+      "weight": 13
+    },
+    {
+      "source": "apresentar",
+      "target": "canção",
+      "weight": 9
+    },
+    {
+      "source": "apresentar",
+      "target": "novo",
+      "weight": 7
+    },
+    {
+      "source": "apresentar",
+      "target": "três",
+      "weight": 5
+    },
+    {
+      "source": "apresentar",
+      "target": "álbum",
+      "weight": 8
+    },
+    {
+      "source": "apresentar",
+      "target": "projeto",
+      "weight": 5
+    },
+    {
+      "source": "apresentar",
+      "target": "maior",
+      "weight": 9
+    },
+    {
+      "source": "conhecido",
+      "target": "geral",
+      "weight": 5
+    },
+    {
+      "source": "conhecido",
+      "target": "região",
+      "weight": 5
+    },
+    {
+      "source": "conhecido",
+      "target": "ficar",
+      "weight": 19
+    },
+    {
+      "source": "conhecido",
+      "target": "grande",
+      "weight": 6
+    },
+    {
+      "source": "autoridade",
+      "target": "controlo",
+      "weight": 327
+    },
+    {
+      "source": "autoridade",
+      "target": "científico",
+      "weight": 25
+    },
+    {
+      "source": "repúblico",
+      "target": "governo",
+      "weight": 14
+    },
+    {
+      "source": "repúblico",
+      "target": "portuguesar",
+      "weight": 31
+    },
+    {
+      "source": "repúblico",
+      "target": "terceiro",
+      "weight": 9
+    },
+    {
+      "source": "repúblico",
+      "target": "portugal",
+      "weight": 8
+    },
+    {
+      "source": "repúblico",
+      "target": "primeiro",
+      "weight": 16
+    },
+    {
+      "source": "orbital",
+      "target": "dia",
+      "weight": 49
+    },
+    {
+      "source": "orbital",
+      "target": "médio",
+      "weight": 31
+    },
+    {
+      "source": "orbital",
+      "target": "inclinação",
+      "weight": 5
+    },
+    {
+      "source": "el",
+      "target": "mundo",
+      "weight": 8
+    },
+    {
+      "source": "el",
+      "target": "amor",
+      "weight": 10
+    },
+    {
+      "source": "el",
+      "target": "contra",
+      "weight": 5
+    },
+    {
+      "source": "norte",
+      "target": "grande",
+      "weight": 53
+    },
+    {
+      "source": "norte",
+      "target": "região",
+      "weight": 25
+    },
+    {
+      "source": "norte",
+      "target": "vivo",
+      "weight": 5
+    },
+    {
+      "source": "norte",
+      "target": "paulo",
+      "weight": 11
+    },
+    {
+      "source": "norte",
+      "target": "rir",
+      "weight": 32
+    },
+    {
+      "source": "filho",
+      "target": "dois",
+      "weight": 27
+    },
+    {
+      "source": "filho",
+      "target": "três",
+      "weight": 10
+    },
+    {
+      "source": "filho",
+      "target": "outro",
+      "weight": 5
+    },
+    {
+      "source": "filho",
+      "target": "primeiro",
+      "weight": 9
+    },
+    {
+      "source": "dizer",
+      "target": "jogo",
+      "weight": 6
+    },
+    {
+      "source": "chart",
+      "target": "digital",
+      "weight": 41
+    },
+    {
+      "source": "chart",
+      "target": "coreano",
+      "weight": 30
+    },
+    {
+      "source": "chart",
+      "target": "billboard",
+      "weight": 9
+    },
+    {
+      "source": "chart",
+      "target": "consultar",
+      "weight": 12
+    },
+    {
+      "source": "chart",
+      "target": "inglês",
+      "weight": 12
+    },
+    {
+      "source": "região",
+      "target": "total",
+      "weight": 10
+    },
+    {
+      "source": "região",
+      "target": "todo",
+      "weight": 7
+    },
+    {
+      "source": "região",
+      "target": "histórico",
+      "weight": 10
+    },
+    {
+      "source": "região",
+      "target": "cada",
+      "weight": 6
+    },
+    {
+      "source": "região",
+      "target": "dois",
+      "weight": 5
+    },
+    {
+      "source": "região",
+      "target": "lançamento",
+      "weight": 7
+    },
+    {
+      "source": "região",
+      "target": "datar",
+      "weight": 7
+    },
+    {
+      "source": "região",
+      "target": "ver",
+      "weight": 5
+    },
+    {
+      "source": "região",
+      "target": "agosto",
+      "weight": 6
+    },
+    {
+      "source": "região",
+      "target": "francês",
+      "weight": 60
+    },
+    {
+      "source": "região",
+      "target": "grande",
+      "weight": 11
+    },
+    {
+      "source": "região",
+      "target": "novo",
+      "weight": 12
+    },
+    {
+      "source": "nacional",
+      "target": "músico",
+      "weight": 6
+    },
+    {
+      "source": "nacional",
+      "target": "lei",
+      "weight": 5
+    },
+    {
+      "source": "nacional",
+      "target": "recorde",
+      "weight": 27
+    },
+    {
+      "source": "nacional",
+      "target": "classificação",
+      "weight": 5
+    },
+    {
+      "source": "nacional",
+      "target": "carlos",
+      "weight": 5
+    },
+    {
+      "source": "nacional",
+      "target": "divisão",
+      "weight": 5
+    },
+    {
+      "source": "nacional",
+      "target": "calendário",
+      "weight": 19
+    },
+    {
+      "source": "nacional",
+      "target": "portugal",
+      "weight": 6
+    },
+    {
+      "source": "nacional",
+      "target": "histórico",
+      "weight": 5
+    },
+    {
+      "source": "nacional",
+      "target": "lugar",
+      "weight": 10
+    },
+    {
+      "source": "nacional",
+      "target": "porto",
+      "weight": 7
+    },
+    {
+      "source": "dado",
+      "target": "outro",
+      "weight": 13
+    },
+    {
+      "source": "dado",
+      "target": "geral",
+      "weight": 8
+    },
+    {
+      "source": "dado",
+      "target": "histórico",
+      "weight": 9
+    },
+    {
+      "source": "dado",
+      "target": "agosto",
+      "weight": 5
+    },
+    {
+      "source": "dado",
+      "target": "externar",
+      "weight": 198
+    },
+    {
+      "source": "dado",
+      "target": "inglês",
+      "weight": 327
+    },
+    {
+      "source": "dado",
+      "target": "página",
+      "weight": 18
+    },
+    {
+      "source": "dado",
+      "target": "julho",
+      "weight": 6
+    },
+    {
+      "source": "dado",
+      "target": "comuna",
+      "weight": 10
+    },
+    {
+      "source": "classificação",
+      "target": "científico",
+      "weight": 235
+    },
+    {
+      "source": "classificação",
+      "target": "lugar",
+      "weight": 12
+    },
+    {
+      "source": "classificação",
+      "target": "geral",
+      "weight": 26
+    },
+    {
+      "source": "classificação",
+      "target": "final",
+      "weight": 13
+    },
+    {
+      "source": "classificação",
+      "target": "três",
+      "weight": 5
+    },
+    {
+      "source": "classificação",
+      "target": "posição",
+      "weight": 5
+    },
+    {
+      "source": "classificação",
+      "target": "equipar",
+      "weight": 6
+    },
+    {
+      "source": "lugar",
+      "target": "terceiro",
+      "weight": 25
+    },
+    {
+      "source": "lugar",
+      "target": "ficar",
+      "weight": 14
+    },
+    {
+      "source": "lugar",
+      "target": "primeiro",
+      "weight": 55
+    },
+    {
+      "source": "lugar",
+      "target": "final",
+      "weight": 5
+    },
+    {
+      "source": "lugar",
+      "target": "todo",
+      "weight": 8
+    },
+    {
+      "source": "lugar",
+      "target": "ainda",
+      "weight": 5
+    },
+    {
+      "source": "lugar",
+      "target": "billboard",
+      "weight": 6
+    },
+    {
+      "source": "lugar",
+      "target": "outro",
+      "weight": 12
+    },
+    {
+      "source": "lugar",
+      "target": "histórico",
+      "weight": 10
+    },
+    {
+      "source": "além",
+      "target": "outro",
+      "weight": 7
+    },
+    {
+      "source": "inserir",
+      "target": "ajudar",
+      "weight": 390
+    },
+    {
+      "source": "inserir",
+      "target": "artigo",
+      "weight": 56
+    },
+    {
+      "source": "inserir",
+      "target": "fonte",
+      "weight": 17
+    },
+    {
+      "source": "international",
+      "target": "inglês",
+      "weight": 12
+    },
+    {
+      "source": "centro",
+      "target": "histórico",
+      "weight": 20
+    },
+    {
+      "source": "centro",
+      "target": "principal",
+      "weight": 7
+    },
+    {
+      "source": "centro",
+      "target": "universidade",
+      "weight": 9
+    },
+    {
+      "source": "centro",
+      "target": "cidade",
+      "weight": 15
+    },
+    {
+      "source": "clube",
+      "target": "dois",
+      "weight": 7
+    },
+    {
+      "source": "clube",
+      "target": "outro",
+      "weight": 7
+    },
+    {
+      "source": "clube",
+      "target": "novo",
+      "weight": 5
+    },
+    {
+      "source": "clube",
+      "target": "rir",
+      "weight": 5
+    },
+    {
+      "source": "clube",
+      "target": "jogo",
+      "weight": 28
+    },
+    {
+      "source": "clube",
+      "target": "antigo",
+      "weight": 5
+    },
+    {
+      "source": "clube",
+      "target": "mundial",
+      "weight": 5
+    },
+    {
+      "source": "ligações",
+      "target": "externar",
+      "weight": 885
+    },
+    {
+      "source": "ligações",
+      "target": "maio",
+      "weight": 28
+    },
+    {
+      "source": "ligações",
+      "target": "agosto",
+      "weight": 36
+    },
+    {
+      "source": "ligações",
+      "target": "outubro",
+      "weight": 20
+    },
+    {
+      "source": "ligações",
+      "target": "press",
+      "weight": 5
+    },
+    {
+      "source": "ligações",
+      "target": "setembro",
+      "weight": 19
+    },
+    {
+      "source": "ligações",
+      "target": "julho",
+      "weight": 24
+    },
+    {
+      "source": "ligações",
+      "target": "junho",
+      "weight": 20
+    },
+    {
+      "source": "ligações",
+      "target": "novembro",
+      "weight": 16
+    },
+    {
+      "source": "ligações",
+      "target": "ajudar",
+      "weight": 6
+    },
+    {
+      "source": "ligações",
+      "target": "fevereiro",
+      "weight": 22
+    },
+    {
+      "source": "ligações",
+      "target": "principal",
+      "weight": 134
+    },
+    {
+      "source": "ligações",
+      "target": "inglês",
+      "weight": 9
+    },
+    {
+      "source": "filme",
+      "target": "melhor",
+      "weight": 77
+    },
+    {
+      "source": "filme",
+      "target": "esboço",
+      "weight": 5
+    },
+    {
+      "source": "filme",
+      "target": "primeiro",
+      "weight": 12
+    },
+    {
+      "source": "filme",
+      "target": "série",
+      "weight": 5
+    },
+    {
+      "source": "filme",
+      "target": "produção",
+      "weight": 10
+    },
+    {
+      "source": "filme",
+      "target": "novo",
+      "weight": 5
+    },
+    {
+      "source": "filme",
+      "target": "gênero",
+      "weight": 5
+    },
+    {
+      "source": "filme",
+      "target": "festival",
+      "weight": 7
+    },
+    {
+      "source": "filme",
+      "target": "maior",
+      "weight": 5
+    },
+    {
+      "source": "filme",
+      "target": "lançamento",
+      "weight": 5
+    },
+    {
+      "source": "duração",
+      "target": "total",
+      "weight": 47
+    },
+    {
+      "source": "outubro",
+      "target": "consultar",
+      "weight": 610
+    },
+    {
+      "source": "outubro",
+      "target": "artigo",
+      "weight": 13
+    },
+    {
+      "source": "outubro",
+      "target": "novembro",
+      "weight": 17
+    },
+    {
+      "source": "outubro",
+      "target": "arquivar",
+      "weight": 65
+    },
+    {
+      "source": "outubro",
+      "target": "lançamento",
+      "weight": 29
+    },
+    {
+      "source": "outubro",
+      "target": "setembro",
+      "weight": 21
+    },
+    {
+      "source": "outubro",
+      "target": "cópia",
+      "weight": 20
+    },
+    {
+      "source": "outubro",
+      "target": "dia",
+      "weight": 37
+    },
+    {
+      "source": "outubro",
+      "target": "googlar",
+      "weight": 25
+    },
+    {
+      "source": "outubro",
+      "target": "início",
+      "weight": 5
+    },
+    {
+      "source": "outubro",
+      "target": "datar",
+      "weight": 6
+    },
+    {
+      "source": "outubro",
+      "target": "paulo",
+      "weight": 8
+    },
+    {
+      "source": "outubro",
+      "target": "rir",
+      "weight": 6
+    },
+    {
+      "source": "outubro",
+      "target": "maio",
+      "weight": 7
+    },
+    {
+      "source": "outubro",
+      "target": "inglês",
+      "weight": 10
+    },
+    {
+      "source": "outubro",
+      "target": "coreano",
+      "weight": 10
+    },
+    {
+      "source": "outubro",
+      "target": "gênero",
+      "weight": 5
+    },
+    {
+      "source": "outubro",
+      "target": "página",
+      "weight": 5
+    },
+    {
+      "source": "outubro",
+      "target": "festival",
+      "weight": 10
+    },
+    {
+      "source": "outubro",
+      "target": "morte",
+      "weight": 12
+    },
+    {
+      "source": "outubro",
+      "target": "digital",
+      "weight": 7
+    },
+    {
+      "source": "outubro",
+      "target": "unido",
+      "weight": 8
+    },
+    {
+      "source": "outubro",
+      "target": "descobrir",
+      "weight": 17
+    },
+    {
+      "source": "outubro",
+      "target": "portal",
+      "weight": 7
+    },
+    {
+      "source": "outubro",
+      "target": "francês",
+      "weight": 9
+    },
+    {
+      "source": "outubro",
+      "target": "final",
+      "weight": 5
+    },
+    {
+      "source": "final",
+      "target": "ponto",
+      "weight": 10
+    },
+    {
+      "source": "final",
+      "target": "equipar",
+      "weight": 7
+    },
+    {
+      "source": "final",
+      "target": "vivo",
+      "weight": 10
+    },
+    {
+      "source": "final",
+      "target": "posição",
+      "weight": 18
+    },
+    {
+      "source": "final",
+      "target": "primeiro",
+      "weight": 9
+    },
+    {
+      "source": "final",
+      "target": "junho",
+      "weight": 8
+    },
+    {
+      "source": "final",
+      "target": "evento",
+      "weight": 11
+    },
+    {
+      "source": "final",
+      "target": "álbum",
+      "weight": 5
+    },
+    {
+      "source": "final",
+      "target": "maio",
+      "weight": 7
+    },
+    {
+      "source": "final",
+      "target": "grande",
+      "weight": 5
+    },
+    {
+      "source": "final",
+      "target": "agosto",
+      "weight": 10
+    },
+    {
+      "source": "final",
+      "target": "julho",
+      "weight": 11
+    },
+    {
+      "source": "final",
+      "target": "jogo",
+      "weight": 10
+    },
+    {
+      "source": "final",
+      "target": "ver",
+      "weight": 6
+    },
+    {
+      "source": "final",
+      "target": "vida",
+      "weight": 5
+    },
+    {
+      "source": "final",
+      "target": "década",
+      "weight": 12
+    },
+    {
+      "source": "final",
+      "target": "dia",
+      "weight": 8
+    },
+    {
+      "source": "ajudar",
+      "target": "wikipédia",
+      "weight": 1085
+    },
+    {
+      "source": "ajudar",
+      "target": "informação",
+      "weight": 44
+    },
+    {
+      "source": "ajudar",
+      "target": "fonte",
+      "weight": 12
+    },
+    {
+      "source": "ajudar",
+      "target": "ainda",
+      "weight": 5
+    },
+    {
+      "source": "ajudar",
+      "target": "ver",
+      "weight": 6
+    },
+    {
+      "source": "ajudar",
+      "target": "criar",
+      "weight": 5
+    },
+    {
+      "source": "ajudar",
+      "target": "datar",
+      "weight": 70
+    },
+    {
+      "source": "ajudar",
+      "target": "incluir",
+      "weight": 5
+    },
+    {
+      "source": "incluir",
+      "target": "dois",
+      "weight": 10
+    },
+    {
+      "source": "incluir",
+      "target": "prêmio",
+      "weight": 6
+    },
+    {
+      "source": "incluir",
+      "target": "grande",
+      "weight": 7
+    },
+    {
+      "source": "incluir",
+      "target": "todo",
+      "weight": 6
+    },
+    {
+      "source": "incluir",
+      "target": "canção",
+      "weight": 6
+    },
+    {
+      "source": "incluir",
+      "target": "álbum",
+      "weight": 6
+    },
+    {
+      "source": "incluir",
+      "target": "informação",
+      "weight": 8
+    },
+    {
+      "source": "incluir",
+      "target": "página",
+      "weight": 6
+    },
+    {
+      "source": "incluir",
+      "target": "três",
+      "weight": 5
+    },
+    {
+      "source": "grupo",
+      "target": "feminino",
+      "weight": 64
+    },
+    {
+      "source": "grupo",
+      "target": "posição",
+      "weight": 6
+    },
+    {
+      "source": "grupo",
+      "target": "novo",
+      "weight": 17
+    },
+    {
+      "source": "grupo",
+      "target": "membro",
+      "weight": 10
+    },
+    {
+      "source": "grupo",
+      "target": "primeiro",
+      "weight": 16
+    },
+    {
+      "source": "grupo",
+      "target": "álbum",
+      "weight": 6
+    },
+    {
+      "source": "grupo",
+      "target": "estúdio",
+      "weight": 5
+    },
+    {
+      "source": "grupo",
+      "target": "músico",
+      "weight": 5
+    },
+    {
+      "source": "grupo",
+      "target": "maior",
+      "weight": 5
+    },
+    {
+      "source": "grupo",
+      "target": "canção",
+      "weight": 9
+    },
+    {
+      "source": "grupo",
+      "target": "maio",
+      "weight": 6
+    },
+    {
+      "source": "grupo",
+      "target": "outro",
+      "weight": 13
+    },
+    {
+      "source": "grupo",
+      "target": "três",
+      "weight": 7
+    },
+    {
+      "source": "grupo",
+      "target": "dois",
+      "weight": 13
+    },
+    {
+      "source": "grupo",
+      "target": "pessoa",
+      "weight": 5
+    },
+    {
+      "source": "grupo",
+      "target": "jogo",
+      "weight": 11
+    },
+    {
+      "source": "grupo",
+      "target": "cada",
+      "weight": 12
+    },
+    {
+      "source": "grupo",
+      "target": "geral",
+      "weight": 7
+    },
+    {
+      "source": "durante",
+      "target": "vida",
+      "weight": 5
+    },
+    {
+      "source": "durante",
+      "target": "todo",
+      "weight": 17
+    },
+    {
+      "source": "durante",
+      "target": "jogo",
+      "weight": 5
+    },
+    {
+      "source": "durante",
+      "target": "produção",
+      "weight": 7
+    },
+    {
+      "source": "durante",
+      "target": "festival",
+      "weight": 5
+    },
+    {
+      "source": "durante",
+      "target": "primeiro",
+      "weight": 20
+    },
+    {
+      "source": "durante",
+      "target": "década",
+      "weight": 15
+    },
+    {
+      "source": "durante",
+      "target": "início",
+      "weight": 5
+    },
+    {
+      "source": "durante",
+      "target": "portuguesar",
+      "weight": 5
+    },
+    {
+      "source": "durante",
+      "target": "algum",
+      "weight": 6
+    },
+    {
+      "source": "durante",
+      "target": "vário",
+      "weight": 5
+    },
+    {
+      "source": "durante",
+      "target": "governo",
+      "weight": 8
+    },
+    {
+      "source": "durante",
+      "target": "dia",
+      "weight": 6
+    },
+    {
+      "source": "david",
+      "target": "maio",
+      "weight": 5
+    },
+    {
+      "source": "david",
+      "target": "junho",
+      "weight": 23
+    },
+    {
+      "source": "governo",
+      "target": "membro",
+      "weight": 8
+    },
+    {
+      "source": "governo",
+      "target": "portugal",
+      "weight": 5
+    },
+    {
+      "source": "governo",
+      "target": "paulo",
+      "weight": 8
+    },
+    {
+      "source": "governo",
+      "target": "iii",
+      "weight": 5
+    },
+    {
+      "source": "governo",
+      "target": "novo",
+      "weight": 8
+    },
+    {
+      "source": "governo",
+      "target": "fonte",
+      "weight": 5
+    },
+    {
+      "source": "governo",
+      "target": "primeiro",
+      "weight": 6
+    },
+    {
+      "source": "governo",
+      "target": "caso",
+      "weight": 6
+    },
+    {
+      "source": "governo",
+      "target": "terceiro",
+      "weight": 6
+    },
+    {
+      "source": "paulo",
+      "target": "cidade",
+      "weight": 29
+    },
+    {
+      "source": "paulo",
+      "target": "rir",
+      "weight": 11
+    },
+    {
+      "source": "paulo",
+      "target": "portal",
+      "weight": 30
+    },
+    {
+      "source": "paulo",
+      "target": "joão",
+      "weight": 27
+    },
+    {
+      "source": "paulo",
+      "target": "consultar",
+      "weight": 17
+    },
+    {
+      "source": "paulo",
+      "target": "pedrar",
+      "weight": 15
+    },
+    {
+      "source": "paulo",
+      "target": "universidade",
+      "weight": 18
+    },
+    {
+      "source": "paulo",
+      "target": "antigo",
+      "weight": 5
+    },
+    {
+      "source": "paulo",
+      "target": "dia",
+      "weight": 5
+    },
+    {
+      "source": "paulo",
+      "target": "maio",
+      "weight": 9
+    },
+    {
+      "source": "paulo",
+      "target": "fevereiro",
+      "weight": 6
+    },
+    {
+      "source": "paulo",
+      "target": "vivo",
+      "weight": 7
+    },
+    {
+      "source": "paulo",
+      "target": "ver",
+      "weight": 21
+    },
+    {
+      "source": "paulo",
+      "target": "página",
+      "weight": 10
+    },
+    {
+      "source": "paulo",
+      "target": "novembro",
+      "weight": 8
+    },
+    {
+      "source": "cantor",
+      "target": "músico",
+      "weight": 5
+    },
+    {
+      "source": "cantor",
+      "target": "álbum",
+      "weight": 8
+    },
+    {
+      "source": "cantor",
+      "target": "outro",
+      "weight": 5
+    },
+    {
+      "source": "cantor",
+      "target": "estúdio",
+      "weight": 10
+    },
+    {
+      "source": "cantor",
+      "target": "esboço",
+      "weight": 5
+    },
+    {
+      "source": "cantor",
+      "target": "página",
+      "weight": 5
+    },
+    {
+      "source": "cantor",
+      "target": "oficial",
+      "weight": 5
+    },
+    {
+      "source": "cantor",
+      "target": "vivo",
+      "weight": 5
+    },
+    {
+      "source": "cantor",
+      "target": "canção",
+      "weight": 9
+    },
+    {
+      "source": "consultar",
+      "target": "inglês",
+      "weight": 910
+    },
+    {
+      "source": "consultar",
+      "target": "julho",
+      "weight": 690
+    },
+    {
+      "source": "consultar",
+      "target": "setembro",
+      "weight": 592
+    },
+    {
+      "source": "consultar",
+      "target": "fevereiro",
+      "weight": 493
+    },
+    {
+      "source": "consultar",
+      "target": "junho",
+      "weight": 655
+    },
+    {
+      "source": "consultar",
+      "target": "coreano",
+      "weight": 164
+    },
+    {
+      "source": "consultar",
+      "target": "novembro",
+      "weight": 542
+    },
+    {
+      "source": "consultar",
+      "target": "maio",
+      "weight": 740
+    },
+    {
+      "source": "consultar",
+      "target": "billboard",
+      "weight": 52
+    },
+    {
+      "source": "consultar",
+      "target": "agosto",
+      "weight": 832
+    },
+    {
+      "source": "consultar",
+      "target": "tv",
+      "weight": 9
+    },
+    {
+      "source": "consultar",
+      "target": "político",
+      "weight": 5
+    },
+    {
+      "source": "consultar",
+      "target": "portuguesar",
+      "weight": 14
+    },
+    {
+      "source": "consultar",
+      "target": "terra",
+      "weight": 15
+    },
+    {
+      "source": "consultar",
+      "target": "página",
+      "weight": 19
+    },
+    {
+      "source": "consultar",
+      "target": "ver",
+      "weight": 11
+    },
+    {
+      "source": "consultar",
+      "target": "rir",
+      "weight": 5
+    },
+    {
+      "source": "consultar",
+      "target": "googlar",
+      "weight": 36
+    },
+    {
+      "source": "consultar",
+      "target": "oficial",
+      "weight": 6
+    },
+    {
+      "source": "consultar",
+      "target": "público",
+      "weight": 8
+    },
+    {
+      "source": "consultar",
+      "target": "francês",
+      "weight": 33
+    },
+    {
+      "source": "consultar",
+      "target": "digital",
+      "weight": 7
+    },
+    {
+      "source": "consultar",
+      "target": "press",
+      "weight": 8
+    },
+    {
+      "source": "consultar",
+      "target": "mundial",
+      "weight": 5
+    },
+    {
+      "source": "universidade",
+      "target": "novo",
+      "weight": 8
+    },
+    {
+      "source": "primeiro",
+      "target": "maio",
+      "weight": 6
+    },
+    {
+      "source": "primeiro",
+      "target": "principal",
+      "weight": 5
+    },
+    {
+      "source": "primeiro",
+      "target": "receber",
+      "weight": 11
+    },
+    {
+      "source": "primeiro",
+      "target": "ficar",
+      "weight": 10
+    },
+    {
+      "source": "primeiro",
+      "target": "canção",
+      "weight": 10
+    },
+    {
+      "source": "primeiro",
+      "target": "álbum",
+      "weight": 75
+    },
+    {
+      "source": "primeiro",
+      "target": "tour",
+      "weight": 5
+    },
+    {
+      "source": "primeiro",
+      "target": "prêmio",
+      "weight": 5
+    },
+    {
+      "source": "primeiro",
+      "target": "agosto",
+      "weight": 9
+    },
+    {
+      "source": "primeiro",
+      "target": "histórico",
+      "weight": 6
+    },
+    {
+      "source": "primeiro",
+      "target": "dois",
+      "weight": 18
+    },
+    {
+      "source": "primeiro",
+      "target": "mulher",
+      "weight": 16
+    },
+    {
+      "source": "primeiro",
+      "target": "versão",
+      "weight": 16
+    },
+    {
+      "source": "primeiro",
+      "target": "unido",
+      "weight": 9
+    },
+    {
+      "source": "primeiro",
+      "target": "músico",
+      "weight": 15
+    },
+    {
+      "source": "primeiro",
+      "target": "cópia",
+      "weight": 6
+    },
+    {
+      "source": "primeiro",
+      "target": "divisão",
+      "weight": 69
+    },
+    {
+      "source": "primeiro",
+      "target": "dia",
+      "weight": 15
+    },
+    {
+      "source": "primeiro",
+      "target": "lançamento",
+      "weight": 13
+    },
+    {
+      "source": "primeiro",
+      "target": "posição",
+      "weight": 7
+    },
+    {
+      "source": "primeiro",
+      "target": "jogo",
+      "weight": 13
+    },
+    {
+      "source": "primeiro",
+      "target": "grande",
+      "weight": 6
+    },
+    {
+      "source": "primeiro",
+      "target": "estúdio",
+      "weight": 5
+    },
+    {
+      "source": "primeiro",
+      "target": "pessoa",
+      "weight": 10
+    },
+    {
+      "source": "primeiro",
+      "target": "década",
+      "weight": 7
+    },
+    {
+      "source": "primeiro",
+      "target": "amor",
+      "weight": 7
+    },
+    {
+      "source": "primeiro",
+      "target": "três",
+      "weight": 13
+    },
+    {
+      "source": "primeiro",
+      "target": "cidade",
+      "weight": 5
+    },
+    {
+      "source": "primeiro",
+      "target": "criar",
+      "weight": 6
+    },
+    {
+      "source": "primeiro",
+      "target": "cada",
+      "weight": 5
+    },
+    {
+      "source": "vida",
+      "target": "todo",
+      "weight": 16
+    },
+    {
+      "source": "vida",
+      "target": "ver",
+      "weight": 5
+    },
+    {
+      "source": "vida",
+      "target": "amor",
+      "weight": 6
+    },
+    {
+      "source": "vida",
+      "target": "social",
+      "weight": 6
+    },
+    {
+      "source": "vida",
+      "target": "rede",
+      "weight": 6
+    },
+    {
+      "source": "vida",
+      "target": "político",
+      "weight": 6
+    },
+    {
+      "source": "vida",
+      "target": "novo",
+      "weight": 5
+    },
+    {
+      "source": "vida",
+      "target": "público",
+      "weight": 6
+    },
+    {
+      "source": "versão",
+      "target": "projeto",
+      "weight": 10
+    },
+    {
+      "source": "versão",
+      "target": "músico",
+      "weight": 5
+    },
+    {
+      "source": "versão",
+      "target": "inglês",
+      "weight": 14
+    },
+    {
+      "source": "versão",
+      "target": "novo",
+      "weight": 8
+    },
+    {
+      "source": "versão",
+      "target": "álbum",
+      "weight": 10
+    },
+    {
+      "source": "versão",
+      "target": "dois",
+      "weight": 8
+    },
+    {
+      "source": "versão",
+      "target": "outro",
+      "weight": 9
+    },
+    {
+      "source": "versão",
+      "target": "estúdio",
+      "weight": 6
+    },
+    {
+      "source": "versão",
+      "target": "vivo",
+      "weight": 9
+    },
+    {
+      "source": "versão",
+      "target": "coreano",
+      "weight": 5
+    },
+    {
+      "source": "coreano",
+      "target": "julho",
+      "weight": 9
+    },
+    {
+      "source": "coreano",
+      "target": "fevereiro",
+      "weight": 7
+    },
+    {
+      "source": "coreano",
+      "target": "agosto",
+      "weight": 10
+    },
+    {
+      "source": "coreano",
+      "target": "junho",
+      "weight": 9
+    },
+    {
+      "source": "coreano",
+      "target": "novembro",
+      "weight": 7
+    },
+    {
+      "source": "coreano",
+      "target": "setembro",
+      "weight": 9
+    },
+    {
+      "source": "coreano",
+      "target": "maio",
+      "weight": 10
+    },
+    {
+      "source": "algum",
+      "target": "caso",
+      "weight": 15
+    },
+    {
+      "source": "algum",
+      "target": "pessoa",
+      "weight": 6
+    },
+    {
+      "source": "algum",
+      "target": "apenas",
+      "weight": 10
+    },
+    {
+      "source": "algum",
+      "target": "dia",
+      "weight": 12
+    },
+    {
+      "source": "algum",
+      "target": "político",
+      "weight": 23
+    },
+    {
+      "source": "algum",
+      "target": "membro",
+      "weight": 6
+    },
+    {
+      "source": "algum",
+      "target": "outro",
+      "weight": 8
+    },
+    {
+      "source": "press",
+      "target": "university",
+      "weight": 203
+    },
+    {
+      "source": "press",
+      "target": "página",
+      "weight": 15
+    },
+    {
+      "source": "melhor",
+      "target": "novo",
+      "weight": 9
+    },
+    {
+      "source": "melhor",
+      "target": "prêmio",
+      "weight": 21
+    },
+    {
+      "source": "melhor",
+      "target": "recorde",
+      "weight": 5
+    },
+    {
+      "source": "melhor",
+      "target": "posição",
+      "weight": 40
+    },
+    {
+      "source": "melhor",
+      "target": "canção",
+      "weight": 13
+    },
+    {
+      "source": "melhor",
+      "target": "álbum",
+      "weight": 18
+    },
+    {
+      "source": "melhor",
+      "target": "músico",
+      "weight": 6
+    },
+    {
+      "source": "melhor",
+      "target": "jogo",
+      "weight": 5
+    },
+    {
+      "source": "melhor",
+      "target": "produção",
+      "weight": 6
+    },
+    {
+      "source": "melhor",
+      "target": "festival",
+      "weight": 19
+    },
+    {
+      "source": "dois",
+      "target": "jogo",
+      "weight": 6
+    },
+    {
+      "source": "dois",
+      "target": "três",
+      "weight": 16
+    },
+    {
+      "source": "dois",
+      "target": "número",
+      "weight": 6
+    },
+    {
+      "source": "dois",
+      "target": "outro",
+      "weight": 20
+    },
+    {
+      "source": "dois",
+      "target": "equipar",
+      "weight": 6
+    },
+    {
+      "source": "dois",
+      "target": "grande",
+      "weight": 7
+    },
+    {
+      "source": "dois",
+      "target": "álbum",
+      "weight": 11
+    },
+    {
+      "source": "dois",
+      "target": "ponto",
+      "weight": 10
+    },
+    {
+      "source": "dois",
+      "target": "dia",
+      "weight": 13
+    },
+    {
+      "source": "dois",
+      "target": "principal",
+      "weight": 6
+    },
+    {
+      "source": "dois",
+      "target": "apenas",
+      "weight": 17
+    },
+    {
+      "source": "dois",
+      "target": "novo",
+      "weight": 5
+    },
+    {
+      "source": "dois",
+      "target": "pessoa",
+      "weight": 6
+    },
+    {
+      "source": "dois",
+      "target": "asteroides",
+      "weight": 5
+    },
+    {
+      "source": "julho",
+      "target": "googlar",
+      "weight": 61
+    },
+    {
+      "source": "julho",
+      "target": "artigo",
+      "weight": 35
+    },
+    {
+      "source": "julho",
+      "target": "ver",
+      "weight": 5
+    },
+    {
+      "source": "julho",
+      "target": "junho",
+      "weight": 23
+    },
+    {
+      "source": "julho",
+      "target": "maio",
+      "weight": 10
+    },
+    {
+      "source": "julho",
+      "target": "dia",
+      "weight": 48
+    },
+    {
+      "source": "julho",
+      "target": "cópia",
+      "weight": 83
+    },
+    {
+      "source": "julho",
+      "target": "agosto",
+      "weight": 28
+    },
+    {
+      "source": "julho",
+      "target": "lançamento",
+      "weight": 21
+    },
+    {
+      "source": "julho",
+      "target": "arquivar",
+      "weight": 48
+    },
+    {
+      "source": "julho",
+      "target": "página",
+      "weight": 7
+    },
+    {
+      "source": "julho",
+      "target": "inglês",
+      "weight": 12
+    },
+    {
+      "source": "julho",
+      "target": "morte",
+      "weight": 11
+    },
+    {
+      "source": "julho",
+      "target": "novembro",
+      "weight": 6
+    },
+    {
+      "source": "julho",
+      "target": "portugal",
+      "weight": 7
+    },
+    {
+      "source": "julho",
+      "target": "setembro",
+      "weight": 8
+    },
+    {
+      "source": "julho",
+      "target": "grande",
+      "weight": 5
+    },
+    {
+      "source": "julho",
+      "target": "john",
+      "weight": 6
+    },
+    {
+      "source": "julho",
+      "target": "rir",
+      "weight": 6
+    },
+    {
+      "source": "julho",
+      "target": "unido",
+      "weight": 7
+    },
+    {
+      "source": "julho",
+      "target": "posição",
+      "weight": 5
+    },
+    {
+      "source": "julho",
+      "target": "descobrir",
+      "weight": 9
+    },
+    {
+      "source": "julho",
+      "target": "evento",
+      "weight": 8
+    },
+    {
+      "source": "julho",
+      "target": "portal",
+      "weight": 7
+    },
+    {
+      "source": "john",
+      "target": "maio",
+      "weight": 5
+    },
+    {
+      "source": "john",
+      "target": "agosto",
+      "weight": 11
+    },
+    {
+      "source": "john",
+      "target": "descobrir",
+      "weight": 6
+    },
+    {
+      "source": "arquivar",
+      "target": "junho",
+      "weight": 47
+    },
+    {
+      "source": "arquivar",
+      "target": "fevereiro",
+      "weight": 33
+    },
+    {
+      "source": "arquivar",
+      "target": "agosto",
+      "weight": 28
+    },
+    {
+      "source": "arquivar",
+      "target": "setembro",
+      "weight": 19
+    },
+    {
+      "source": "arquivar",
+      "target": "novembro",
+      "weight": 39
+    },
+    {
+      "source": "arquivar",
+      "target": "maio",
+      "weight": 29
+    },
+    {
+      "source": "evento",
+      "target": "portal",
+      "weight": 31
+    },
+    {
+      "source": "evento",
+      "target": "junho",
+      "weight": 5
+    },
+    {
+      "source": "evento",
+      "target": "feminino",
+      "weight": 11
+    },
+    {
+      "source": "evento",
+      "target": "outro",
+      "weight": 9
+    },
+    {
+      "source": "evento",
+      "target": "fem",
+      "weight": 23
+    },
+    {
+      "source": "evento",
+      "target": "principal",
+      "weight": 5
+    },
+    {
+      "source": "estado",
+      "target": "unido",
+      "weight": 951
+    },
+    {
+      "source": "estado",
+      "target": "outro",
+      "weight": 5
+    },
+    {
+      "source": "estado",
+      "target": "geral",
+      "weight": 5
+    },
+    {
+      "source": "estado",
+      "target": "posição",
+      "weight": 7
+    },
+    {
+      "source": "estado",
+      "target": "portal",
+      "weight": 73
+    },
+    {
+      "source": "estado",
+      "target": "músico",
+      "weight": 5
+    },
+    {
+      "source": "estado",
+      "target": "membro",
+      "weight": 6
+    },
+    {
+      "source": "porto",
+      "target": "pedrar",
+      "weight": 7
+    },
+    {
+      "source": "porto",
+      "target": "histórico",
+      "weight": 6
+    },
+    {
+      "source": "porto",
+      "target": "cidade",
+      "weight": 18
+    },
+    {
+      "source": "porto",
+      "target": "portugal",
+      "weight": 11
+    },
+    {
+      "source": "porto",
+      "target": "grande",
+      "weight": 5
+    },
+    {
+      "source": "porto",
+      "target": "esboço",
+      "weight": 5
+    },
+    {
+      "source": "porto",
+      "target": "divisão",
+      "weight": 5
+    },
+    {
+      "source": "portuguesar",
+      "target": "músico",
+      "weight": 6
+    },
+    {
+      "source": "asteroide",
+      "target": "ver",
+      "weight": 136
+    },
+    {
+      "source": "asteroide",
+      "target": "inclinação",
+      "weight": 166
+    },
+    {
+      "source": "asteroide",
+      "target": "descobrir",
+      "weight": 165
+    },
+    {
+      "source": "asteroide",
+      "target": "asteroides",
+      "weight": 158
+    },
+    {
+      "source": "asteroide",
+      "target": "inglês",
+      "weight": 129
+    },
+    {
+      "source": "asteroide",
+      "target": "receber",
+      "weight": 5
+    },
+    {
+      "source": "asteroide",
+      "target": "maior",
+      "weight": 6
+    },
+    {
+      "source": "wikipédia",
+      "target": "inglês",
+      "weight": 24
+    },
+    {
+      "source": "wikipédia",
+      "target": "artigo",
+      "weight": 26
+    },
+    {
+      "source": "wikipédia",
+      "target": "francês",
+      "weight": 8
+    },
+    {
+      "source": "wikipédia",
+      "target": "político",
+      "weight": 23
+    },
+    {
+      "source": "wikipédia",
+      "target": "página",
+      "weight": 8
+    },
+    {
+      "source": "início",
+      "target": "década",
+      "weight": 20
+    },
+    {
+      "source": "início",
+      "target": "datar",
+      "weight": 8
+    },
+    {
+      "source": "início",
+      "target": "fevereiro",
+      "weight": 11
+    },
+    {
+      "source": "aguar",
+      "target": "terra",
+      "weight": 5
+    },
+    {
+      "source": "informação",
+      "target": "geral",
+      "weight": 70
+    },
+    {
+      "source": "informação",
+      "target": "outro",
+      "weight": 48
+    },
+    {
+      "source": "informação",
+      "target": "ver",
+      "weight": 12
+    },
+    {
+      "source": "informação",
+      "target": "agosto",
+      "weight": 5
+    },
+    {
+      "source": "informação",
+      "target": "equipar",
+      "weight": 8
+    },
+    {
+      "source": "portugal",
+      "target": "festival",
+      "weight": 5
+    },
+    {
+      "source": "portugal",
+      "target": "portal",
+      "weight": 31
+    },
+    {
+      "source": "portugal",
+      "target": "terceiro",
+      "weight": 5
+    },
+    {
+      "source": "portugal",
+      "target": "agosto",
+      "weight": 11
+    },
+    {
+      "source": "portugal",
+      "target": "oficial",
+      "weight": 5
+    },
+    {
+      "source": "portugal",
+      "target": "série",
+      "weight": 5
+    },
+    {
+      "source": "portugal",
+      "target": "esboço",
+      "weight": 10
+    },
+    {
+      "source": "portugal",
+      "target": "médio",
+      "weight": 5
+    },
+    {
+      "source": "portugal",
+      "target": "digital",
+      "weight": 7
+    },
+    {
+      "source": "portugal",
+      "target": "canção",
+      "weight": 8
+    },
+    {
+      "source": "portugal",
+      "target": "setembro",
+      "weight": 5
+    },
+    {
+      "source": "feminino",
+      "target": "equipar",
+      "weight": 15
+    },
+    {
+      "source": "feminino",
+      "target": "mundial",
+      "weight": 10
+    },
+    {
+      "source": "feminino",
+      "target": "artigo",
+      "weight": 5
+    },
+    {
+      "source": "feminino",
+      "target": "divisão",
+      "weight": 13
+    },
+    {
+      "source": "feminino",
+      "target": "portal",
+      "weight": 10
+    },
+    {
+      "source": "enquanto",
+      "target": "outro",
+      "weight": 18
+    },
+    {
+      "source": "tv",
+      "target": "inglês",
+      "weight": 7
+    },
+    {
+      "source": "tv",
+      "target": "série",
+      "weight": 7
+    },
+    {
+      "source": "tv",
+      "target": "rede",
+      "weight": 8
+    },
+    {
+      "source": "tv",
+      "target": "cidade",
+      "weight": 12
+    },
+    {
+      "source": "tv",
+      "target": "digital",
+      "weight": 6
+    },
+    {
+      "source": "tv",
+      "target": "novo",
+      "weight": 7
+    },
+    {
+      "source": "tv",
+      "target": "canção",
+      "weight": 7
+    },
+    {
+      "source": "pedrar",
+      "target": "joão",
+      "weight": 17
+    },
+    {
+      "source": "pedrar",
+      "target": "san",
+      "weight": 9
+    },
+    {
+      "source": "lei",
+      "target": "projeto",
+      "weight": 17
+    },
+    {
+      "source": "lei",
+      "target": "agosto",
+      "weight": 6
+    },
+    {
+      "source": "lei",
+      "target": "cada",
+      "weight": 6
+    },
+    {
+      "source": "lei",
+      "target": "novembro",
+      "weight": 5
+    },
+    {
+      "source": "lei",
+      "target": "maio",
+      "weight": 6
+    },
+    {
+      "source": "lei",
+      "target": "terra",
+      "weight": 8
+    },
+    {
+      "source": "álbum",
+      "target": "estúdio",
+      "weight": 288
+    },
+    {
+      "source": "álbum",
+      "target": "músico",
+      "weight": 18
+    },
+    {
+      "source": "álbum",
+      "target": "lançamento",
+      "weight": 29
+    },
+    {
+      "source": "álbum",
+      "target": "novo",
+      "weight": 32
+    },
+    {
+      "source": "álbum",
+      "target": "terceiro",
+      "weight": 31
+    },
+    {
+      "source": "álbum",
+      "target": "vivo",
+      "weight": 83
+    },
+    {
+      "source": "álbum",
+      "target": "canção",
+      "weight": 18
+    },
+    {
+      "source": "álbum",
+      "target": "outro",
+      "weight": 9
+    },
+    {
+      "source": "álbum",
+      "target": "posição",
+      "weight": 9
+    },
+    {
+      "source": "álbum",
+      "target": "maior",
+      "weight": 8
+    },
+    {
+      "source": "álbum",
+      "target": "produção",
+      "weight": 6
+    },
+    {
+      "source": "álbum",
+      "target": "número",
+      "weight": 5
+    },
+    {
+      "source": "álbum",
+      "target": "todo",
+      "weight": 13
+    },
+    {
+      "source": "álbum",
+      "target": "unido",
+      "weight": 5
+    },
+    {
+      "source": "álbum",
+      "target": "grande",
+      "weight": 6
+    },
+    {
+      "source": "álbum",
+      "target": "página",
+      "weight": 18
+    },
+    {
+      "source": "álbum",
+      "target": "capar",
+      "weight": 17
+    },
+    {
+      "source": "álbum",
+      "target": "ainda",
+      "weight": 5
+    },
+    {
+      "source": "prêmio",
+      "target": "vário",
+      "weight": 6
+    },
+    {
+      "source": "prêmio",
+      "target": "grande",
+      "weight": 19
+    },
+    {
+      "source": "prêmio",
+      "target": "canção",
+      "weight": 9
+    },
+    {
+      "source": "prêmio",
+      "target": "receber",
+      "weight": 19
+    },
+    {
+      "source": "prêmio",
+      "target": "festival",
+      "weight": 5
+    },
+    {
+      "source": "prêmio",
+      "target": "principal",
+      "weight": 6
+    },
+    {
+      "source": "amor",
+      "target": "grande",
+      "weight": 13
+    },
+    {
+      "source": "amor",
+      "target": "novo",
+      "weight": 5
+    },
+    {
+      "source": "amor",
+      "target": "vivo",
+      "weight": 6
+    },
+    {
+      "source": "público",
+      "target": "grande",
+      "weight": 10
+    },
+    {
+      "source": "público",
+      "target": "geral",
+      "weight": 8
+    },
+    {
+      "source": "público",
+      "target": "recorde",
+      "weight": 5
+    },
+    {
+      "source": "josé",
+      "target": "san",
+      "weight": 31
+    },
+    {
+      "source": "josé",
+      "target": "rir",
+      "weight": 8
+    },
+    {
+      "source": "josé",
+      "target": "joão",
+      "weight": 7
+    },
+    {
+      "source": "josé",
+      "target": "carlos",
+      "weight": 19
+    },
+    {
+      "source": "descobrir",
+      "target": "novo",
+      "weight": 5
+    },
+    {
+      "source": "descobrir",
+      "target": "dia",
+      "weight": 178
+    },
+    {
+      "source": "descobrir",
+      "target": "maio",
+      "weight": 27
+    },
+    {
+      "source": "descobrir",
+      "target": "agosto",
+      "weight": 52
+    },
+    {
+      "source": "descobrir",
+      "target": "setembro",
+      "weight": 36
+    },
+    {
+      "source": "descobrir",
+      "target": "fevereiro",
+      "weight": 12
+    },
+    {
+      "source": "descobrir",
+      "target": "novembro",
+      "weight": 7
+    },
+    {
+      "source": "joão",
+      "target": "carlos",
+      "weight": 7
+    },
+    {
+      "source": "joão",
+      "target": "pessoa",
+      "weight": 23
+    },
+    {
+      "source": "joão",
+      "target": "novo",
+      "weight": 9
+    },
+    {
+      "source": "joão",
+      "target": "iii",
+      "weight": 7
+    },
+    {
+      "source": "carlos",
+      "target": "histórico",
+      "weight": 12
+    },
+    {
+      "source": "carlos",
+      "target": "iii",
+      "weight": 9
+    },
+    {
+      "source": "outro",
+      "target": "imagem",
+      "weight": 302
+    },
+    {
+      "source": "outro",
+      "target": "pessoa",
+      "weight": 23
+    },
+    {
+      "source": "outro",
+      "target": "projeto",
+      "weight": 35
+    },
+    {
+      "source": "outro",
+      "target": "canção",
+      "weight": 29
+    },
+    {
+      "source": "outro",
+      "target": "externar",
+      "weight": 8
+    },
+    {
+      "source": "outro",
+      "target": "cidade",
+      "weight": 11
+    },
+    {
+      "source": "outro",
+      "target": "vário",
+      "weight": 11
+    },
+    {
+      "source": "outro",
+      "target": "membro",
+      "weight": 6
+    },
+    {
+      "source": "outro",
+      "target": "assim",
+      "weight": 5
+    },
+    {
+      "source": "outro",
+      "target": "jogo",
+      "weight": 7
+    },
+    {
+      "source": "outro",
+      "target": "página",
+      "weight": 25
+    },
+    {
+      "source": "outro",
+      "target": "todo",
+      "weight": 10
+    },
+    {
+      "source": "outro",
+      "target": "hab",
+      "weight": 14
+    },
+    {
+      "source": "outro",
+      "target": "grande",
+      "weight": 5
+    },
+    {
+      "source": "outro",
+      "target": "calendário",
+      "weight": 18
+    },
+    {
+      "source": "outro",
+      "target": "ver",
+      "weight": 12
+    },
+    {
+      "source": "outro",
+      "target": "número",
+      "weight": 8
+    },
+    {
+      "source": "série",
+      "target": "principal",
+      "weight": 8
+    },
+    {
+      "source": "série",
+      "target": "artigo",
+      "weight": 5
+    },
+    {
+      "source": "série",
+      "target": "jogo",
+      "weight": 6
+    },
+    {
+      "source": "série",
+      "target": "divisão",
+      "weight": 16
+    },
+    {
+      "source": "série",
+      "target": "ver",
+      "weight": 15
+    },
+    {
+      "source": "ainda",
+      "target": "assim",
+      "weight": 13
+    },
+    {
+      "source": "ainda",
+      "target": "maior",
+      "weight": 6
+    },
+    {
+      "source": "principal",
+      "target": "cidade",
+      "weight": 12
+    },
+    {
+      "source": "principal",
+      "target": "página",
+      "weight": 12
+    },
+    {
+      "source": "principal",
+      "target": "artigo",
+      "weight": 86
+    },
+    {
+      "source": "principal",
+      "target": "equipar",
+      "weight": 7
+    },
+    {
+      "source": "principal",
+      "target": "fonte",
+      "weight": 5
+    },
+    {
+      "source": "principal",
+      "target": "oficial",
+      "weight": 12
+    },
+    {
+      "source": "principal",
+      "target": "ua",
+      "weight": 12
+    },
+    {
+      "source": "político",
+      "target": "portal",
+      "weight": 53
+    },
+    {
+      "source": "político",
+      "target": "externar",
+      "weight": 10
+    },
+    {
+      "source": "político",
+      "target": "ver",
+      "weight": 14
+    },
+    {
+      "source": "político",
+      "target": "social",
+      "weight": 15
+    },
+    {
+      "source": "político",
+      "target": "músico",
+      "weight": 17
+    },
+    {
+      "source": "político",
+      "target": "maio",
+      "weight": 6
+    },
+    {
+      "source": "político",
+      "target": "esboço",
+      "weight": 6
+    },
+    {
+      "source": "setembro",
+      "target": "artigo",
+      "weight": 37
+    },
+    {
+      "source": "setembro",
+      "target": "googlar",
+      "weight": 31
+    },
+    {
+      "source": "setembro",
+      "target": "novembro",
+      "weight": 5
+    },
+    {
+      "source": "setembro",
+      "target": "lançamento",
+      "weight": 33
+    },
+    {
+      "source": "setembro",
+      "target": "cópia",
+      "weight": 43
+    },
+    {
+      "source": "setembro",
+      "target": "dia",
+      "weight": 54
+    },
+    {
+      "source": "setembro",
+      "target": "maio",
+      "weight": 6
+    },
+    {
+      "source": "setembro",
+      "target": "inglês",
+      "weight": 6
+    },
+    {
+      "source": "setembro",
+      "target": "agosto",
+      "weight": 9
+    },
+    {
+      "source": "setembro",
+      "target": "junho",
+      "weight": 9
+    },
+    {
+      "source": "setembro",
+      "target": "página",
+      "weight": 9
+    },
+    {
+      "source": "setembro",
+      "target": "unido",
+      "weight": 6
+    },
+    {
+      "source": "setembro",
+      "target": "morte",
+      "weight": 8
+    },
+    {
+      "source": "setembro",
+      "target": "portal",
+      "weight": 5
+    },
+    {
+      "source": "setembro",
+      "target": "ver",
+      "weight": 7
+    },
+    {
+      "source": "setembro",
+      "target": "datar",
+      "weight": 6
+    },
+    {
+      "source": "esboço",
+      "target": "artigo",
+      "weight": 25
+    },
+    {
+      "source": "esboço",
+      "target": "canção",
+      "weight": 9
+    },
+    {
+      "source": "esboço",
+      "target": "músico",
+      "weight": 9
+    },
+    {
+      "source": "esboço",
+      "target": "asteroides",
+      "weight": 182
+    },
+    {
+      "source": "esboço",
+      "target": "mundial",
+      "weight": 8
+    },
+    {
+      "source": "esboço",
+      "target": "pessoa",
+      "weight": 21
+    },
+    {
+      "source": "hab",
+      "target": "cidade",
+      "weight": 10
+    },
+    {
+      "source": "hab",
+      "target": "total",
+      "weight": 135
+    },
+    {
+      "source": "página",
+      "target": "novembro",
+      "weight": 6
+    },
+    {
+      "source": "página",
+      "target": "oficial",
+      "weight": 138
+    },
+    {
+      "source": "página",
+      "target": "externar",
+      "weight": 59
+    },
+    {
+      "source": "página",
+      "target": "todo",
+      "weight": 76
+    },
+    {
+      "source": "página",
+      "target": "maio",
+      "weight": 13
+    },
+    {
+      "source": "página",
+      "target": "inglês",
+      "weight": 13
+    },
+    {
+      "source": "página",
+      "target": "dever",
+      "weight": 12
+    },
+    {
+      "source": "página",
+      "target": "caso",
+      "weight": 26
+    },
+    {
+      "source": "página",
+      "target": "imagem",
+      "weight": 23
+    },
+    {
+      "source": "página",
+      "target": "lançamento",
+      "weight": 8
+    },
+    {
+      "source": "página",
+      "target": "junho",
+      "weight": 6
+    },
+    {
+      "source": "classe",
+      "target": "médio",
+      "weight": 5
+    },
+    {
+      "source": "classe",
+      "target": "todo",
+      "weight": 5
+    },
+    {
+      "source": "classe",
+      "target": "social",
+      "weight": 6
+    },
+    {
+      "source": "digital",
+      "target": "canção",
+      "weight": 5
+    },
+    {
+      "source": "digital",
+      "target": "junho",
+      "weight": 5
+    },
+    {
+      "source": "histórico",
+      "target": "cidade",
+      "weight": 8
+    },
+    {
+      "source": "histórico",
+      "target": "lançamento",
+      "weight": 13
+    },
+    {
+      "source": "histórico",
+      "target": "produção",
+      "weight": 6
+    },
+    {
+      "source": "apenas",
+      "target": "fonte",
+      "weight": 12
+    },
+    {
+      "source": "apenas",
+      "target": "três",
+      "weight": 7
+    },
+    {
+      "source": "cidade",
+      "target": "todo",
+      "weight": 11
+    },
+    {
+      "source": "cidade",
+      "target": "novo",
+      "weight": 24
+    },
+    {
+      "source": "cidade",
+      "target": "rir",
+      "weight": 13
+    },
+    {
+      "source": "cidade",
+      "target": "datar",
+      "weight": 8
+    },
+    {
+      "source": "cidade",
+      "target": "maior",
+      "weight": 6
+    },
+    {
+      "source": "cidade",
+      "target": "comuna",
+      "weight": 14
+    },
+    {
+      "source": "cidade",
+      "target": "equipar",
+      "weight": 6
+    },
+    {
+      "source": "todo",
+      "target": "pessoa",
+      "weight": 12
+    },
+    {
+      "source": "todo",
+      "target": "ver",
+      "weight": 24
+    },
+    {
+      "source": "todo",
+      "target": "mundo",
+      "weight": 78
+    },
+    {
+      "source": "todo",
+      "target": "assim",
+      "weight": 5
+    },
+    {
+      "source": "todo",
+      "target": "dia",
+      "weight": 15
+    },
+    {
+      "source": "todo",
+      "target": "caso",
+      "weight": 5
+    },
+    {
+      "source": "número",
+      "target": "pessoa",
+      "weight": 5
+    },
+    {
+      "source": "número",
+      "target": "três",
+      "weight": 6
+    },
+    {
+      "source": "número",
+      "target": "posição",
+      "weight": 21
+    },
+    {
+      "source": "número",
+      "target": "ponto",
+      "weight": 10
+    },
+    {
+      "source": "número",
+      "target": "maior",
+      "weight": 20
+    },
+    {
+      "source": "número",
+      "target": "total",
+      "weight": 5
+    },
+    {
+      "source": "número",
+      "target": "billboard",
+      "weight": 5
+    },
+    {
+      "source": "número",
+      "target": "grande",
+      "weight": 13
+    },
+    {
+      "source": "número",
+      "target": "datar",
+      "weight": 199
+    },
+    {
+      "source": "número",
+      "target": "asteroides",
+      "weight": 5
+    },
+    {
+      "source": "dia",
+      "target": "junho",
+      "weight": 47
+    },
+    {
+      "source": "dia",
+      "target": "fevereiro",
+      "weight": 33
+    },
+    {
+      "source": "dia",
+      "target": "agosto",
+      "weight": 74
+    },
+    {
+      "source": "dia",
+      "target": "lançamento",
+      "weight": 8
+    },
+    {
+      "source": "dia",
+      "target": "mundial",
+      "weight": 34
+    },
+    {
+      "source": "dia",
+      "target": "maio",
+      "weight": 48
+    },
+    {
+      "source": "dia",
+      "target": "novembro",
+      "weight": 29
+    },
+    {
+      "source": "dia",
+      "target": "cada",
+      "weight": 15
+    },
+    {
+      "source": "dia",
+      "target": "três",
+      "weight": 16
+    },
+    {
+      "source": "dia",
+      "target": "vário",
+      "weight": 5
+    },
+    {
+      "source": "dia",
+      "target": "antes",
+      "weight": 21
+    },
+    {
+      "source": "mundial",
+      "target": "jogo",
+      "weight": 7
+    },
+    {
+      "source": "mundial",
+      "target": "equipar",
+      "weight": 20
+    },
+    {
+      "source": "mundial",
+      "target": "recorde",
+      "weight": 54
+    },
+    {
+      "source": "mundial",
+      "target": "rede",
+      "weight": 7
+    },
+    {
+      "source": "mundial",
+      "target": "divisão",
+      "weight": 11
+    },
+    {
+      "source": "músico",
+      "target": "portal",
+      "weight": 144
+    },
+    {
+      "source": "músico",
+      "target": "canção",
+      "weight": 5
+    },
+    {
+      "source": "músico",
+      "target": "festival",
+      "weight": 19
+    },
+    {
+      "source": "músico",
+      "target": "novo",
+      "weight": 12
+    },
+    {
+      "source": "músico",
+      "target": "vivo",
+      "weight": 7
+    },
+    {
+      "source": "músico",
+      "target": "gênero",
+      "weight": 9
+    },
+    {
+      "source": "músico",
+      "target": "artigo",
+      "weight": 8
+    },
+    {
+      "source": "datar",
+      "target": "canção",
+      "weight": 6
+    },
+    {
+      "source": "datar",
+      "target": "agosto",
+      "weight": 7
+    },
+    {
+      "source": "datar",
+      "target": "maio",
+      "weight": 5
+    },
+    {
+      "source": "datar",
+      "target": "lançamento",
+      "weight": 17
+    },
+    {
+      "source": "datar",
+      "target": "fevereiro",
+      "weight": 7
+    },
+    {
+      "source": "datar",
+      "target": "morte",
+      "weight": 30
+    },
+    {
+      "source": "pessoa",
+      "target": "vivo",
+      "weight": 10
+    },
+    {
+      "source": "pessoa",
+      "target": "contra",
+      "weight": 5
+    },
+    {
+      "source": "encontrar",
+      "target": "fonte",
+      "weight": 415
+    },
+    {
+      "source": "ficar",
+      "target": "terceiro",
+      "weight": 6
+    },
+    {
+      "source": "geral",
+      "target": "portal",
+      "weight": 7
+    },
+    {
+      "source": "geral",
+      "target": "rir",
+      "weight": 5
+    },
+    {
+      "source": "controlo",
+      "target": "unido",
+      "weight": 9
+    },
+    {
+      "source": "festival",
+      "target": "ver",
+      "weight": 11
+    },
+    {
+      "source": "festival",
+      "target": "novo",
+      "weight": 5
+    },
+    {
+      "source": "festival",
+      "target": "rir",
+      "weight": 7
+    },
+    {
+      "source": "festival",
+      "target": "canção",
+      "weight": 5
+    },
+    {
+      "source": "assim",
+      "target": "mundo",
+      "weight": 5
+    },
+    {
+      "source": "oficial",
+      "target": "inglês",
+      "weight": 22
+    },
+    {
+      "source": "oficial",
+      "target": "artigo",
+      "weight": 10
+    },
+    {
+      "source": "oficial",
+      "target": "jogo",
+      "weight": 5
+    },
+    {
+      "source": "oficial",
+      "target": "francês",
+      "weight": 7
+    },
+    {
+      "source": "oficial",
+      "target": "portal",
+      "weight": 13
+    },
+    {
+      "source": "iii",
+      "target": "década",
+      "weight": 5
+    },
+    {
+      "source": "grande",
+      "target": "rir",
+      "weight": 207
+    },
+    {
+      "source": "morte",
+      "target": "fevereiro",
+      "weight": 16
+    },
+    {
+      "source": "morte",
+      "target": "maio",
+      "weight": 17
+    },
+    {
+      "source": "morte",
+      "target": "antes",
+      "weight": 9
+    },
+    {
+      "source": "morte",
+      "target": "junho",
+      "weight": 9
+    },
+    {
+      "source": "morte",
+      "target": "agosto",
+      "weight": 14
+    },
+    {
+      "source": "morte",
+      "target": "novembro",
+      "weight": 7
+    },
+    {
+      "source": "total",
+      "target": "ponto",
+      "weight": 12
+    },
+    {
+      "source": "total",
+      "target": "ver",
+      "weight": 5
+    },
+    {
+      "source": "terceiro",
+      "target": "divisão",
+      "weight": 58
+    },
+    {
+      "source": "terceiro",
+      "target": "maior",
+      "weight": 6
+    },
+    {
+      "source": "cópia",
+      "target": "novembro",
+      "weight": 21
+    },
+    {
+      "source": "cópia",
+      "target": "agosto",
+      "weight": 100
+    },
+    {
+      "source": "cópia",
+      "target": "fevereiro",
+      "weight": 37
+    },
+    {
+      "source": "cópia",
+      "target": "junho",
+      "weight": 61
+    },
+    {
+      "source": "cópia",
+      "target": "maio",
+      "weight": 67
+    },
+    {
+      "source": "externar",
+      "target": "inglês",
+      "weight": 9
+    },
+    {
+      "source": "social",
+      "target": "rede",
+      "weight": 67
+    },
+    {
+      "source": "social",
+      "target": "projeto",
+      "weight": 5
+    },
+    {
+      "source": "caso",
+      "target": "ver",
+      "weight": 5
+    },
+    {
+      "source": "caso",
+      "target": "projeto",
+      "weight": 12
+    },
+    {
+      "source": "caso",
+      "target": "ponto",
+      "weight": 8
+    },
+    {
+      "source": "década",
+      "target": "ver",
+      "weight": 6
+    },
+    {
+      "source": "mulher",
+      "target": "portal",
+      "weight": 51
+    },
+    {
+      "source": "dever",
+      "target": "fonte",
+      "weight": 5
+    },
+    {
+      "source": "dever",
+      "target": "rede",
+      "weight": 6
+    },
+    {
+      "source": "recorde",
+      "target": "novo",
+      "weight": 6
+    },
+    {
+      "source": "recorde",
+      "target": "antes",
+      "weight": 11
+    },
+    {
+      "source": "produção",
+      "target": "maior",
+      "weight": 5
+    },
+    {
+      "source": "produção",
+      "target": "novo",
+      "weight": 5
+    },
+    {
+      "source": "cada",
+      "target": "membro",
+      "weight": 6
+    },
+    {
+      "source": "cada",
+      "target": "equipar",
+      "weight": 5
+    },
+    {
+      "source": "billboard",
+      "target": "maio",
+      "weight": 6
+    },
+    {
+      "source": "billboard",
+      "target": "fevereiro",
+      "weight": 6
+    },
+    {
+      "source": "billboard",
+      "target": "posição",
+      "weight": 15
+    },
+    {
+      "source": "billboard",
+      "target": "inglês",
+      "weight": 116
+    },
+    {
+      "source": "billboard",
+      "target": "unido",
+      "weight": 49
+    },
+    {
+      "source": "vivo",
+      "target": "ver",
+      "weight": 7
+    },
+    {
+      "source": "ver",
+      "target": "artigo",
+      "weight": 99
+    },
+    {
+      "source": "ver",
+      "target": "rir",
+      "weight": 18
+    },
+    {
+      "source": "ver",
+      "target": "mundo",
+      "weight": 5
+    },
+    {
+      "source": "ver",
+      "target": "junho",
+      "weight": 6
+    },
+    {
+      "source": "ver",
+      "target": "agosto",
+      "weight": 12
+    },
+    {
+      "source": "ver",
+      "target": "portal",
+      "weight": 127
+    },
+    {
+      "source": "ver",
+      "target": "ua",
+      "weight": 16
+    },
+    {
+      "source": "novo",
+      "target": "projeto",
+      "weight": 8
+    },
+    {
+      "source": "novo",
+      "target": "criar",
+      "weight": 9
+    },
+    {
+      "source": "novo",
+      "target": "canção",
+      "weight": 10
+    },
+    {
+      "source": "novo",
+      "target": "inglês",
+      "weight": 6
+    },
+    {
+      "source": "novo",
+      "target": "terra",
+      "weight": 7
+    },
+    {
+      "source": "novo",
+      "target": "mundo",
+      "weight": 13
+    },
+    {
+      "source": "estúdio",
+      "target": "agosto",
+      "weight": 5
+    },
+    {
+      "source": "inclinação",
+      "target": "excentricidade",
+      "weight": 159
+    },
+    {
+      "source": "inclinação",
+      "target": "médio",
+      "weight": 203
+    },
+    {
+      "source": "maior",
+      "target": "ua",
+      "weight": 240
+    },
+    {
+      "source": "maior",
+      "target": "rir",
+      "weight": 12
+    },
+    {
+      "source": "portal",
+      "target": "rir",
+      "weight": 13
+    },
+    {
+      "source": "portal",
+      "target": "junho",
+      "weight": 12
+    },
+    {
+      "source": "portal",
+      "target": "maio",
+      "weight": 8
+    },
+    {
+      "source": "portal",
+      "target": "antigo",
+      "weight": 10
+    },
+    {
+      "source": "portal",
+      "target": "unido",
+      "weight": 12
+    },
+    {
+      "source": "portal",
+      "target": "jogo",
+      "weight": 19
+    },
+    {
+      "source": "portal",
+      "target": "inglês",
+      "weight": 9
+    },
+    {
+      "source": "portal",
+      "target": "agosto",
+      "weight": 6
+    },
+    {
+      "source": "unido",
+      "target": "fevereiro",
+      "weight": 7
+    },
+    {
+      "source": "unido",
+      "target": "agosto",
+      "weight": 8
+    },
+    {
+      "source": "unido",
+      "target": "gênero",
+      "weight": 10
+    },
+    {
+      "source": "unido",
+      "target": "novembro",
+      "weight": 8
+    },
+    {
+      "source": "unido",
+      "target": "junho",
+      "weight": 7
+    },
+    {
+      "source": "lançamento",
+      "target": "antes",
+      "weight": 16
+    },
+    {
+      "source": "lançamento",
+      "target": "fevereiro",
+      "weight": 17
+    },
+    {
+      "source": "lançamento",
+      "target": "agosto",
+      "weight": 16
+    },
+    {
+      "source": "lançamento",
+      "target": "novembro",
+      "weight": 32
+    },
+    {
+      "source": "lançamento",
+      "target": "junho",
+      "weight": 18
+    },
+    {
+      "source": "lançamento",
+      "target": "gênero",
+      "weight": 11
+    },
+    {
+      "source": "lançamento",
+      "target": "maio",
+      "weight": 30
+    },
+    {
+      "source": "lançamento",
+      "target": "fem",
+      "weight": 69
+    },
+    {
+      "source": "fevereiro",
+      "target": "googlar",
+      "weight": 21
+    },
+    {
+      "source": "fevereiro",
+      "target": "inglês",
+      "weight": 19
+    },
+    {
+      "source": "fevereiro",
+      "target": "novembro",
+      "weight": 8
+    },
+    {
+      "source": "fevereiro",
+      "target": "maio",
+      "weight": 6
+    },
+    {
+      "source": "fevereiro",
+      "target": "artigo",
+      "weight": 14
+    },
+    {
+      "source": "fevereiro",
+      "target": "junho",
+      "weight": 7
+    },
+    {
+      "source": "excentricidade",
+      "target": "ua",
+      "weight": 10
+    },
+    {
+      "source": "maio",
+      "target": "artigo",
+      "weight": 21
+    },
+    {
+      "source": "maio",
+      "target": "agosto",
+      "weight": 7
+    },
+    {
+      "source": "maio",
+      "target": "junho",
+      "weight": 18
+    },
+    {
+      "source": "maio",
+      "target": "inglês",
+      "weight": 18
+    },
+    {
+      "source": "maio",
+      "target": "googlar",
+      "weight": 19
+    },
+    {
+      "source": "maio",
+      "target": "novembro",
+      "weight": 12
+    },
+    {
+      "source": "ponto",
+      "target": "médio",
+      "weight": 5
+    },
+    {
+      "source": "artigo",
+      "target": "novembro",
+      "weight": 41
+    },
+    {
+      "source": "artigo",
+      "target": "inglês",
+      "weight": 20
+    },
+    {
+      "source": "artigo",
+      "target": "junho",
+      "weight": 24
+    },
+    {
+      "source": "artigo",
+      "target": "agosto",
+      "weight": 38
+    },
+    {
+      "source": "artigo",
+      "target": "fonte",
+      "weight": 11
+    },
+    {
+      "source": "artigo",
+      "target": "francês",
+      "weight": 5
+    },
+    {
+      "source": "membro",
+      "target": "equipar",
+      "weight": 5
+    },
+    {
+      "source": "jogo",
+      "target": "equipar",
+      "weight": 10
+    },
+    {
+      "source": "jogo",
+      "target": "inglês",
+      "weight": 5
+    },
+    {
+      "source": "terra",
+      "target": "junho",
+      "weight": 5
+    },
+    {
+      "source": "novembro",
+      "target": "inglês",
+      "weight": 15
+    },
+    {
+      "source": "novembro",
+      "target": "googlar",
+      "weight": 35
+    },
+    {
+      "source": "novembro",
+      "target": "junho",
+      "weight": 9
+    },
+    {
+      "source": "googlar",
+      "target": "capar",
+      "weight": 415
+    },
+    {
+      "source": "googlar",
+      "target": "agosto",
+      "weight": 46
+    },
+    {
+      "source": "googlar",
+      "target": "junho",
+      "weight": 38
+    },
+    {
+      "source": "fonte",
+      "target": "abw",
+      "weight": 415
+    },
+    {
+      "source": "francês",
+      "target": "inglês",
+      "weight": 8
+    },
+    {
+      "source": "francês",
+      "target": "comuna",
+      "weight": 129
+    },
+    {
+      "source": "inglês",
+      "target": "agosto",
+      "weight": 16
+    },
+    {
+      "source": "inglês",
+      "target": "junho",
+      "weight": 16
+    },
+    {
+      "source": "criar",
+      "target": "mundo",
+      "weight": 5
+    },
+    {
+      "source": "agosto",
+      "target": "junho",
+      "weight": 5
+    },
+    {
+      "source": "capar",
+      "target": "abw",
+      "weight": 415
+    }
+  ]
+}

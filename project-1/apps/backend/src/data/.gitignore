@@ -1,0 +1,4 @@
+cswiki*.*
+*.json
+!.gitkeep
+!.gitignore
